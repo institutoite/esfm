@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Convocatoria ESFM/UA 2026 — Guía rápida</title>
+  <meta name="description" content="Guía rápida y buscable de la Convocatoria ESFM/UA 2026: menú, buscador, cronograma, requisitos, prueba y plazas por departamento." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"><img src="images/logo.png" alt="Logo ESFM/UA" style="height:40px;width:auto;" /></div>
+        <div>
+          <h1>Convocatoria ESFM/UA 2026</h1>
+          <div class="sub">Menú • Buscador • Plazas por departamento</div>
+        </div>
+      </div>
+
+      <div class="searchbar" role="search">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" stroke="currentColor" stroke-width="2"/>
+          <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input id="q" type="text" placeholder='Buscar: "pago", "prueba", "cronograma", "documentos"...' autocomplete="off" />
+        <div id="results" class="results" aria-live="polite">
+          <div class="results-header">
+            <span id="resultsCount">0 resultados</span>
+            <span>Enter abre el primero</span>
+          </div>
+          <div id="resultsList" class="results-list"></div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="menuBtn" class="btn menuBtn" type="button" title="Abrir menú" aria-controls="drawer">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <span>Menú</span>
+        </button>
+
+        <a class="btn primary" id="pdfBtn" href="files/Convocatoria-ESFM-2026.pdf" download>
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 3v10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path d="M8 11l4 4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <span>PDF oficial</span>
+        </a>
+       
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile drawer -->
+  <div id="drawerOverlay" class="drawerOverlay" aria-hidden="true"></div>
+  <aside id="drawer" class="drawer" aria-label="Menú móvil">
+    <div class="drawerHead">
+      <h3>Secciones</h3>
+      <button id="closeDrawer" class="btn" type="button" style="padding:8px 10px">
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span>Cerrar</span>
+      </button>
+    </div>
+    <nav id="drawerNav" class="drawerNav"></nav>
+  </aside>
+
+  <main class="wrap">
+    <!-- Desktop sidebar -->
+    <aside class="sidebar" aria-label="Menú de secciones">
+      <div class="sidebar-head">
+        <h2>Secciones</h2>
+        <span class="pill" id="activeHint">0% leído</span>
+      </div>
+      <nav class="nav" id="nav"></nav>
+    </aside>
+
+    <section>
+      <div class="hero" id="top">
+        <div class="hero-inner">
+          <div>
+            <h2>Guía rápida para postulantes</h2>
+            <p>
+              Resumen organizado para encontrar lo importante sin perder tiempo.
+              Descarga el PDF oficial: está marcado con los datos clave.
+            </p>
+          </div>
+          <div class="miniCard">
+            <h3>Datos rápidos</h3>
+            <p>
+              Convocatoria Pública N° 001/2025 • Gestión 2026 • Modalidad: Prueba académica virtual
+            </p>
+            <div class="small">Cupos dispobibles: <b>3.010</b></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid" id="content"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="foot">
+      <div>Fuente: Convocatoria oficial del Ministerio de Educación (Bolivia).</div>
+      <a class="smalllink" href="#top">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M12 19V5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          <path d="M6 11l6-6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Arriba
+      </a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
