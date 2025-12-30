@@ -1,3 +1,16 @@
+// Reproducir texto con voz (SpeechSynthesis)
+function playText(text) {
+  if (!window.speechSynthesis) {
+    alert('Tu navegador no soporta síntesis de voz.');
+    return;
+  }
+  window.speechSynthesis.cancel(); // Detener cualquier reproducción previa
+  const utter = new SpeechSynthesisUtterance(text.replace(/^Resumen:|^Respuesta original:/i, '').trim());
+  utter.lang = 'es-ES';
+  utter.rate = 1;
+  utter.pitch = 1;
+  window.speechSynthesis.speak(utter);
+}
 // Efecto clic y selección para datos importantes
 function setupImportantClickables() {
     // Fechas del cronograma (timeline): fecha y dato muestran selección, solo el dato crece
@@ -123,6 +136,24 @@ function setupImportantClickables() {
 }
 /* ========= Sections ========= */
     const SECTIONS = [
+            {
+              id: "examenes-gestion",
+              title: "Exámenes por gestión",
+              hint: "2000–2025",
+              tags: ["examenes", "gestion", "admision", "descarga", "años"],
+              meta: "Descarga exámenes de admisión por año",
+              snippet: "Accede a los exámenes de admisión de gestiones anteriores (2000–2025).",
+              content: `
+                <div class="examenes-lista">
+                  <ul class="examenes-ul" style="columns:2;max-width:400px">
+                    ${Array.from({length:26},(_,i)=>2000+i).map(y=>
+                      `<li><a class='examen-link' href='files/examenes/examen-${y}.pdf' download>Examen ${y}</a></li>`
+                    ).join('')}
+                  </ul>
+                  <div class="small">Haz clic en un año para descargar el examen correspondiente.</div>
+                </div>
+              `
+            },
       {
         id: "datos-clave",
         title: "Datos clave",
@@ -394,7 +425,14 @@ function setupImportantClickables() {
     const activeHint = document.getElementById("activeHint");
 
     function render(){
-      nav.innerHTML = SECTIONS.map(s => `
+      // Ordenar la sección de exámenes al final
+      const sectionsOrdered = SECTIONS.slice();
+      const exIdx = sectionsOrdered.findIndex(s => s.id === "examenes-gestion");
+      if (exIdx > -1) {
+        const ex = sectionsOrdered.splice(exIdx,1)[0];
+        sectionsOrdered.push(ex);
+      }
+      nav.innerHTML = sectionsOrdered.map(s => `
         <a href="#${s.id}" data-id="${s.id}">
           <span class="left">
             <span class="dot"></span>
@@ -404,14 +442,14 @@ function setupImportantClickables() {
         </a>
       `).join("");
 
-      drawerNav.innerHTML = SECTIONS.map(s => `
+      drawerNav.innerHTML = sectionsOrdered.map(s => `
         <a href="#${s.id}" data-id="${s.id}">
           <span>${esc(s.title)}</span>
           <span class="chip">${esc(s.hint)}</span>
         </a>
       `).join("");
 
-      content.innerHTML = SECTIONS.map(s => `
+      content.innerHTML = sectionsOrdered.map(s => `
         <article class="card" id="${s.id}"${s.id==='plazas-depto' ? ' data-plazas="true"' : ''}>
           <div class="head">
             <div>

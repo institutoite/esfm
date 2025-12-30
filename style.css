@@ -1,3 +1,153 @@
+/* Títulos grandes para bloques de pregunta/respuesta/resumen */
+.qa-title-big {
+  font-size: 1.35em;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin: 0.7em 0 0.2em 0;
+  color: #1a237e;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.qa-title-big + .qa-pregunta,
+.qa-title-big + .qa-respuesta,
+.qa-title-big + .qa-resumen {
+  margin-top: 0.1em;
+}
+/* Botón de reproducción (play) para respuestas y resúmenes */
+.play-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 0.5em;
+  vertical-align: middle;
+  padding: 4px 4px 4px 4px;
+  border-radius: 50%;
+  transition: background 0.2s;
+  outline: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.play-btn:hover, .play-btn:focus {
+  background: #e3e8f7;
+}
+.play-btn-white {
+  background: none;
+}
+.play-btn-white:hover, .play-btn-white:focus {
+  background: #26baa533;
+}
+/* === Resumen Repositorio ESFM === */
+.repo-summary {
+  margin: 2.5em auto 2em auto;
+  max-width: 900px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #26baa51a;
+  padding: 2em 2.5em;
+}
+.repo-summary h2 {
+  text-align: center;
+  color: #26baa5;
+  margin-bottom: 1.5em;
+}
+.qa-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+.qa-block {
+  background: #f7fbfb;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px #26baa511;
+  padding: 1.2em 1.5em 1.2em 1.5em;
+  border-left: 6px solid #26baa5;
+}
+.qa-label {
+  font-weight: bold;
+  color: #375f7a;
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+}
+.qa-title {
+  font-weight: bold;
+  color: #26baa5;
+  margin-right: 0.5em;
+}
+.qa-resumen .qa-title {
+  color: #fff;
+  text-shadow: 0 1px 4px #375f7a99;
+}
+.qa-pregunta, .qa-respuesta, .qa-resumen {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+.qa-pregunta {
+  color: #1a237e;
+  background: #e3e8f7;
+  border-radius: 8px;
+  padding: 0.7em 1em;
+  margin-bottom: 0.5em;
+}
+.qa-respuesta {
+  color: #375f7a;
+  background: #e0f7fa;
+  border-radius: 8px;
+  padding: 0.7em 1em;
+  margin-bottom: 0.5em;
+}
+.qa-resumen {
+  color: #fff;
+  background: linear-gradient(90deg, #26baa5 60%, #375f7a 100%);
+  border-radius: 8px;
+  padding: 0.7em 1em;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+/* Exámenes por gestión */
+.examenes-lista {
+  margin: 1.5em 0 0 0;
+  padding: 1em 1.5em;
+  background: #f8fafc;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0001;
+}
+.examenes-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.examenes-ul li {
+  margin-bottom: 0.3em;
+}
+.examen-link {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 6px;
+  color: #1a237e;
+  background: #e3e8f7;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.examen-link:hover, .examen-link.clicked {
+  background: #c5cae9;
+  color: #0d133d;
+  box-shadow: 0 2px 8px #1a237e22;
+}
+.examen-link .splash {
+  position: absolute;
+  border-radius: 50%;
+  background: #7986cb44;
+  pointer-events: none;
+  animation: splash-examen 0.4s linear;
+  z-index: 2;
+}
+@keyframes splash-examen {
+  from { opacity: 0.7; transform: scale(0.5); }
+  to { opacity: 0; transform: scale(2.2); }
+}
 .tl {
   display: flex;
   align-items: center;
