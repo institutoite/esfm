@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "Digital",
+    "pregunta": "Según el artículo, ¿cómo se define el concepto de brecha digital?",
+    "respuesta": "Sustento\nEl artículo establece explícitamente: “La brecha digital se define como la diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no lo pueden”.",
+    "resumen": "La brecha digital es la diferencia entre quienes pueden usar bien las TIC y quienes no tienen acceso ni habilidades para hacerlo."
+  },
+  {
+    "id": 2,
+    "clasificacion": "Digital",
+    "pregunta": "A partir de lo expuesto en el artículo, establecer la secuencia correcta de los siguientes indicadores de conectividad y acceso en Bolivia en 2023: (i) porcentaje de hogares urbanos con internet, (ii) porcentaje de hogares rurales con internet, (iii) porcentaje de estudiantes de primaria con acceso regular a banda ancha en el hogar, (iv) porcentaje de estudiantes de secundaria con acceso regular a banda ancha en el hogar.",
+    "respuesta": "Sustento\nLa tasa de acceso a internet en hogares urbanos es del 71% (INE, 2023); en zonas rurales es del 33% (INE, 2023); el 42% de los estudiantes de educación primaria tenía acceso regular a banda ancha en el hogar a finales de 2023; y el 58% de los estudiantes de secundaria contaba con ese acceso.",
+    "resumen": "En 2023 el acceso fue mayor en hogares urbanos (71%), luego secundaria (58%), primaria (42%) y finalmente hogares rurales (33%)."
+  },
+  {
+    "id": 3,
+    "clasificacion": "Digital",
+    "pregunta": "La lectura del texto permite identificar que, según el artículo, los pilares que deben integrar las políticas públicas para lograr una educación digital inclusiva en Bolivia son:",
+    "respuesta": "Sustento\nEn el artículo se afirma que las políticas públicas deben adoptar un enfoque sistémico que considere simultáneamente “la inversión en infraestructura, la formación continua de los docentes y la creación de entornos de aprendizaje colaborativos”, y se menciona además que la participación comunitaria es un pilar esencial.",
+    "resumen": "La educación digital inclusiva requiere infraestructura, capacitación docente, entornos colaborativos y participación comunitaria."
+  },
+  {
+    "id": 4,
+    "clasificacion": "Digital",
+    "pregunta": "Según el artículo, ¿qué universidad implementó el Programa de Formación Docente en Tecnologías Educativas (FOTED)?",
+    "respuesta": "Sustento\nEl artículo indica explícitamente que “la Universidad Mayor de San Andrés (UMSA) emprendió el Programa de Formación Docente en Tecnologías Educativas (FOTED)” y menciona los resultados alcanzados por esa iniciativa.",
+    "resumen": "El programa FOTED fue implementado por la Universidad Mayor de San Andrés (UMSA)."
+  },
+  {
+    "id": 5,
+    "clasificacion": "Digital",
+    "pregunta": "Considerando lo mencionado en el texto, ¿en qué porcentaje se redujo el costo promedio por kilómetro de fibra óptica respecto a estimaciones previas, según el Programa Nacional de Conectividad Rural?",
+    "respuesta": "Sustento\nEn el apartado de “Expansión de infraestructura” se indica que la alianza pública-privada permitió “reducir el costo promedio por kilómetro en un 15% respecto a estimaciones previas” (Ministerio de Obras Públicas, 2023).",
+    "resumen": "El costo por kilómetro de fibra óptica se redujo en un 15%."
+  },
+  {
+    "id": 6,
+    "clasificacion": "Digital",
+    "pregunta": "Del análisis presentado se desprende que la barrera principal para lograr una educación digital equitativa en Bolivia es…",
+    "respuesta": "Sustento\nEl artículo señala tres factores estructurales que perpetúan la brecha digital: (1) la cobertura de fibra óptica alcanza solo el 24% de los municipios, indicando una infraestructura insuficiente; (2) el 38% de las escuelas rurales carecen de al menos un computador por cada veinte estudiantes; y (3) solo el 27% de los docentes de secundaria había recibido capacitación formal en pedagogía digital antes de la pandemia. El texto enfatiza que la combinación de estos problemas es la razón principal de la limitación de la educación digital.",
+    "resumen": "La principal barrera es la combinación de poca infraestructura, falta de equipos y escasa capacitación docente."
+  },
+  {
+    "id": 7,
+    "clasificacion": "Digital",
+    "pregunta": "La lectura del texto permite identificar que, para cerrar la brecha de aprendizaje asociada a la falta de conectividad, es necesario:",
+    "respuesta": "Sustento\nEl artículo muestra que la brecha de aprendizaje se debe a una combinación de factores estructurales como infraestructura insuficiente, falta de dispositivos y escasa preparación docente, y que solo políticas integradas que incluyan estos elementos pueden cerrarla efectivamente.",
+    "resumen": "Para cerrar la brecha se necesita actuar a la vez en infraestructura, equipos y capacitación docente."
+  },
+  {
+    "id": 8,
+    "clasificacion": "Digital",
+    "pregunta": "La lectura del texto permite identificar que, para reducir la brecha de conectividad digital en Bolivia, la estrategia más eficaz es:",
+    "respuesta": "Sustento\nEl artículo muestra que ni la sola expansión de fibra óptica, ni solo los programas de dispositivos compartidos, ni únicamente la capacitación docente son suficientes, y que la combinación de todas estas acciones es la estrategia más eficaz.",
+    "resumen": "La estrategia más eficaz es combinar infraestructura, dispositivos y capacitación docente."
+  },
+  {
+    "id": 9,
+    "clasificacion": "Digital",
+    "pregunta": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la diferencia económica entre la expansión de la fibra óptica y los programas de dispositivos compartidos en Bolivia?",
+    "respuesta": "Sustento\nEl texto indica que la expansión de la fibra óptica redujo el costo promedio por kilómetro en un 15%, mientras que los programas de dispositivos compartidos redujeron la brecha de dispositivos en un 40%.",
+    "resumen": "La fibra óptica redujo costos en 15%, y los dispositivos compartidos redujeron la brecha en 40%."
+  },
+  {
+    "id": 10,
+    "clasificacion": "Digital",
+    "pregunta": "Del análisis presentado se desprende que, respecto a los actores involucrados en la reducción de la brecha digital en Bolivia, la estrategia más eficaz combina…",
+    "respuesta": "Sustento\nCerrar la brecha digital requiere la expansión de infraestructura, programas de dispositivos compartidos, capacitación docente y participación comunitaria, como se describe en distintos apartados del texto.",
+    "resumen": "La estrategia más eficaz combina infraestructura, dispositivos, capacitación docente y comunidad."
+  },
+  {
+    "id": 11,
+    "clasificacion": "Digital",
+    "pregunta": "Según la lectura, ¿cuál de los siguientes efectos en la educación rural se produce por la insuficiente cobertura de fibra óptica en municipios bolivianos?",
+    "respuesta": "Sustento\nLa escasa conectividad limita el uso de plataformas educativas, obliga a usar materiales pasivos y provoca rezago y deserción escolar en áreas rurales.",
+    "resumen": "La falta de fibra óptica provoca rezago y mayor deserción escolar rural."
+  },
+  {
+    "id": 12,
+    "clasificacion": "Digital",
+    "pregunta": "Según el artículo, considerando la expansión de la red de fibra óptica en comunidades campesinas y la implementación de radio enlace en zonas de difícil acceso, ¿qué es probable que ocurra en el desempeño académico de los estudiantes rurales dentro de los próximos tres años?",
+    "respuesta": "Sustento\nLos estudiantes con acceso regular a internet muestran un aumento del 12% en sus puntajes académicos, por lo que al ampliar la conectividad se espera una mejora similar en zonas rurales.",
+    "resumen": "Con más conectividad, los estudiantes rurales podrían mejorar alrededor de un 10–12% su rendimiento académico."
+  },
+  {
+    "id": 13,
+    "clasificacion": "Digital",
+    "pregunta": "A partir del artículo, al comparar la expansión de fibra óptica y la tecnología de radio enlace de corto alcance, ¿cuál de las siguientes afirmaciones refleja mejor la relación entre la topografía de la zona y la elección de la solución tecnológica?",
+    "respuesta": "Sustento\nLa fibra óptica se concentra en zonas urbanas, mientras que el radio enlace se aplica en regiones de difícil acceso como el Beni, donde la topografía impide el cableado tradicional.",
+    "resumen": "La fibra funciona mejor en zonas urbanas y el radio enlace en áreas rurales difíciles."
+  },
+  {
+    "id": 14,
+    "clasificacion": "Digital",
+    "pregunta": "Del análisis presentado se desprende que, para reducir la brecha de conectividad en la educación boliviana, la estrategia más eficaz consiste en…",
+    "respuesta": "Sustento\nLa expansión de infraestructura, los programas de dispositivos compartidos y la capacitación docente continua deben aplicarse de manera complementaria.",
+    "resumen": "La mejor estrategia es aplicar juntas infraestructura, equipos y capacitación docente."
+  },
+  {
+    "id": 15,
+    "clasificacion": "Digital",
+    "pregunta": "De acuerdo con el texto, ¿qué efecto probable tendría la ampliación de la cobertura de fibra óptica en municipios rurales sobre el rendimiento académico de los estudiantes?",
+    "respuesta": "Sustento\nAl mejorar el acceso a internet, los estudiantes rurales podrían alcanzar incrementos similares al 12% observado en estudiantes con conectividad regular.",
+    "resumen": "La ampliación de fibra óptica elevaría el rendimiento académico rural."
+  },
+  {
+    "id": 16,
+    "clasificacion": "Digital",
+    "pregunta": "La lectura del texto permite identificar que el propósito principal de combinar la expansión de infraestructura de fibra óptica, los programas de dispositivos compartidos y la capacitación docente continua es:",
+    "respuesta": "Sustento\nEstas acciones buscan cerrar gradualmente la brecha digital y mejorar la equidad educativa entre áreas urbanas y rurales.",
+    "resumen": "El objetivo es cerrar la brecha digital y mejorar la equidad educativa."
+  },
+  {
+    "id": 17,
+    "clasificacion": "Digital",
+    "pregunta": "Según el texto, a partir de los ejemplos presentados, ¿qué principio general se puede inferir sobre la estrategia más eficaz para reducir la brecha digital en Bolivia?",
+    "respuesta": "Sustento\nSolo mediante políticas integradas que incluyan infraestructura, equipamiento, capacitación y apoyo comunitario se podrá reducir la brecha digital de forma sostenible.",
+    "resumen": "La brecha digital solo se reduce con políticas integrales y sostenibles."
+  },
+  {
+    "id": 18,
+    "clasificacion": "Digital",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿qué consecuencia social general se puede inferir de la implementación de soluciones integrales de conectividad digital en las zonas rurales de Bolivia?",
+    "respuesta": "Sustento\nUna educación digital inclusiva mejora los resultados académicos y permite mayor participación en la sociedad del conocimiento.",
+    "resumen": "La conectividad digital mejora la equidad y la participación social."
+  },
+  {
+    "id": 19,
+    "clasificacion": "Digital",
+    "pregunta": "El artículo señala que, tras la capacitación docente en tecnologías educativas que elevó la confianza de los profesores en un 30%, ¿qué consecuencia podría deducirse en la práctica pedagógica?",
+    "respuesta": "Sustento\nEl aumento de confianza docente se traduce en mayor uso de actividades interactivas en clases híbridas.",
+    "resumen": "Docentes más capacitados usan más actividades interactivas."
+  },
+  {
+    "id": 20,
+    "clasificacion": "Digital",
+    "pregunta": "El artículo señala que la expansión de fibra óptica y los programas de dispositivos compartidos buscan reducir la brecha digital. ¿Cuál muestra un impacto más inmediato en la participación estudiantil?",
+    "respuesta": "Sustento\nLos programas de dispositivos compartidos mostraron efectos inmediatos, mientras que la fibra óptica tiene un impacto a mediano plazo.",
+    "resumen": "Los dispositivos compartidos generan resultados más rápidos que la fibra óptica."
+  },
+  {
+    "id": 21,
+    "clasificacion": "Digital",
+    "pregunta": "Basándose en la información proporcionada, ¿qué perspectiva ambiental relevante no ha sido considerada en el análisis del autor?",
+    "respuesta": "Sustento\nNo se analizan los efectos ambientales del despliegue de infraestructura digital, como consumo energético o impacto ecológico.",
+    "resumen": "No se consideran los impactos ambientales de la infraestructura digital."
+  },
+  {
+    "id": 22,
+    "clasificacion": "Digital",
+    "pregunta": "El artículo propone soluciones integrales, pero ¿qué perspectiva importante no se contempla en el análisis?",
+    "respuesta": "Sustento\nEl texto no menciona la inclusión de estudiantes con discapacidades ni la accesibilidad universal de las TIC.",
+    "resumen": "No se considera la accesibilidad para estudiantes con discapacidad."
+  },
+  {
+    "id": 23,
+    "clasificacion": "Digital",
+    "pregunta": "¿es suficiente la evidencia estadística para afirmar que la brecha de conectividad es la causa principal del bajo rendimiento académico rural?",
+    "respuesta": "Sustento\nLos datos son correlacionales y no permiten establecer causalidad directa.",
+    "resumen": "La evidencia no prueba una relación causal directa."
+  },
+  {
+    "id": 24,
+    "clasificacion": "Digital",
+    "pregunta": "¿cuáles son las principales implicaciones sociales de la brecha de conectividad descrita?",
+    "respuesta": "Sustento\nLa brecha digital amenaza la igualdad de oportunidades y perpetúa desigualdades socioeconómicas.",
+    "resumen": "La brecha digital mantiene y agrava las desigualdades sociales."
+  },
+  {
+    "id": 25,
+    "clasificacion": "Digital",
+    "pregunta": "El artículo sugiere un retorno económico inmediato de la inversión en conectividad. ¿Qué tan válido es este argumento?",
+    "respuesta": "Sustento\nNo se presentan estudios de costo-beneficio que confirmen un retorno económico inmediato.",
+    "resumen": "El retorno económico inmediato no está plenamente demostrado."
+  },
+  {
+    "id": 26,
+    "clasificacion": "Digital",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿qué factor relevante no ha sido considerado en el análisis?",
+    "respuesta": "Sustento\nNo se analiza el crecimiento urbano ni otros cambios de uso del suelo.",
+    "resumen": "No se considera el crecimiento urbano."
+  },
+  {
+    "id": 27,
+    "clasificacion": "Digital",
+    "pregunta": "¿qué tipo de evidencia fortalecería los argumentos del autor?",
+    "respuesta": "Sustento\nSerían necesarios estudios longitudinales y análisis multivariados.",
+    "resumen": "Faltan estudios a largo plazo y análisis más profundos."
+  },
+  {
+    "id": 28,
+    "clasificacion": "Digital",
+    "pregunta": "Según el texto, ¿qué principio general se puede inferir sobre las políticas de conectividad?",
+    "respuesta": "Sustento\nLas políticas deben ser integrales, evaluadas continuamente y adaptadas al contexto.",
+    "resumen": "Las políticas de conectividad deben ser integrales y adaptables."
+  },
+  {
+    "id": 29,
+    "clasificacion": "Digital",
+    "pregunta": "¿qué conclusión general puede extraerse sobre la educación digital inclusiva en Bolivia?",
+    "respuesta": "Sustento\nUna educación digital inclusiva mejora el rendimiento académico y fortalece la participación social.",
+    "resumen": "La educación digital inclusiva mejora el aprendizaje y la equidad social."
+  }
+]

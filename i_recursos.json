@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 1: El artículo señala que, para enfrentar la escasez hídrica en la cuenca del Río Desaguadero, se \nllevaron a cabo una serie de acciones encadenadas. ¿Cuál es el orden correcto de los actores involucrados, \ndesde la fase de monitoreo de los glaciares hasta la de reforestación de zonas alto andinas?",
+    "respuesta": "Sustento \nEl texto describe primero el monitoreo de glaciares mediante imágenes satelitales de USGS y NASA, luego la \npuesta en marcha del Programa de Gestión de Cuencas del Río Desaguadero impulsado por el Ministerio de \nMedio Ambiente y Agua en colaboración con la Universidad Mayor de San Andrés, y finalmente la reforestación \nde zonas alto andinas ejecutada por el Servicio Solar Boliviano a través del proyecto Bosques Andinos para el \nAgua.",
+    "resumen": "Orden: monitoreo satelital (USGS/NASA) → programa (MMAyA + UMSA) → reforestación (SSB/Bosques Andinos)."
+  },
+  {
+    "id": 2,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 2: Según el artículo, ¿en qué orden se describen las acciones que contribuyen a mitigar las \nimplicaciones económicas del retroceso glaciar en la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento \nEl artículo, en la sección ‘3. Estrategias de gestión sostenible y adaptación a largo plazo’, primero presenta \nla planificación integrada de cuencas (PIC) como herramienta esencial, después describe la reforestación de \nzonas altoandinas como un componente clave, y finalmente menciona la mitigación del cambio climático a nivel \nnacional, incluyendo la expansión de la generación hidroeléctrica, como paso posterior.",
+    "resumen": "Primero PIC, luego reforestación y al final mitigación nacional (incluida hidroeléctrica)."
+  },
+  {
+    "id": 3,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 3: A partir de lo expuesto en el artículo, ¿cuáles son los dos factores principales que han \nintensificado la fusión glaciar (M) en el Altiplano boliviano?",
+    "respuesta": "Sustento\nEl artículo indica claramente que “los factores que han intensificado M son dos: el aumento de la temperatura del \naire y la disminución de la nevada”.",
+    "resumen": "Subió la temperatura del aire y bajó la nevada."
+  },
+  {
+    "id": 4,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 4: El artículo señala que la planificación integrada de cuencas (PIC) busca coordinar a los \nsiguientes usuarios del agua, ¿cuáles son?",
+    "respuesta": "Sustento\nEn la sección ‘Estrategias de gestión sostenible y adaptación a largo plazo’ se indica que la planificación integrada \nde cuencas (PIC) “busca coordinar a todos los usuarios del agua—agricultores, gobiernos locales, compañías \nmineras y la sociedad civil.",
+    "resumen": "Coordina agricultores, gobiernos locales, mineras y sociedad civil."
+  },
+  {
+    "id": 5,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 5: De acuerdo con el texto, ¿cuáles son los sectores económicos que se ven afectados \ndirectamente por la reducción del aporte glaciar en la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento\nEn la sección ‘Consecuencias hidrológicas y sociales del retroceso’ se menciona que la disminución del aporte \nglaciar afecta la agricultura de riego (quinua), la extracción de sal del Salar de Uyuni y el consumo doméstico en \nciudades como Oruro y La Paz. Además, en el apartado de ‘Estrategias de gestión sostenible’ se indica que la \ngeneración hidroeléctrica ha crecido un 45% entre 2015 y 2022, lo que la vincula directamente al recurso hídrico \nglaciar. La industria minera también se menciona como uno de los actores involucrados en los conflictos por el \nagua.",
+    "resumen": "Afecta agricultura (quinua), sal (Uyuni), consumo urbano, hidroeléctrica y también se menciona minería por conflictos."
+  },
+  {
+    "id": 6,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 6: A partir de lo expuesto en el artículo, ¿cómo define el artículo la Planificación Integrada de \nCuencas (PIC)?",
+    "respuesta": "Sustento\nEl artículo describe la Planificación Integrada de Cuencas (PIC) como ‘una herramienta esencial’ que ‘busca \ncoordinar a todos los usuarios del agua—agricultores, gobiernos locales, compañías mineras y la sociedad \ncivil— para equilibrar la oferta y la demanda, considerando tanto la variabilidad climática como los cambios \nestructurales.’",
+    "resumen": "La PIC coordina usuarios del agua para equilibrar oferta y demanda considerando clima y cambios estructurales."
+  },
+  {
+    "id": 7,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 7: A partir de lo expuesto en el artículo, ¿qué consecuencia se puede deducir de la disminución \ndel aporte glaciar al caudal del Río Desaguadero?",
+    "respuesta": "Sustento \nEl artículo indica que los glaciares aportan entre el 20% y el 30% del caudal medio anual del Río Desaguadero \ny que la reducción de este aporte afecta la disponibilidad de agua para agricultura y consumo (párrafo 2 de \nConsecuencias hidrológicas). Además, señala que “la escasez hídrica ha intensificado conflictos por el uso del \nagua entre agricultores, industrias mineras y comunidades indígenas”. Inferimos que la disminución del aporte \nglaciar es la causa subyacente del aumento de los conflictos.",
+    "resumen": "Menos aporte glaciar → menos agua para riego/consumo → más conflictos por el agua."
+  },
+  {
+    "id": 8,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 8: De acuerdo con el texto, si la reducción de la superficie glaciar del Altiplano continúa y no se \nrefuerzan significativamente las medidas de planificación integrada de cuencas, ¿qué es probable que \nocurra con la disponibilidad de agua para la agricultura en la cuenca del Río Desaguadero durante los \npróximos diez años?",
+    "respuesta": "Sustento\nEl artículo indica que los glaciares aportan entre el 20% y el 30% del caudal medio anual del Río Desaguadero \ny que la reducción de este aporte ya ha causado una disminución del 25% en la superficie cultivable durante \nla última década. Además, se señala que, sin la intensificación de la planificación integrada de cuencas y otras \nmedidas de adaptación, la tendencia de pérdida glaciar continuará, lo que implicará una menor disponibilidad de \nagua para riego y, por ende, una mayor reducción de la superficie agrícola.",
+    "resumen": "Si sigue el retroceso y no se refuerza la PIC, habrá menos agua de riego y se reducirá más la superficie agrícola."
+  },
+  {
+    "id": 9,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 9: Del análisis presentado se desprende que, comparando los datos estadísticos del artículo, la \nreducción porcentual de la superficie glaciar entre 1970 y 2020 es:",
+    "respuesta": "Sustento\nEl texto indica que la superficie glaciar pasó de 1 250 km² en 1970 a 730 km² en 2020, lo que representa una \nreducción del 40% en cincuenta años. Asimismo, menciona que los agricultores han reportado una reducción \ndel 25% en la superficie cultivable de quinua durante los últimos diez años. Al comparar ambos porcentajes, la \npérdida glaciar (40%) es mayor que la pérdida de superficie cultivable (25%).",
+    "resumen": "La pérdida glaciar fue 40% (mayor que la caída de 25% en superficie cultivable)."
+  },
+  {
+    "id": 10,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 10: Del análisis presentado se desprende que, para enfrentar el retroceso glaciar y sus impactos \nhídricos, el principio general que se debe aplicar respecto a los actores involucrados es:",
+    "respuesta": "Sustento \nEl artículo describe varias iniciativas donde actúan el Ministerio de Medio Ambiente y Agua, la Universidad Mayor \nde San Andrés, organizaciones comunitarias y proyectos de reforestación, resaltando la planificación integrada \nde cuencas como una herramienta que requiere la coordinación de gobiernos, academia y comunidades. Esta \ncolaboración es presentada como esencial para la resiliencia hídrica.",
+    "resumen": "Principio: coordinación entre gobierno, academia y comunidades (trabajo conjunto)."
+  },
+  {
+    "id": 11,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 11: Del análisis presentado se desprende que, ante la reducción del aporte glaciar al caudal del \nRío Desaguadero y sus repercusiones sobre la agricultura y el consumo urbano, la tendencia general es \nque la dependencia de fuentes de agua no glaciares debe incrementarse mediante…",
+    "respuesta": "Sustento\nEl artículo destaca que la planificación integrada de cuencas (PIC) es la herramienta esencial para coordinar \na agricultores, gobiernos, minería y sociedad civil, buscando equilibrar oferta y demanda de agua ante la \ndisminución del aporte glaciar. Se menciona el Programa de Gestión de Cuencas del Río Desaguadero, que \ncombina monitoreo satelital y riego por goteo, logrando una reducción del consumo de agua en un 30%, \nevidenciando que la combinación de gestión integrada y riego eficiente es la estrategia principal para mitigar \nla escasez.",
+    "resumen": "Aumentar fuentes no glaciares con PIC + riego eficiente (goteo) y monitoreo; el goteo ahorra 30%."
+  },
+  {
+    "id": 12,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 12: Del análisis presentado se desprende que, al comparar el impacto estimado de la reforestación \nde zonas altoandinas con el de la tecnificación de riego en la mitigación de la escasez hídrica, ¿cuál de \nlas siguientes afirmaciones es correcta?",
+    "respuesta": "Sustento\nEl texto indica que la tecnificación de riego mediante sistemas de riego por goteo “reduce el consumo de agua \nen un 30%” y que el proyecto Bosques Andinos para el Agua “generando un aumento del 12% en la recarga de \nacuíferos”. Estas dos cifras permiten comparar directamente ambos efectos, mostrando que la reducción del \nconsumo de agua (30%) es mayor que el aumento de recarga de acuíferos (12%).",
+    "resumen": "El riego tecnificado (30%) tiene mayor efecto que la reforestación en recarga (12%)."
+  },
+  {
+    "id": 13,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 13: Basándose en la información proporcionada, ¿cuál es el propósito fundamental de \nimplementar la Planificación Integrada de Cuencas (PIC) en la gestión del retroceso glaciar del Altiplano \nboliviano?",
+    "respuesta": "Sustento\nEl texto describe la PIC como una herramienta esencial que “busca coordinar a todos los usuarios del agua—\nagricultores, gobiernos locales, compañías mineras y la sociedad civil—para equilibrar la oferta y la demanda, \nconsiderando tanto la variabilidad climática como los cambios estructurales”.",
+    "resumen": "Coordinar a todos para equilibrar oferta y demanda de agua ante variabilidad climática y cambios estructurales."
+  },
+  {
+    "id": 14,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 14: Del análisis presentado se desprende que la adopción de la planificación integrada de \ncuencas (PIC) en la cuenca del Río Desaguadero tendrá como consecuencia probable:",
+    "respuesta": "Sustento\nEl texto indica que la planificación integrada de cuencas (PIC) busca “coordinar a todos los usuarios del agua—\nagricultores, gobiernos locales, compañías mineras y la sociedad civil—para equilibrar la oferta y la demanda” \n(sección 3). Además, en la sección 2 se describe que la escasez hídrica ha “intensificado conflictos por el uso del \nagua entre agricultores, industrias mineras y comunidades indígenas”. Al inferir que la coordinación y el balance \nque proporciona la PIC mitigan la escasez percibida, se deduce que los conflictos disminuyen.",
+    "resumen": "Con PIC es probable que bajen los conflictos por el agua al mejorar coordinación y equilibrio."
+  },
+  {
+    "id": 15,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 15: Basándose en la información proporcionada, ¿qué principio general se puede extraer sobre \nla manera en que la gestión del agua debe responder al retroceso de los glaciares en el Altiplano?",
+    "respuesta": "Sustento \nEl artículo indica que la planificación integrada de cuencas (PIC) coordina a agricultores, gobiernos, industrias y \nla sociedad civil, y que el Programa de Gestión de Cuencas del Río Desaguadero incorpora monitoreo satelital, \nmediciones de caudales en tiempo real y riego por goteo que reduce el consumo de agua en un 30%. Además, se \nmenciona que la reforestación de zonas altoandinas ha aumentado la recarga de acuíferos en un 12%. Estas tres \nacciones combinadas constituyen el principio general de que una gestión integrada y multifacética es esencial \npara compensar la pérdida de aporte glacial.",
+    "resumen": "Principio: gestión integrada y con varias acciones (monitoreo, goteo -30%, reforestación +12%)."
+  },
+  {
+    "id": 16,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 16: La lectura del texto permite identificar que, considerando la reducción del aporte glaciar al \ncaudal seco estacional y la implementación del sistema de riego por goteo que disminuye el consumo de \nagua en un 30%, la combinación de ambos factores probablemente resultará en…",
+    "respuesta": "Sustento\nEl texto indica que la reducción del aporte glaciar ha mermado el caudal seco estacional, afectando la disponibilidad \nhídrica para la agricultura (se menciona una reducción del 25% de la superficie cultivable). Paralelamente, se \nseñala que el programa de riego por goteo reduce el consumo de agua en un 30%. Al combinar ambos hechos, \nse infiere que el ahorro generado por el riego tecnificado puede compensar, al menos parcialmente, la pérdida de \nagua proveniente de los glaciares, originando una mejora neta en la disponibilidad de agua para la agricultura.",
+    "resumen": "El ahorro del goteo (30%) puede compensar parte del agua perdida por glaciares y mejorar la disponibilidad agrícola."
+  },
+  {
+    "id": 17,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 17: A partir de lo expuesto en el artículo, ¿cuál es la diferencia esencial entre la intervención de \nriego tecnificado y la de reforestación en la gestión sostenible del agua en la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento \nEn la descripción de las dos estrategias en el apartado 3 del artículo. El Programa de Gestión de Cuencas del \nRío Desaguadero incluye sistemas de riego tecnificado que reducen el consumo de agua en un 30% mediante \nriego por goteo. Por otro lado, el proyecto ‘Bosques Andinos para el Agua’ ha logrado un aumento del 12% en la \nrecarga de acuíferos gracias a la reforestación de zonas altoandinas. Así, una medida actúa sobre la demanda \n(riegos) y la otra sobre la oferta (recarga).",
+    "resumen": "Goteo reduce demanda (ahorra 30%); reforestación aumenta oferta (recarga +12%)."
+  },
+  {
+    "id": 18,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 18: Según el artículo, ¿qué es probable que ocurra si la tendencia de retroceso glaciar observada \nen los últimos cincuenta años continúa sin que se amplíen las medidas de gestión sostenible?",
+    "respuesta": "Sustento\nEl artículo indica que los glaciares aportan entre el 20% y el 30% del caudal medio anual del Río Desaguadero \ny que la superficie glaciar ha disminuido un 40% en cincuenta años. Si la tasa de retroceso observada persiste, \nla masa glaciar seguirá reduciéndose, lo que disminuirá la cantidad de agua de deshielo disponible durante \nla estación seca. Dado este escenario, es razonable inferir que la contribución glaciar podría caer por debajo \ndel 10% del caudal total, aumentando la vulnerabilidad hídrica y, conforme se describe en el texto, generando \nmayores conflictos por el uso del agua entre los distintos usuarios.",
+    "resumen": "Sin más medidas, bajará el agua de deshielo; el aporte podría caer <10%, sube vulnerabilidad y conflictos."
+  },
+  {
+    "id": 19,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 19: De acuerdo con el texto, ¿cuál de las siguientes situaciones es una consecuencia probable \na mediano plazo de la continua disminución del aporte de agua glaciar a la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento\nEl artículo indica que los glaciares aportan entre el 20% y el 30% del caudal medio anual del Río Desaguadero, \ny que la generación hidroeléctrica se ha beneficiado de estos aportes, mostrando un crecimiento del 45% entre \n2015 y 2022. Dado que la tendencia de retroceso glaciar continuará reduciendo el aporte de agua durante la \nestación seca, se infiere que la disponibilidad de caudales para la generación hidroeléctrica disminuirá, limitando \nla producción de energía y aumentando la necesidad de fuentes no renovables.",
+    "resumen": "Menos agua glaciar en época seca → menos caudal para hidroeléctrica → baja producción y se depende más de fuentes no renovables."
+  },
+  {
+    "id": 20,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 20: Según el artículo, ¿cuál de las siguientes medidas muestra el mayor efecto porcentual \nestimado para mitigar la escasez hídrica en la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento \nEl texto indica que la tecnificación del riego reduce el consumo de agua en un 30% (sección 3), mientras que la \nreforestación genera un aumento del 12% en la recarga de acuíferos (sección 3) y el crecimiento de la generación \nhidroeléctrica del 45% se refiere a energía, no a un ahorro directo de agua. Los programas de educación, aunque \nimportantes, no aportan un dato porcentual.",
+    "resumen": "La medida con mayor efecto es el riego tecnificado: reduce consumo 30%."
+  },
+  {
+    "id": 21,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 21: De acuerdo con el texto, ¿qué es probable que ocurra si la tendencia de retroceso glaciar \nobservada en las últimas cinco décadas continúa durante los próximos diez años?",
+    "respuesta": "Sustento\nEl artículo indica que la superficie glaciar ha disminuido un 40% en cincuenta años y que los glaciares aportan \nentre el 20% y el 30% del caudal medio anual del Río Desaguadero. Además, se menciona que el balance de \nmasa glaciar es negativo y que tanto el aumento de la temperatura como la disminución de la nevada continúan. \nSi esas tendencias persisten, la proporción de aporte glaciar al caudal probablemente bajará aún más, pudiendo \ncaer bajo el 15% en la próxima década, lo que incrementaría la vulnerabilidad hídrica para la agricultura y el \nconsumo urbano.",
+    "resumen": "En 10 años podría bajar el aporte glaciar a menos de 15%, aumentando la vulnerabilidad para riego y ciudades."
+  },
+  {
+    "id": 22,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 22: La lectura del texto permite identificar que, para mitigar la pérdida de aportes hídricos \nglaciares en la cuenca del Río Desaguadero, se propone la reforestación de zonas altoandinas. Si se \nquisiera trasladar esta estrategia al contexto histórico de la cuenca del río Santa en Perú durante la \ndécada de 1990, ¿qué medida sería la más adecuada según los principios expuestos en el artículo?",
+    "respuesta": "Sustento\nEl artículo describe la reforestación de zonas altoandinas como un componente clave de la gestión sostenible: se \nmenciona que proyectos como ‘Bosques Andinos para el Agua’ plantaron más de 1,5 millones de árboles nativos, \nlo que generó un aumento del 12% en la recarga de acuíferos al favorecer la captura de humedad atmosférica. \nTrasladar esa misma lógica a la cuenca del río Santa en los años 90 implicaría usar especies nativas de alta \nmontaña para los mismos efectos. Las demás opciones no reflejan el enfoque del texto: la plantación de especies \nexóticas no está contemplada y podría disminuir la eficiencia hídrica; la construcción de presas corresponde a \nuna estrategia de almacenamiento que no está vinculada a la reforestación descrita; y el riego por inundación \ncontraviene la tecnificación del riego por goteo que busca reducir el consumo de agua, no aumentarlo.",
+    "resumen": "Aplicar reforestación con especies nativas de alta montaña (no exóticas, ni presas, ni riego por inundación)."
+  },
+  {
+    "id": 23,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 23: Basándose en la información proporcionada, ¿cuál es la limitación más significativa del \nenfoque de planificación integrada de cuencas (PIC) descrito en el artículo?",
+    "respuesta": "Sustento\nEl artículo destaca que la PIC busca coordinar a agricultores, gobiernos, mineras y la sociedad civil, pero implica \nuna cooperación institucional permanente y recursos para monitoreo y riego tecnificado. No se menciona que esta \ncoordinación sea automática; por ello, la necesidad de una gestión interinstitucional constante y de financiamiento \nestable se presenta como la limitación más crítica.",
+    "resumen": "La mayor limitación es que requiere coordinación permanente y financiamiento estable."
+  },
+  {
+    "id": 24,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 24: La lectura del texto permite identificar que la perspectiva futura más clara para garantizar la \nsostenibilidad hídrica en el Altiplano boliviano es:",
+    "respuesta": "Sustento \nEl artículo señala en la sección 3 que “la planificación integrada de cuencas (PIC) emerge como una herramienta \nesencial” para abordar la escasez hídrica, al coordinar a agricultores, gobiernos, minería y sociedad civil y al \ncontemplar tanto la variabilidad climática como los cambios estructurales.",
+    "resumen": "La perspectiva más clara es fortalecer la PIC como herramienta central."
+  },
+  {
+    "id": 25,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 25: El artículo señala que, a diferencia de la visión común de depender principalmente de \nla extracción de agua subterránea para afrontar la escasez hídrica en el Altiplano, la estrategia futura \nenfatiza la gestión integrada, la reforestación y la transición energética. ¿Cuál de las siguientes opciones \nrefleja adecuadamente esa perspectiva del texto?",
+    "respuesta": "Sustento\nEl artículo, en la sección 3 de desarrollo, describe la combinación de planificación integrada de cuencas (PIC), \nreforestación de zonas altoandinas que aumentó en un 12% la recarga de acuíferos, y la transición a energías \nrenovables como pilares de la gestión sostenible. Además, menciona que el Programa de Gestión de Cuencas \ndel Río Desaguadero incluye riego tecnificado que reduce el consumo de agua en un 30%, lo que disminuye la \nnecesidad de bombeo subterráneo.",
+    "resumen": "La estrategia futura es PIC + reforestación (+12% recarga) + transición energética, más riego tecnificado (-30%)."
+  },
+  {
+    "id": 26,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 26: Basándose en la información proporcionada, ¿qué perspectiva ambiental importante no es \nconsiderada en el análisis del autor sobre la gestión sostenible de los recursos hídricos del Altiplano?",
+    "respuesta": "Sustento\nEl texto describe detalladamente la reforestación, la contribución del deshielo al caudal y la creciente demanda \nagrícola, pero solo menciona la generación hidroeléctrica como una solución sin analizar sus posibles efectos \nadversos sobre ecosistemas acuáticos o flujos ecológicos. No se discuten, por ejemplo, la fragmentación de \nhábitats o la alteración de regímenes de caudal que pueden derivarse de la construcción o ampliación de \nrepresas, lo que constituye una perspectiva ambiental omitida.",
+    "resumen": "No se analiza el impacto ambiental de represas/hidroeléctricas (ecosistemas, fragmentación y caudales ecológicos)."
+  },
+  {
+    "id": 27,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 27: A partir de lo expuesto en el artículo, ¿cómo debería adaptarse la estrategia de planificación \nintegrada de cuencas (PIC) para la cuenca del río Santa en el norte de Perú, considerando sus diferencias \nclimáticas y socioeconómicas respecto a la cuenca del Desaguadero?",
+    "respuesta": "Sustento \nSegún el artículo, la planificación integrada de cuencas (PIC) en Bolivia combina monitoreo satelital, riego por \ngoteo que reduce el consumo en un 30% y reforestación que incrementa la recarga de acuíferos en un 12%. Al \ntrasladar esta estrategia al río Santa, es necesario adaptar esos componentes a una cuenca donde el aporte \nglaciar es menor y la precipitación es más estacional; por ello, la respuesta propone priorizar la captación de agua \nde lluvia y la gestión de embalses, además de mantener los elementos exitosos de monitoreo, riego tecnificado y \nreforestación, y reforzar la gobernanza indígena, lo cual refleja un análisis crítico y contextualizado.",
+    "resumen": "En el río Santa habría que adaptar: más captación de lluvia y embalses, manteniendo monitoreo, goteo y reforestación, y reforzando gobernanza indígena."
+  },
+  {
+    "id": 28,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 28: Según el artículo, ¿qué tipo de evidencia adicional sería necesaria para reforzar de manera \nconvincente la afirmación de que la reforestación de zonas altoandinas incrementa significativamente la \nrecarga de acuíferos en la cuenca del Río Desaguadero?",
+    "respuesta": "Sustento\nEl artículo menciona que la reforestación ha generado un aumento del 12% en la recarga de acuíferos según \nestudios del Servicio Solar Boliviano, pero no especifica la metodología usada. Para validar robustamente esa \nafirmación se requerirían series temporales de datos hidrológicos (niveles de agua subterránea) obtenidos tanto \nen zonas reforestadas como en áreas de referencia sin intervención, lo que permitiría demostrar una relación \ncausal y cuantificar el efecto.",
+    "resumen": "Se necesitan datos en el tiempo (niveles de agua subterránea) comparando zonas reforestadas vs. control."
+  },
+  {
+    "id": 29,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 29: Basándose en la información proporcionada, ¿cómo se contrasta la idea frecuente de que \nla pérdida de glaciares afecta principalmente al turismo con la realidad descrita en el artículo respecto a \nlos problemas socio económicos del Altiplano boliviano?",
+    "respuesta": "Sustento\nEn la sección de consecuencias hidrológicas y sociales se indica que los glaciares aportan entre el 20% y el 30% \ndel caudal medio anual del Desaguadero y que su reducción impacta agricultura, extracción de sal, consumo \nurbano y genera conflictos y migraciones (párrafos bajo el ítem 2).",
+    "resumen": "No es solo turismo: afecta agua (20–30% del caudal), agricultura, sal, ciudades; y provoca conflictos y migración."
+  },
+  {
+    "id": 30,
+    "clasificacion": "recursos_hidricos",
+    "pregunta": "Pregunta 30: A partir de lo expuesto en el artículo, ¿cuál de las siguientes afirmaciones resume mejor la \nimplicación ética más relevante que surge al considerar tanto la reducción de consumo hídrico mediante \nriego tecnificado (30% de ahorro) como el aumento de la recarga de acuíferos mediante reforestación \n(12% de incremento) en el contexto del retroceso glaciar del Altiplano boliviano?",
+    "respuesta": "Sustento\nEl artículo indica que el riego tecnificado reduce el consumo de agua en un 30% (sección 3) y que la reforestación \nde zonas altoandinas genera un aumento del 12% en la recarga de acuíferos (sección 3). Ambas medidas \naportan beneficios complementarios: el riego por goteo aborda la necesidad inmediata de agua para la agricultura, \nmientras que la reforestación mejora la capacidad de infiltración y la resiliencia ecosistémica a largo plazo. El texto \nsubraya que la planificación integrada de cuencas debe coordinar a todos los usuarios y combinar estrategias, lo \nque implica que una acción aislada no es suficiente desde un punto de vista ético.",
+    "resumen": "Goteo ahorra 30% y reforestación sube recarga 12%; éticamente se necesita plan integral y coordinación, no acciones aisladas."
+  }
+]

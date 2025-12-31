@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 1: La lectura del texto permite identificar que el artículo define el concepto de “vector” como:",
+    "respuesta": "Sustento\nLa definición correcta se encuentra en la Introducción del artículo, donde se indica: “vectores —organismos que \ntransmiten patógenos a los humanos—”.",
+    "resumen": "Un “vector” es un organismo que transmite patógenos a los humanos."
+  },
+  {
+    "id": 2,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 2: Según el artículo, ¿cuáles son los problemas climáticos identificados que favorecen el aumento de enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento\nEn la sección ‘Cambio climático y manifestaciones locales’ del artículo se enumeran tres problemas climáticos \nque inciden directamente en la proliferación de vectores: (i) el aumento de la temperatura media anual (0,6 °C \nentre 2000 y 2022); (ii) la variabilidad y los extremos de precipitación, con lluvias intensas e inundaciones que \ngeneran criaderos temporales; y (iii) la elevación del nivel de los lagos andinos, como el Titicaca, que crea \nnuevos hábitats de mosquitos. Estas tres condiciones aparecen textualmente y están vinculadas al incremento \nde enfermedades.",
+    "resumen": "Los 3 problemas son: más temperatura (+0,6 °C), lluvias extremas/sequías, y subida de lagos (Titicaca) que crea hábitats de mosquitos."
+  },
+  {
+    "id": 3,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 3: La lectura del texto permite identificar que la medida adoptada en la ciudad de Santa Cruz, bajo la iniciativa “Ciudades Verdes”, generó una disminución del 30% en la densidad de larvas de Aedes en los barrios piloto. ¿Cuál de las siguientes describe exactamente esa medida?",
+    "respuesta": "Sustento\nEn el apartado ‘Planeación urbana resiliente’ se indica que la iniciativa “Ciudades Verdes” en Santa Cruz, que \nincorpora techos verdes y superficies permeables, redujo en un 30% la densidad de larvas de Aedes en barrios \npiloto.",
+    "resumen": "La medida fue usar techos verdes y superficies permeables."
+  },
+  {
+    "id": 4,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 4: De acuerdo al artículo, ¿qué enfermedades transmitidas por vectores han aumentado en Bolivia según los datos presentados?",
+    "respuesta": "Sustento\nEl artículo reporta incrementos claros en la incidencia de tres enfermedades transmitidas por vectores: dengue \n(62 000 casos confirmados en 2023, aumento respecto a la década anterior), malaria (aumento del 28% de casos \nautóctonos entre 2015 y 2022) y enfermedad de Chagas (expansión de triatominos y mayor contacto humano en \nregiones rurales). Estas tres se describen específicamente en la sección ‘Vectores y enfermedades emergentes \nen Bolivia’.",
+    "resumen": "Aumentaron dengue (62.000 en 2023), malaria (+28% 2015–2022) y Chagas (más contacto con triatominos)."
+  },
+  {
+    "id": 5,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 5: La lectura del texto permite identificar que las implicaciones económicas que se mencionan al implementar las estrategias sostenibles de mitigación y adaptación son:",
+    "respuesta": "Sustento\nLa mitigación y adaptación sostenible conlleva beneficios económicos: (1) la reducción de la incidencia de \ndengue, malaria y Chagas implica menores gastos en atención sanitaria; (2) la transición a fuentes de energía \nlimpias mejora la seguridad energética y permite la operación continua de refrigeración para vacunas, como se \nindica en la sección de políticas de reducción de emisiones; (3) los sistemas de tratamiento de aguas residuales \nbasados en humedales construidos capturan carbono y favorecen la biodiversidad, lo que genera ahorro en \nservicios ecosistémicos; y (4) la iniciativa “Ciudades Verdes” reduce la huella de carbono urbana y mejora la \ncalidad del aire, lo que se traduce en menores costos asociados a la contaminación.",
+    "resumen": "Bajan costos de salud, mejora la cadena de frío con energía limpia, humedales ahorran servicios ecosistémicos y “Ciudades Verdes” reduce costos por contaminación."
+  },
+  {
+    "id": 6,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 6: Considerando lo mencionado en el texto, ¿qué conclusión se puede extraer sobre el papel de los distintos actores (gobierno, organizaciones internacionales y comunidad local) en la mitigación de las enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento\nLa gestión del agua y saneamiento se lleva a cabo mediante programas del Gobierno en colaboración con la \nAgencia Alemana de Cooperación Internacional (GIZ), que la educación y la participación comunitaria a través \nde radio y líderes locales mejoran la eliminación de criaderos, y que la planificación urbana resiliente – una \npolítica pública – complementa estas acciones. Esta interdependencia de gobierno, organismos internacionales \ny comunidad local se describe como esencial para reducir la vulnerabilidad a largo plazo.",
+    "resumen": "Se necesita trabajo conjunto: gobierno + GIZ + comunidad (radio/líderes) + políticas urbanas."
+  },
+  {
+    "id": 7,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 7: Basándose en la información proporcionada, ¿qué es probable que ocurra en los próximos cinco años en las ciudades de los valles de Bolivia si no se implementan medidas de gestión integral del agua?",
+    "respuesta": "Sustento\nEl aumento de la temperatura y la variabilidad de precipitaciones favorecen la reproducción acelerada de Aedes \naegypti y que la falta de gestión del agua crea recipientes descubiertos que funcionan como criaderos perfectos, \nespecialmente en ciudades de los valles como Santa Cruz, El Alto y Cochabamba. Además, se señala que la \nexpansión urbana desordenada y el almacenamiento de agua sin tapa impulsan la endemicidad del dengue. Por \nel contrario, la malaria, aunque también se ve favorecida por temperaturas más altas, sigue concentrándose en \nzonas amazónicas y su expansión urbana es menos pronunciada; la enfermedad de Chagas está vinculada a \ntriatominos rurales, no a la gestión del agua urbana. Por lo tanto, sin medidas de gestión integral del agua, es más \nprobable que el dengue experimente un aumento notable y sobresalga frente a la malaria en los valles.",
+    "resumen": "Sin gestión del agua, el dengue probablemente aumentará fuerte en los valles (más que malaria)."
+  },
+  {
+    "id": 8,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 8: Basándose en la información proporcionada, ¿cuál de los siguientes efectos es más probable que se produzca si se amplía la iniciativa “Ciudades Verdes” a otras áreas urbanas de Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que la iniciativa “Ciudades Verdes” en Santa Cruz logró una reducción del 30% en la densidad \nde larvas de Aedes al disminuir la acumulación de agua estancada mediante techos verdes y superficies \npermeables. Implícitamente, al bajar la densidad larvaria se espera una menor transmisión del dengue, aunque \nel texto no lo menciona explícitamente.",
+    "resumen": "Si se amplía, bajarán larvas y es probable que baje la transmisión de dengue."
+  },
+  {
+    "id": 9,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 9: A partir de lo expuesto en el artículo, ¿qué consecuencia se puede deducir del aumento de la temperatura media y de la mayor variabilidad de precipitaciones sobre la malaria en Bolivia?",
+    "respuesta": "Sustento\nEl incremento de la temperatura media (0,6 °C entre 2000 y 2022) extiende el periodo de transmisión del Anopheles \ny que la malaria ha aumentado un 28% entre 2015 y 2022, registrándose también en zonas previamente libres \ncomo el Chapare. Esta combinación de factores climáticos sugiere que áreas de bajo riesgo verán más casos \nde malaria.",
+    "resumen": "La malaria puede expandirse a zonas de bajo riesgo (como Chapare) y aumentar casos."
+  },
+  {
+    "id": 10,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 10: El artículo señala que el uso de herramientas de modelado climático y ecológico permite anticipar la expansión de vectores; ¿qué efecto es probable que ocurra si se amplía su aplicación a nivel nacional?",
+    "respuesta": "Sustento\nLa sección ‘Monitoreo ecológico y modelado predictivo’ indica que los modelos basados en temperatura, humedad \ny uso del suelo pueden predecir áreas de alto riesgo con varios meses de antelación, facilitando la asignación de \nrecursos y la planificación de campañas de control vectorial. Por lo tanto, al expandir su uso a nivel nacional, se \nespera una respuesta más temprana y focalizada, lo que consecuentemente debería disminuir la incidencia de \nenfermedades como dengue y malaria en esas áreas.",
+    "resumen": "Con modelado nacional, habrá respuesta más temprana y focalizada y debería bajar dengue/malaria en zonas de riesgo."
+  },
+  {
+    "id": 11,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 11: Según el artículo, ¿qué conclusión se puede extraer respecto al papel de los diferentes actores en la mitigación de las enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento\nLa gestión integral del agua se está implementando por el Gobierno de Bolivia en colaboración con la Agencia \nAlemana de Cooperación Internacional (GIZ), y que la educación comunitaria y la participación ciudadana son \nesenciales para la prevención de criaderos. Además, se destaca la necesidad de coordinación entre políticas \npúblicas, actores internacionales y líderes locales para lograr una mitigación sostenible.",
+    "resumen": "La mitigación sostenible requiere coordinación: gobierno + GIZ + participación comunitaria + líderes locales."
+  },
+  {
+    "id": 12,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 12: La lectura del texto permite identificar que la intensificación de la planificación urbana resiliente, mediante la incorporación de techos verdes y superficies permeables, tendría como consecuencia probable…",
+    "respuesta": "Sustento\nEn la sección ‘Planeación urbana resiliente’ se indica que la iniciativa de techos verdes y superficies permeables \ndisminuyó en un 30% la densidad de larvas de Aedes en barrios piloto, lo que implica una reducción directa del \nriesgo de transmisión de dengue. Esta relación causa efecto no se expresa explícitamente como “reducirá el \ndengue”, pero se deduce al combinar la información sobre la reducción de larvas con el papel de Aedes aegypti \ncomo vector del dengue.",
+    "resumen": "Más urbanismo resiliente (techos verdes/superficies permeables) reduce larvas y baja el riesgo de dengue."
+  },
+  {
+    "id": 13,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 13: Considerando lo mencionado en el texto, ¿cuál es la conclusión lógica sobre el papel de las políticas de energía renovable en la futura reducción de la vulnerabilidad de Bolivia a las enfermedades transmitidas por vectores?",
+    "respuesta": "Sustento\nLa transición a fuentes limpias “no solo disminuye la temperatura global, sino que también mejora la seguridad \nenergética, permitiendo la operación continua de sistemas de refrigeración para vacunas y pruebas diagnósticas” \n(Sección de Políticas de reducción de emisiones y adaptación). Esta doble ventaja (mitigación del cambio climático \ny garantía de energía para servicios de salud) implica que, a largo plazo, la vulnerabilidad a enfermedades \nvectoriales se reducirá.",
+    "resumen": "Energías renovables ayudan doble: bajan calentamiento y aseguran energía para refrigeración de vacunas/pruebas."
+  },
+  {
+    "id": 14,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 14: El artículo señala que, para enfrentar el aumento de enfermedades transmitidas por vectores provocado por el cambio climático, el mensaje central implícito respecto a los actores involucrados es:",
+    "respuesta": "Sustento\nEl artículo subraya la necesidad de estrategias sostenibles que combinan gestión del agua, planificación urbana, \neducación comunitaria y cooperación con organismos como GIZ, indicando que la mitigación requiere la acción \nconjunta de autoridades sanitarias, municipales, comunidades locales y socios internacionales. Asimismo, en \nla conclusión se enfatiza que “un enfoque interdisciplinario que combine salud, medio ambiente y desarrollo \nsocioeconómico será fundamental”, lo que implica la participación de múltiples actores.",
+    "resumen": "El mensaje: se necesita acción conjunta e interdisciplinaria (salud, ambiente y desarrollo) con varios actores."
+  },
+  {
+    "id": 15,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 15: Del análisis presentado se desprende que la relación entre el cambio climático y las enfermedades transmitidas por vectores en Bolivia implica que:",
+    "respuesta": "Sustento\nLa combinación de condiciones socioeconómicas vulnerables, urbanizaciones rápidas y falta de infraestructura \nsanitaria favorece la propagación de enfermedades transmitidas por vectores, y que estas dinámicas agravan \nla exposición de poblaciones de bajos recursos (p. /23). Además, en la sección de consecuencias sociales se \nmenciona que la mayor incidencia de dengue, malaria y Chagas incrementa la vulnerabilidad de comunidades \nrurales y periurbanas, reflejando una ampliación de las desigualdades en salud.",
+    "resumen": "Clima + vulnerabilidad social + urbanización sin servicios aumenta enfermedades y agranda desigualdades en salud."
+  },
+  {
+    "id": 16,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 16: Según el artículo, ¿cuál es la consecuencia social implícita más importante derivada del vínculo entre el cambio climático y las enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento\nEl cambio climático aumenta la vulnerabilidad de comunidades pobres y que, para reducir esa vulnerabilidad, se \nrequieren estrategias interdisciplinarias que integren salud, gestión del agua, planificación urbana y desarrollo \nsocioeconómico (p. Conclusiones; sección de Estrategias sostenibles).",
+    "resumen": "La consecuencia social clave es más vulnerabilidad en comunidades pobres (y se requieren acciones integradas)."
+  },
+  {
+    "id": 17,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 17: Según el artículo, ¿cuál de las siguientes afirmaciones describe mejor la diferencia en cómo el aumento de la temperatura media afecta los ciclos de transmisión del dengue y la malaria en Bolivia?",
+    "respuesta": "Sustento \nEl desarrollo biológico de Aedes aegypti se duplica al pasar de 20 °C a 28 °C, lo que implica una aceleración \nsignificativa del ciclo vectorial del dengue. En contraste, para el Anopheles se menciona que el periodo de \ntransmisión se extiende, permitiendo que la malaria persista más allá de la temporada lluviosa tradicional.",
+    "resumen": "Más temperatura: dengue acelera (Aedes se desarrolla el doble 20→28 °C) y malaria se prolonga (Anopheles extiende transmisión)."
+  },
+  {
+    "id": 18,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 18: A partir de lo expuesto en el artículo, ¿cuál de las siguientes conclusiones se puede inferir lógicamente sobre la efectividad de las estrategias propuestas para reducir el riesgo de enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento \nLa gestión integral del agua y saneamiento reduce criaderos de mosquitos, la planificación urbana resiliente \ndisminuye la acumulación de agua estancada (ej. reducción del 30% de larvas en Santa Cruz), la educación \ncomunitaria mejora la eliminación de criaderos y el modelado predictivo permite anticipar áreas de alto riesgo. \nLa combinación de estos cuatro componentes se presenta como una solución integral y sostenible, y el texto \nconcluye que la interdisciplinariedad entre salud, medio ambiente y desarrollo socioeconómico es fundamental.",
+    "resumen": "La efectividad aumenta cuando se combinan 4 cosas: agua/saneamiento + urbanismo resiliente + educación comunitaria + modelado predictivo."
+  },
+  {
+    "id": 19,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 19: El artículo señala que, al considerar las estrategias de mitigación y adaptación propuestas, ¿cuál es la implicación económica más probable de la adopción generalizada de energías renovables en Bolivia para el control de enfermedades transmitidas por vectores?",
+    "respuesta": "Sustento\nLa transición a fuentes limpias de energía “no solo disminuye la temperatura global, sino que también mejora la \nseguridad energética, permitiendo la operación continua de sistemas de refrigeración para vacunas y pruebas \ndiagnósticas” (Sección de Políticas de reducción de emisiones y adaptación). Esta mejora en la cadena de frío \nreduce pérdidas de vacunas y, combinada con la menor incidencia de enfermedades transmitidas por vectores \nderivada de otras estrategias sostenibles, implica una disminución de los gastos en salud pública a mediano \nplazo.",
+    "resumen": "Renovables mejoran la cadena de frío y, junto con menos enfermedades, bajan gastos de salud pública a mediano plazo."
+  },
+  {
+    "id": 20,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 20: Según el artículo, ¿qué es probable que ocurra si se amplía la implementación de sistemas de captación de agua de lluvia con cubiertas selladas en zonas urbanas de la Amazonía boliviana?",
+    "respuesta": "Sustento\nEl artículo indica que la a falta de agua potable y el almacenamiento en recipientes descubiertos generan \ncriaderos de Aedes aegypti, y que la instalación de sistemas de captación con cubiertas selladas reduce esos \ncriaderos, disminuyendo la incidencia de dengue. En la sección de gestión integral del agua se menciona que \nesta intervención es una de las más efectivas para controlar la proliferación de mosquitos.",
+    "resumen": "Cubiertas selladas reducen criaderos y debería bajar la incidencia de dengue."
+  },
+  {
+    "id": 21,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 21: El artículo señala que la integración de la gestión del agua, la planificación urbana y la educación comunitaria son esenciales para reducir la vulnerabilidad a enfermedades transmitidas por vectores. ¿Cuál de las siguientes afirmaciones representa mejor una implicación ética de priorizar la participación comunitaria en la implementación de estas estrategias?",
+    "respuesta": "Sustento \nEn la sección ‘Educación comunitaria y participación ciudadana’ se indica que “La participación activa de \nlíderes comunitarios y organizaciones no gubernamentales (ONG) crea redes de vigilancia que reportan focos \nde transmisión en tiempo real” y que estas iniciativas “han mostrado una mayor adherencia a medidas de \neliminación de criaderos”. Este pasaje evidencia que la participación comunitaria no solo mejora la efectividad \nde la intervención, sino que también respeta y valora los conocimientos y prácticas locales, cumpliendo con un \nprincipio ético de no imposición de soluciones externas.",
+    "resumen": "Ética: involucrar a la comunidad respeta saberes locales y evita imponer soluciones externas (y además funciona mejor)."
+  },
+  {
+    "id": 22,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 22: De acuerdo con el texto, ¿cuál de las siguientes opciones describe mejor una implicación ética al implementar humedales construidos para el tratamiento de aguas residuales como medida de control vectorial en Bolivia?",
+    "respuesta": "Sustento \nLos humedales construidos, además de tratar aguas residuales, capturan carbono y mejoran la biodiversidad, \nlo que se interpreta como una acción de justicia ambiental que favorece a comunidades vulnerables al reducir \ncriaderos de mosquitos (sección ‘Gestión integral del agua y saneamiento’).",
+    "resumen": "Ética: es justicia ambiental, porque además de tratar aguas, reduce criaderos y beneficia a comunidades vulnerables."
+  },
+  {
+    "id": 23,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 23: ¿Cuál es el sesgo que el artículo permite identificar a partir del análisis de los resultados presentados?",
+    "respuesta": "Sustento\nEl aumento de la temperatura media y la variabilidad de precipitaciones favorecen la expansión de vectores \n(secciones ‘Incremento de la temperatura media’ y ‘Variabilidad y extremos de precipitación’), pero la discusión de \nfactores socioeconómicos se limita a mencionar vulnerabilidades generales sin analizarlos como determinantes \nindependientes de la incidencia de dengue, malaria y Chagas. Esta priorización de variables climáticas frente a \ndeterminantes sociales indica un sesgo de enfoque.",
+    "resumen": "Sesgo: se prioriza lo climático y se analiza poco lo socioeconómico como determinante independiente."
+  },
+  {
+    "id": 24,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 24: Según el artículo, ¿qué conclusión sintetiza mejor la relación entre el aumento de la temperatura media, la mayor variabilidad de precipitaciones y la tendencia al alza de los casos de dengue y malaria en Bolivia?",
+    "respuesta": "Sustento\nEl aumento de 0,6 °C en la temperatura media acelera el desarrollo de Aedes aegypti y extiende el periodo \nde transmisión de Anopheles (sección ‘Incremento de la temperatura media’), y la mayor frecuencia de lluvias \nintensas produce criaderos temporales que incrementan la incidencia de dengue en un 45% (sección ‘Variabilidad \ny extremos de precipitación’). Estos factores combinados explican el crecimiento tanto del dengue (62000 casos \nen 2023) como de la malaria (aumento del 28% en casos autóctonos entre 2015-2022).",
+    "resumen": "Más calor (+0,6 °C) y lluvias extremas aumentan vectores: dengue sube (62.000; +45% en inundaciones) y malaria también (+28%)."
+  },
+  {
+    "id": 25,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 25: ¿Es válida la afirmación efectuada por el autor, de que la gestión integral del agua es más efectiva que la planificación urbana para reducir la incidencia del dengue?",
+    "respuesta": "Sustento \nAunque el artículo describe beneficios de ambas estrategias, solo brinda datos cuantitativos sobre la planificación \nurbana (reducción del 30% en la densidad de larvas de Aedes en barrios piloto) y no ofrece cifras que comparen \ndirectamente la efectividad de la gestión integral del agua en la reducción de casos de dengue. Por lo tanto, la \nafirmación de que la gestión del agua es más efectiva carece de evidencia comparativa y no puede considerarse \nválida.",
+    "resumen": "No es válida: faltan datos comparativos; solo hay cifra para planificación urbana (−30% larvas)."
+  },
+  {
+    "id": 26,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 26: Según el artículo, ¿qué tipo de evidencia adicional resultaría más pertinente para reforzar la viabilidad de las estrategias de mitigación y adaptación sostenibles propuestas para reducir la vulnerabilidad a enfermedades transmitidas por vectores en Bolivia?",
+    "respuesta": "Sustento\nEl artículo destaca la necesidad de monitoreo ecológico y de evaluar el impacto de las intervenciones (p. ej., \ngestión del agua, planeación urbana) para determinar su efectividad en la reducción de dengue y malaria. Un \nestudio longitudinal que siga la incidencia de estas enfermedades antes y después de aplicar dichas estrategias \nproporcionaría evidencia directa y temporalmente robusta, lo que fortalecería la argumentación sobre su viabilidad \na futuro.",
+    "resumen": "Se necesita un estudio longitudinal: medir casos antes y después de aplicar las estrategias."
+  },
+  {
+    "id": 27,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 27: El artículo señala que, para mitigar los efectos del cambio climático, se proponen intervenciones como la gestión integral del agua, la transición a energías renovables y la educación comunitaria. ¿Cuál de las siguientes implica una consideración ética esencial para que dichas intervenciones no profundicen las desigualdades sociales en Bolivia?",
+    "respuesta": "Sustento\nEs importante la participación comunitaria como pieza clave para una respuesta eficaz y equitativa: en la sección \n‘Educación comunitaria y participación ciudadana’ se menciona que “la participación de líderes comunitarios \ny organizaciones no gubernamentales crea redes de vigilancia que reportan focos de transmisión en tiempo \nreal” y en ‘Gestión integral del agua y saneamiento’ se indica que la instalación de sistemas de captación debe \nacompañarse de prácticas locales. Estas menciones subrayan que involucrar a las comunidades garantiza \nque los beneficios de las intervenciones lleguen a los grupos vulnerables y evita que las medidas refuercen \ndesigualdades.",
+    "resumen": "Ética clave: participación comunitaria para que los beneficios lleguen a los vulnerables y no aumenten desigualdades."
+  },
+  {
+    "id": 28,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 28: El artículo señala que la elevación del nivel del lago Titicaca ha generado nuevos hábitats de mosquitos en las comunidades de las riberas. ¿Por qué es relevante esta información para la planificación de la gestión integral del agua en Bolivia?",
+    "respuesta": "Sustento\nLa subida del nivel del lago Titicaca crea nuevos hábitats de mosquitos, lo que aumenta el riesgo de enfermedades \ntransmitidas por vectores. Al mismo tiempo, la sección ‘Gestión integral del agua y saneamiento’ muestra que una \nintervención eficaz debe incluir el suministro de agua potable y el control de criaderos, por lo que la información \nsobre esos nuevos hábitats es fundamental para que los planes de gestión del agua incorporen medidas de \ncontrol vectorial y saneamiento.",
+    "resumen": "Porque esos nuevos hábitats aumentan el riesgo, y la gestión del agua debe incluir control de criaderos y saneamiento."
+  },
+  {
+    "id": 29,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 29: Del análisis presentado se desprende que, entre los diferentes actores involucrados en la mitigación y adaptación frente a las enfermedades transmitidas por vectores en Bolivia, ¿quién tiene la posición más estratégica para liderar e integrar políticas sostenibles a largo plazo?",
+    "respuesta": "Sustento\nLa implementación eficaz de estrategias sostenibles requiere una coordinación interministerial liderada por el \nGobierno de Bolivia, complementada con alianzas internacionales (p. ej., GIZ) y la integración de sectores como \nagua, urbanismo y salud. Aunque ONG, comunidades y académicos son actores relevantes, el texto destaca que \nsolo el gobierno puede articular políticas de largo plazo y asignar recursos a gran escala, mientras los demás \nactúan como apoyos o socios.",
+    "resumen": "El actor más estratégico para liderar es el Gobierno de Bolivia (coordina y asigna recursos a gran escala)."
+  },
+  {
+    "id": 30,
+    "clasificacion": "salud_vectores",
+    "pregunta": "Pregunta 30: A diferencia de la creencia general de que la falta de salida al mar protege a Bolivia de los efectos de la elevación del nivel del agua, ¿qué consecuencias trae consigo la elevación de los niveles de los lagos andinos como el Titicaca?",
+    "respuesta": "Sustento\nBolivia, pese a ser un país sin salida al mar, la elevación de los niveles de los lagos andinos (p. ej., el Titicaca) \nha modificado los márgenes costeros, creando nuevos hábitats propicios para mosquitos y aumentando la \nexposición de comunidades ribereñas.",
+    "resumen": "Suben los lagos (Titicaca), cambian las riberas y aparecen hábitats de mosquitos, aumentando la exposición de comunidades ribereñas."
+  }
+]

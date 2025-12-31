@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 1: Considerando lo mencionado en el texto, ¿cuáles son las cuatro áreas de acción emergentes \nque se proponen para enfrentar la resistencia a los antibióticos en Bolivia?",
+    "respuesta": "Sustento\nEn la sección “Soluciones emergentes y perspectivas de futuro” del artículo se listan exactamente esas cuatro \náreas: (1) Fortalecimiento de la política sanitaria, (2) Programas de educación comunitaria, (3) Innovación \nbiotecnológica y (4) Enfoque One Health. Cada una aparece como un subtítulo independiente que describe \niniciativas específicas para mitigar la resistencia.",
+    "resumen": "Cuatro acciones: política sanitaria, educación comunitaria, innovación biotecnológica y enfoque One Health."
+  },
+  {
+    "id": 2,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 2: Basándose en la información proporcionada, ¿cuál es el primer paso descrito en la iniciativa \nambiental de One Health para controlar la resistencia a los antibióticos en Bolivia?",
+    "respuesta": "Sustento \nEn el apartado “Enfoque One Health (Una Salud)” se indica que el Ministerio de Medio Ambiente, junto con el \nde Salud, “ha lanzado proyectos de vigilancia de resistencia en fuentes de agua y en granjas avícolas” antes de \ncualquier otro accionar.",
+    "resumen": "El primer paso es vigilar la resistencia en fuentes de agua y granjas avícolas."
+  },
+  {
+    "id": 3,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 3: Basándose en la información proporcionada, ¿cuál es el orden cronológico correcto de las \nacciones realizadas por los distintos actores para enfrentar la resistencia a los antibióticos en Bolivia?",
+    "respuesta": "Sustento \nLa secuencia se decribe en el artículo: primero, en 2022, el Gobierno aprueba la Ley de Uso Responsable de \nAntibióticos (sección “Fortalecimiento de la política sanitaria”). Luego, organizaciones no gubernamentales como \nMédicos Sin Fronteras implementan campañas de educación comunitaria en escuelas (sección “Programas de \neducación comunitaria”). Posteriormente, el Hospital Universitario de La Paz incorpora diagnósticos rápidos \nbasados en PCR, reduciendo la prescripción empírica (sección Innovación biotecnológica). Finalmente, el \nInstituto Nacional de Salud lleva a cabo ensayos clínicos de terapia con fagos contra E. coli productora de BLEE \n(sección “Innovación biotecnológica”).",
+    "resumen": "Orden: Ley (2022) → campañas educativas (ONG) → PCR en hospitales → ensayos con fagos (INS)."
+  },
+  {
+    "id": 4,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 4: De acuerdo con el texto, ¿cuál fue la característica principal de los antibióticos desde su \nintroducción en la década de 1940?",
+    "respuesta": "Sustento\nEn la Introducción del artículo se afirma que, desde la década de 1940, los antibióticos redujeron drásticamente \nla mortalidad infantil y prolongaron la esperanza de vida en todo el mundo.",
+    "resumen": "Desde 1940, los antibióticos bajaron mucho la mortalidad infantil y aumentaron la esperanza de vida."
+  },
+  {
+    "id": 5,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 5: De acuerdo con el texto, ¿cuáles de las siguientes medidas forman parte de la Ley de Uso \nResponsable de Antibióticos aprobada en 2022 en Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que la Ley de Uso Responsable de Antibióticos, aprobada en 2022, “obliga a los farmacéuticos a \nexigir receta médica para la dispensación de antibióticos y limita su uso en la agropecuaria a casos de enfermedad \ndiagnosticada. La normativa también establece la creación de un registro nacional de resistencia bacteriana”.",
+    "resumen": "La ley exige receta, limita uso en agropecuaria a casos diagnosticados y crea un registro nacional de resistencia."
+  },
+  {
+    "id": 6,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 6: El artículo señala que el 28% de los ingresos hospitalarios por infecciones respiratorias \nagudas están asociados a bacterias resistentes a al menos un antibiótico de primera línea. ¿A qué se \nrefiere exactamente ese porcentaje del 28%?",
+    "respuesta": "Sustento\nEn la sección “Impacto epidemiológico en Bolivia” el artículo indica explícitamente que “aproximadamente 28% \nde los ingresos hospitalarios por infecciones respiratorias agudas están asociados a bacterias resistentes a al \nmenos un antibiótico de primera línea” (Ministerio de Salud de Bolivia, 2023).",
+    "resumen": "El 28% es la proporción de hospitalizaciones por infecciones respiratorias ligadas a bacterias resistentes (a 1ª línea)."
+  },
+  {
+    "id": 7,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 7: La lectura del texto permite identificar que, según el artículo, la resistencia a los antibióticos \nse define como:",
+    "respuesta": "Sustento\nEl artículo define explícitamente la resistencia a los antibióticos con la frase: “En términos sencillos, la resistencia \nsurge cuando una bacteria adquiere la habilidad de sobrevivir a concentraciones de antibiótico que antes la mataban”.",
+    "resumen": "Es cuando una bacteria sobrevive a dosis de antibiótico que antes la mataban."
+  },
+  {
+    "id": 8,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 8: La lectura del texto permite identificar que la Ley de Uso Responsable de Antibióticos, \naprobada en 2022, fue implementada principalmente con el objetivo de:",
+    "respuesta": "Sustento \nEl artículo indica que la Ley de Uso Responsable de Antibióticos “obliga a los farmacéuticos a exigir receta médica \npara la dispensación de antibióticos y limita su uso en la agropecuaria a casos de enfermedad diagnosticada” \n(sección de fortalecimiento de la política sanitaria). Ese enunciado muestra que la intención principal es controlar \nla resistencia, no estimular ventas, importaciones o investigación.",
+    "resumen": "Se implementó para controlar la resistencia, frenando la dispensación sin receta y el uso indiscriminado."
+  },
+  {
+    "id": 9,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 9: La lectura del texto permite identificar que, en comparación de la implementación de \ndiagnósticos rápidos basados en PCR y la terapia con bacteriófagos comparten algunas características, \n¿cuáles son esas características en la lucha contra la resistencia a los antibióticos en Bolivia?",
+    "respuesta": "Sustento\nEl texto indica que los diagnósticos rápidos basados en PCR identifican el gen de resistencia en menos de una \nhora, lo que “redujo la prescripción empírica en un 40% y permitiendo tratamientos más dirigidos” (párrafo de \nInnovación biotecnológica). Asimismo, la terapia con bacteriófagos se describe como un enfoque que “infectan \ny destruyen bacterias específicas” y muestra una alta tasa de curación sin los efectos colaterales típicos de \nlos antibióticos, lo que implica un tratamiento más focalizado. Por tanto, ambas tecnologías comparten la \ncaracterística de disminuir la necesidad de usar antibióticos de amplio espectro, favoreciendo tratamientos más \nespecíficos. Entretanto, la Ley de Uso Responsable es una medida normativa, no una característica de estas \ntecnologías; no se menciona modificación genética de bacterias en el contexto de PCR o fagoterapia; y el texto \nno señala un aumento significativo de costos como consecuencia directa de estas intervenciones.",
+    "resumen": "PCR y fagos permiten tratamientos más específicos y reducen el uso de antibióticos de amplio espectro."
+  },
+  {
+    "id": 10,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 10: Según el artículo, ¿con qué finalidad se aprobó la Ley de Uso Responsable de Antibióticos?",
+    "respuesta": "Sustento\nEl texto indica que la Ley de Uso Responsable de Antibióticos, aprobada en 2022, “obliga a los farmacéuticos \na exigir receta médica para la dispensación de antibióticos y limita su uso en la agropecuaria a casos de \nenfermedad diagnosticada” y “establece la creación de un registro nacional de resistencia bacteriana”. Estos \nelementos responden al objetivo de frenar la automedicación y el uso indiscriminado en la ganadería, factores de \nriesgo descritos en los párrafos anteriores.",
+    "resumen": "La ley busca frenar automedicación y uso indiscriminado (incluida ganadería) y mejorar vigilancia con un registro."
+  },
+  {
+    "id": 11,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 11: El artículo señala que la incorporación de diagnósticos rápidos basados en PCR redujo la \nprescripción empírica en un 40%. ¿Qué efecto se puede inferir que tendría la expansión nacional de esta \ntecnología sobre la propagación de bacterias resistentes?",
+    "respuesta": "Sustento \nEl texto indica que la introducción de pruebas PCR rápidas en el Hospital Universitario de La Paz redujo la \nprescripción empírica en un 40%, lo que implica que se está usando antibióticos de forma más dirigida y, por tanto, \ndisminuye la presión de selección de cepas resistentes. Este razonamiento inferencial combina la información \ndel apartado de “Innovación biotecnológica” con la lógica de causa efecto: menos uso indiscriminado → menor \npropagación de resistencia.",
+    "resumen": "Expandir PCR reduciría el uso empírico, bajaría la presión selectiva y disminuiría la propagación de resistencia."
+  },
+  {
+    "id": 12,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 12: Según el artículo, ¿qué consecuencia se puede deducir de la introducción masiva de \nantibióticos a partir de la década de 1940 en la situación actual de resistencia en Bolivia?",
+    "respuesta": "Sustento\nEl texto indica que los antibióticos se introdujeron en la década de 1940 y, aunque redujeron la mortalidad, su uso \nextensivo creó presión selectiva para la supervivencia de bacterias resistentes. Más adelante, el artículo señala \nque la automedicación y el uso indiscriminado en la agropecuaria han ampliado esa presión, resultando en que \nel 28% de los ingresos hospitalarios por infecciones respiratorias están asociados a bacterias resistentes. Por \nlo tanto, se infiere que la combinación de la introducción histórica y el uso actual explica la alta prevalencia de \nresistencia.",
+    "resumen": "El uso masivo desde 1940 creó presión selectiva; con el uso actual indiscriminado se explica la alta resistencia (28%)."
+  },
+  {
+    "id": 13,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 13: Considerando la combinación de: la Ley de Uso Responsable de Antibióticos, los programas \nde educación comunitaria y los ensayos clínicos con bacteriófagos. ¿qué conclusión lógica se puede \nextraer sobre el enfoque más prometedor para contener la resistencia a los antibióticos en Bolivia?",
+    "respuesta": "Sustento \nEl texto muestra que la Ley de Uso Responsable de Antibióticos (2022) regula la dispensación y el uso agropecuario, \nque los programas de educación en Potosí redujeron en un 30% la compra automática de antibióticos, y que los \nensayos con bacteriófagos alcanzaron una tasa de curación del 85% sin efectos colaterales. Cada una de estas \nintervenciones aborda un factor distinto (política, comportamiento y tecnología) que el artículo identifica como \ncrucial para frenar la RA; por ello, la conclusión lógica es que solo una combinación de ellas ofrece la mayor \nprobabilidad de éxito.",
+    "resumen": "Lo más prometedor es combinar regulación + educación + tecnología (fagos) porque atacan causas distintas."
+  },
+  {
+    "id": 14,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 14: Según el artículo, comparando la actuación del Gobierno boliviano y la de las organizaciones \nno gubernamentales, ¿cuál de las siguientes afirmaciones describe mejor la forma en que sus \ncontribuciones se complementan para mitigar la resistencia a los antibióticos?",
+    "respuesta": "Sustento\nEl texto indica que en 2022 el Gobierno aprobó la Ley de Uso Responsable de Antibióticos y creó un registro \nnacional de resistencia, estableciendo una base normativa y de vigilancia. Asimismo, menciona que organizaciones \nno gubernamentales, como Médicos Sin Fronteras, llevan a cabo campañas de concientización que alcanzaron \na 8 000 estudiantes en Potosí y lograron una reducción del 30% en la compra automática de antibióticos. \nEstas dos acciones – regulación/vigilancia (Gobierno) y educación comunitaria (ONG) – se describen como \ncomplementarias.",
+    "resumen": "Gobierno regula y vigila (ley + registro); ONG educan y cambian hábitos (campañas con reducción del 30%)."
+  },
+  {
+    "id": 15,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 15: A partir de lo expuesto en el artículo, ¿qué consecuencia se puede inferir que tendrá la \nexpansión de los diagnósticos rápidos basados en PCR en los hospitales bolivianos respecto a la \nepidemiología de la resistencia a los antibióticos?",
+    "respuesta": "Sustento\nEl artículo indica que la incorporación de pruebas PCR que identifican genes de resistencia en menos de una \nhora ha reducido la prescripción empírica en un 40 %. Si la prescripción empírica disminuye, se ejerce menos \npresión selectiva sobre las bacterias, lo que lógicamente lleva a una menor aparición y propagación de cepas \nresistentes; por tanto, la incidencia de infecciones por bacterias resistentes tenderá a descender. Esta cadena \ncausal (diagnóstico rápido → menos uso empírico → menor presión selectiva → menor incidencia) no está \ndeclarada explícitamente, pero se deduce del texto.",
+    "resumen": "Más PCR → menos antibiótico empírico → menos presión selectiva → bajaría la incidencia de cepas resistentes."
+  },
+  {
+    "id": 16,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 16: En el texto se menciona que, una de las consecuencias sobre los ingresos hospitalarios por \ninfecciones resistentes, es:",
+    "respuesta": "Sustento\nEl texto indica que el 62% de la población adulta adquiere antibióticos sin prescripción (Sección “Mecanismos \nbiológicos y factores de riesgo”) y, simultáneamente, que el 28% de los ingresos hospitalarios por infecciones \nrespiratorias están asociados a bacterias resistentes (Sección “Impacto epidemiológico en Bolivia”). La relación \ncausal implícita es que el uso indiscriminado y erróneo de antibióticos favorece la selección y diseminación de \ncepas resistentes, lo que se refleja en el elevado porcentaje de internaciones por infecciones resistentes.",
+    "resumen": "El uso sin receta (62%) favorece resistencia y se refleja en más internaciones: 28% por bacterias resistentes."
+  },
+  {
+    "id": 17,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 17: A partir de lo expuesto en el artículo, ¿qué consecuencia se puede deducir si se amplía el \nuso de diagnósticos rápidos basados en PCR en los hospitales bolivianos?",
+    "respuesta": "Sustento\nEl artículo indica que la incorporación de diagnósticos rápidos basados en PCR en el Hospital Universitario de La \nPaz redujo la prescripción empírica en un 40% y permitió tratamientos más dirigidos. Inferir que una ampliación \nde esa práctica mantendría la tendencia implica que la prescripción empírica seguirá disminuyendo, lo cual \natenúa la presión selectiva que favorece la selección de cepas resistentes.",
+    "resumen": "Si se amplía PCR, seguirá bajando la prescripción empírica y disminuirá la selección de cepas resistentes."
+  },
+  {
+    "id": 18,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 18: A partir de lo expuesto en el artículo, ¿cuál es la conclusión más razonable respecto a \ncómo los factores de riesgo identificados inciden en el elevado costo económico de la resistencia a los \nantibióticos en Bolivia?",
+    "respuesta": "Sustento\nEl artículo señala que la automedicación, el uso de antibióticos en la ganadería y la falta de diagnóstico rápido \nson factores que facilitan la diseminación de bacterias resistentes (sección “Mecanismos biológicos y factores \nde riesgo”). Además, en la sección “Impacto epidemiológico” se indica que la resistencia incrementa los ingresos \nhospitalarios y, según el BID (2022), el tratamiento de infecciones resistentes eleva los costos hospitalarios a \naproximadamente US$55 millones al año.",
+    "resumen": "Los riesgos (automedicación, ganadería, poco diagnóstico) aumentan resistencia, suben hospitalizaciones y elevan costos (~US$55 millones/año)."
+  },
+  {
+    "id": 19,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 19: De acuerdo con el texto, ¿cuál de las siguientes afirmaciones describe mejor la diferencia \nimplícita entre el impacto observado de las campañas de educación comunitaria y el de la Ley de Uso \nResponsable de Antibióticos en la reducción de la automedicación?",
+    "respuesta": "Sustento\nEl texto indica que la campaña en el Departamento de Potosí logró una reducción del 30% en la compra \nautomática de antibióticos (“una campaña piloto alcanzó a 8 000 estudiantes…, logrando una reducción del 30% \nen la compra automática de antibióticos en farmacias locales”). En contraste, la Ley de Uso Responsable de \nAntibióticos fue aprobada en 2022 y se describe sus requisitos (exigir receta, limitar uso en agropecuaria) pero \nno se menciona todavía ningún resultado cuantitativo, por lo que no se dispone de evidencia de su impacto.",
+    "resumen": "Educación: ya mostró -30% en compra automática; ley: se describen medidas, pero aún sin resultados cuantificados."
+  },
+  {
+    "id": 20,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 20: Según el artículo, en el contexto boliviano, ¿cuál es la conclusión lógica respecto al papel \ndel monitoreo ambiental en la lucha contra la resistencia a los antibióticos?",
+    "respuesta": "Sustento\nEn la sección “Enfoque One Health (Una Salud)” se menciona que el Ministerio de Medio Ambiente y Salud ha \nlanzado proyectos de vigilancia de resistencia en fuentes de agua y granjas avícolas, con el objetivo de prevenir \nla propagación de genes de resistencia en ecosistemas acuáticos que pueden regresar a la cadena alimentaria \nhumana. Esta conclusión integra la información sobre la interconexión entre salud humana, animal y ambiental, \ny la necesidad de monitorear los residuos de antibióticos en el agua como medida preventiva.",
+    "resumen": "El monitoreo ambiental ayuda a prevenir que genes de resistencia se propaguen en agua y vuelvan a la cadena alimentaria."
+  },
+  {
+    "id": 21,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 21: La lectura del texto permite identificar que, a partir de los ejemplos de la Ley de Uso \nResponsable de Antibióticos, los programas de educación comunitaria y la incorporación de diagnósticos \nrápidos basados en PCR, el principio general que subyace a las soluciones emergentes contra la \nresistencia en Bolivia es:",
+    "respuesta": "Sustento\nEl artículo describe tres tipos de iniciativas emergentes: la Ley de Uso Responsable (regulación), los programas \nde educación comunitaria (educación) y los diagnósticos rápidos basados en PCR (tecnología). En la sección de \nSoluciones emergentes se enfatiza que la combinación de estas medidas busca reducir la presión selectiva y la \npropagación de cepas resistentes.",
+    "resumen": "El principio es combinar regulación + educación + tecnología para reducir presión selectiva y propagación."
+  },
+  {
+    "id": 22,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 22: El argumento del autor muestra que la Ley de Uso Responsable de Antibióticos reducirá \na la mitad la proporción de ingresos hospitalarios por infecciones respiratorias asociadas a bacterias \nresistentes, se puede considerar que:",
+    "respuesta": "Sustento \nEl artículo describe la Ley de Uso Responsable de Antibióticos y menciona su objetivo de restringir la dispensación \nsin receta, no proporciona datos cuantitativos que demuestren una reducción del 50% en los ingresos hospitalarios \npor infecciones respiratorias. Los datos estadísticos citados (28% de ingresos por bacterias resistentes, 62% \nde automedicación, reducción del 30% en compras automáticas tras una campaña educativa) no se vinculan \ndirectamente a un efecto específico de la ley. Por lo tanto, el argumento de que la ley reducirá a la mitad esos \ningresos carece de respaldo empírico en el texto.",
+    "resumen": "No es válido: el texto no da evidencia de que la ley reduzca 50% esos ingresos hospitalarios."
+  },
+  {
+    "id": 23,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 23: De acuerdo con el texto, ¿cuál de las siguientes afirmaciones describe mejor una implicación \nsocial sobre la resistencia a los antibióticos en Bolivia que surge de la combinación de la automedicación \ny la falta de diagnóstico rápido?",
+    "respuesta": "Sustento \nEl artículo menciona dos aspectos: (1) el alto porcentaje de adultos que se automedican y compran antibióticos \nsin receta (62% según la Universidad Mayor de San Andrés, 2022) y (2) la limitación de diagnósticos microbianos \nque lleva a prescripciones empíricas. Ambos factores se asocian a mayores tasas de infecciones resistentes, lo \nque, como se menciona en la sección de impacto epidemiológico, eleva los costos hospitalarios (US$ 55 millones \nal año) y afecta especialmente a poblaciones vulnerables, ampliando la desigualdad en salud.",
+    "resumen": "Automedicación + poco diagnóstico → más resistencia → suben costos (US$55M/año) y crece la desigualdad en salud."
+  },
+  {
+    "id": 24,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 24: La lectura del texto permite identificar que la afirmación de que los programas de educación \ncomunitaria, por sí solos, son suficientes para reducir significativamente la resistencia a los antibióticos \nen Bolivia, carece de validez porque:",
+    "respuesta": "Sustento\nEl artículo menciona que, aunque la educación comunitaria ha generado una reducción del 30% en la compra \nautomática de antibióticos en una campaña piloto, también describe otras iniciativas esenciales: la Ley de Uso \nResponsable de Antibióticos, el registro nacional de resistencia, la terapia con fagos y los diagnósticos rápidos \nbasados en PCR. En la sección “Soluciones emergentes y perspectivas de futuro” se enfatiza que solo un enfoque \nintegrado bajo la perspectiva One Health permitirá contener la propagación de la resistencia. Por lo tanto, afirmar \nque la educación por sí sola es suficiente no está respaldado por el texto.",
+    "resumen": "Porque no basta educación: el texto insiste en un enfoque integrado (ley, registro, PCR, fagos, One Health)."
+  },
+  {
+    "id": 25,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 25: Considerando lo mencionado en el texto, ¿cuáles son las principales implicaciones éticas \nque surgen del uso indiscriminado de antibióticos desde la década de 1940 hasta la actualidad en Bolivia?",
+    "respuesta": "Sustento\nEl texto describe que la resistencia en Bolivia se ha incrementado por la automedicación, el uso de antibióticos \nen la agropecuaria y la falta de diagnóstico, y señala que la solución requiere una combinación de regulación \n(Ley de Uso Responsable de Antibióticos) y programas de educación comunitaria dirigidos a diferentes actores \n(párrafos de “Fortalecimiento de la política sanitaria” y “Programas de educación comunitaria”). Esto implica una \nresponsabilidad compartida que debe abordarse bajo los principios éticos de justicia (equidad en el acceso y uso \nresponsable) y beneficencia (preservar la efectividad de los tratamientos).",
+    "resumen": "Implica responsabilidad compartida y ética de justicia (equidad/uso responsable) y beneficencia (preservar tratamientos)."
+  },
+  {
+    "id": 26,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 26: De acuerdo con el texto, ¿cuál sería la principal consecuencia social esperada, si la Ley de \nUso Responsable de Antibióticos se aplica de forma eficaz?",
+    "respuesta": "Sustento\nEl texto indica que la Ley de Uso Responsable de Antibióticos obliga a exigir receta médica y limita el uso en la \nagropecuaria, medidas dirigidas a frenar la automedicación y la compra sin receta, principales factores de riesgo \ndescritos (párrafo de Mecanismos biológicos y factores de riesgo). Al reducir esos comportamientos se espera \ndisminuir la difusión de bacterias resistentes y, por ende, la carga sobre el sistema de salud, una consecuencia \nsocial explícita.",
+    "resumen": "Si la ley funciona, baja la automedicación, se reduce la resistencia y disminuye la carga del sistema de salud."
+  },
+  {
+    "id": 27,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 27: Del análisis presentado en el artículo se desprende que, respecto a la terapia basada en \nbacteriófagos, la principal limitación que podría dificultar su adopción a nivel nacional es:",
+    "respuesta": "Sustento\nEl artículo describe la terapia basada en bacteriófagos como una “área de mayor promesa” y menciona que el \nInstituto Nacional de Salud está realizando “ensayos clínicos de un cóctel de fagos… Los resultados preliminares \nmuestran una tasa de curación del 85%”. No se indica que el método esté ya disponible en el sistema de salud \nni que exista una regulación establecida; se subraya que está “en fase experimental”. Por lo tanto, la limitación \nprincipal es su carácter todavía experimental y la falta de disponibilidad comercial.",
+    "resumen": "La limitación es que aún está en fase experimental y no está disponible a nivel nacional/comercial."
+  },
+  {
+    "id": 28,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 28: De acuerdo con el texto, ¿cuál sería la forma más adecuada de trasladar el enfoque One \nHealth al contexto histórico de la década de 1960, cuando el uso de antibióticos comenzó a expandirse \nmasivamente en Bolivia, para prevenir la actual resistencia?",
+    "respuesta": "Sustento\nLa definición de One Health expuesta en el artículo: “el concepto One Health reconoce la interconexión entre \nla salud humana, animal y ambiental” y propone una vigilancia integrada que abarque hospitales, ganadería y \necosistemas acuáticos. Aplicar este tipo de monitoreo durante la expansión masiva de antibióticos en los años \n60 habría permitido detectar precozmente la aparición de genes de resistencia y ajustar las políticas de uso, \nreduciendo la selección de cepas resistentes.",
+    "resumen": "Aplicar One Health en los 60 sería vigilar juntos hospitales, ganadería y agua para detectar resistencia temprano y ajustar políticas."
+  },
+  {
+    "id": 29,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 29: A partir de lo expuesto en el artículo, ¿qué tan válido es el argumento de que las campañas \nde educación sanitaria en escuelas son suficientes para resolver el problema de la resistencia a los \nantibióticos en Bolivia?",
+    "respuesta": "Sustento\nEl texto reconoce que la campaña piloto en Potosí redujo la compra automática de antibióticos en un 30%, lo \nque evidencia un efecto positivo de la educación, pero también subraya que la resistencia a los antibióticos \nes un problema multifactorial que necesita, además, políticas regulatorias más estrictas, vigilancia nacional y \ntecnologías emergentes como la terapia con fagos y diagnósticos rápidos. Por lo tanto, el argumento de que la \neducación sola es suficiente es débil.",
+    "resumen": "Es un argumento débil: educación ayuda (-30%), pero se necesitan también leyes, vigilancia y tecnología."
+  },
+  {
+    "id": 30,
+    "clasificacion": "antibioticos",
+    "pregunta": "Pregunta 30: El artículo señala que la terapia basada en bacteriófagos es una solución emergente eficaz \npara combatir la resistencia a los antibióticos en Bolivia; ¿qué tan válido es el argumento del autor \nrespecto a esta afirmación?",
+    "respuesta": "Sustento\nEl artículo menciona que el Instituto Nacional de Salud está realizando ensayos clínicos de un cóctel de fagos \ncontra E. coli productora de BLEE, reportando una tasa de curación del 85% y ausencia de efectos colaterales \ntípicos. Sin embargo, también indica que estos resultados son preliminares, lo que implica que la evidencia todavía \nes limitada y que se necesitan investigaciones más extensas para validar la terapia como solución definitiva.",
+    "resumen": "Tiene base (85% y menos efectos), pero la evidencia es preliminar; falta más investigación para confirmarlo."
+  }
+]

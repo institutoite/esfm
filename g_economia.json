@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 1: A partir de lo expuesto en el artículo, ¿cómo define el texto a los instrumentos financieros recomendados para estimular la economía circular en Bolivia?",
+    "respuesta": "Sustento\nPara estimular iniciativas circulares, se deben diseñar “instrumentos financieros como fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales”. Estos tres componentes aparecen literalmente en el texto y se describen como medios para reducir el riesgo de inversión y favorecer la adopción de tecnologías limpias. Las otras opciones no aparecen en el artículo: los subsidios directos, los micro bonos y los incentivos fiscales mencionados son conceptos diferentes o no están descritos como instrumentos financieros en el documento.",
+    "resumen": "Los instrumentos financieros son: fondos de garantía, crédito verde y pago por servicios ambientales (para reducir riesgo e impulsar tecnologías limpias)."
+  },
+  {
+    "id": 2,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 2: Según el artículo, ¿cómo define la economía circular y qué consecuencias sociales se asocian a su adopción en Bolivia?",
+    "respuesta": "Sustento\nEl artículo define la economía circular como un paradigma que “cierra los ciclos de materiales, evitando la extracción continua de recursos y minimizando la generación de desechos” y menciona que su implementación “puede transformar los residuos en oportunidades económicas para micro empresas y jóvenes emprendedores, mejorando la calidad de vida de las comunidades”.",
+    "resumen": "Es cerrar ciclos de materiales y reducir desechos; socialmente puede crear oportunidades para microempresas/jóvenes y mejorar calidad de vida."
+  },
+  {
+    "id": 3,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 3: Del análisis presentado se desprende que, de acuerdo al artículo, ¿qué metodología de reciclaje de plásticos se describe como la alternativa más viable a nivel local en Bolivia?",
+    "respuesta": "Sustento \nLa reciclación mecánica de plásticos (trituración, lavado y extrusión) es la alternativa más viable a nivel local, pues requiere inversiones moderadas y puede adaptarse a pequeñas empresas. Las demás opciones, aunque mencionadas en el texto, no se describen como la alternativa más viable para el reciclaje de plásticos: la reciclación química no se discute; la valorización energética se refiere a residuos orgánicos, no a plásticos; y la digestión anaeróbica se menciona como método para residuos orgánicos, no como método de reciclaje de plásticos.",
+    "resumen": "La opción más viable es el reciclaje mecánico (triturar, lavar y extruir) porque requiere inversión moderada y sirve para pequeñas empresas."
+  },
+  {
+    "id": 4,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 4: A partir de lo expuesto en el artículo, ¿cuál es la implicación económica directa que se menciona respecto a la empresa ReciclArte en La Paz?",
+    "respuesta": "Sustento\nEl apartado de ‘Incentivos económicos y modelos de negocio’ el artículo indica que la empresa ReciclArte, al comprar PET y vender material reciclado, generó ingresos de 22000 USD en 2022. Las demás opciones presentan datos que no aparecen en el texto: no se menciona un beneficio neto de 15000 USD, ni una reducción de costos operativos del 12%, ni un aumento de producción del 8%; por lo tanto, son distractores construidos a partir de información del artículo, pero mal interpretada o extrapolada.",
+    "resumen": "ReciclArte generó 22.000 USD de ingresos en 2022."
+  },
+  {
+    "id": 5,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 5: El artículo señala que el proyecto piloto de digestores anaeróbicos en Cochabamba generó, por cada kilogramo de residuos orgánicos, ¿cuántos metros cúbicos de metano?",
+    "respuesta": "Sustento\nEn la sección 3.2 del artículo se indica que el proyecto piloto en Cochabamba “demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos”. Las demás opciones alteran el valor numérico (0,35 m³ y 0,55 m³) o la unidad de medida (por tonelada), por lo que no coinciden con el dato explícito presentado.",
+    "resumen": "Generó 0,45 m³ de metano por cada kg de residuos orgánicos."
+  },
+  {
+    "id": 6,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 6: Basándose en la información proporcionada, ¿cuál es la característica que diferencia la tasa de reciclaje de PET en Santa Cruz de la tasa de recolección formal de residuos sólidos en Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que en Santa Cruz la tasa de reciclaje de PET es apenas el 8% (sección 2, datos de UMSA 2023) y que, a nivel nacional, solo el 12% de los residuos sólidos urbanos fue recolectado formalmente (sección 2, datos del INE 2022). Por lo tanto, la afirmación correcta es que la tasa de reciclaje de PET en Santa Cruz (8%) es inferior a la tasa de recolección formal nacional (12%).",
+    "resumen": "El reciclaje de PET en Santa Cruz (8%) es menor que la recolección formal nacional (12%)."
+  },
+  {
+    "id": 7,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 7: Basándose en la información proporcionada, ¿cuál es el objetivo principal que persiguen los micro bonos ofrecidos por ONG como EcoBol al incentivar la separación de papel y cartón en los Yungas?",
+    "respuesta": "Sustento\nEl texto indica que los programas educativos de ONG como EcoBol “lograron aumentar la tasa de separación de papel y cartón del 3% al 18% en tan solo dos años, evidenciando el potencial de la educación informal y la incentivación mediante micro bonos”. El propósito explícito de esos micro bonos es ofrecer un estímulo económico que motive a la población a separar los materiales, lo que a su vez favorece la participación ciudadana y sienta las bases para una economía circular.",
+    "resumen": "Los microbonos buscan motivar con un incentivo económico para que la gente separe materiales (y así aumentar la separación)."
+  },
+  {
+    "id": 8,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 8: De acuerdo con el texto, ¿qué consecuencia se puede deducir si el Estado fortalece la aplicación de la Ley 164 mediante la creación de fondos de garantía para micro empresas de reciclaje?",
+    "respuesta": "Sustento\nEl texto indica que la baja tasa de reciclaje de PET en Santa Cruz (solo 8%) se debe en parte a la ausencia de incentivos financieros para los emprendedores. Se menciona que iniciativas como ReciclArte funcionan al comprar PET y venden material reciclado, y que se requieren instrumentos como fondos de garantía y microcréditos para ampliar estas actividades. Si el Estado crea dichos fondos, se esperaría que más micro empresas de reciclaje puedan operar formalmente, aumentando la recolección de PET, lo que elevaría la tasa de reciclaje (R) y reduciría la fracción que actualmente se deposita en vertederos o ríos.",
+    "resumen": "Con fondos de garantía, más microempresas operarían formalmente, aumentaría la recolección de PET, subiría R y bajaría lo que va a vertederos/ríos."
+  },
+  {
+    "id": 9,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 9: Basándose en la información proporcionada, ¿qué efecto indirecto es probable que genere la expansión de los proyectos piloto de digestores anaeróbicos en zonas rurales sobre la dinámica de la economía circular en Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que los digestores anaeróbicos generan biogás (0,45 m³ de metano por kilogramo de residuos orgánicos) suficiente para cubrir el consumo energético de una familia, lo que implica ingresos potenciales para micro empresas que operen dichos sistemas (sección 3.3). Al transformar residuos orgánicos en energía, se reduce la cantidad de materia orgánica que llega a los vertederos, lo que a su vez mejora la eficiencia global del reciclaje (R), ya que la fórmula de R depende del total de residuos gestionados de forma útil. Esta cadena de efectos – reducción de residuos orgánicos, generación de ingresos y mejora de R – es una consecuencia implícita del proyecto piloto.",
+    "resumen": "Más digestores = residuos orgánicos se vuelven energía, baja lo que llega al vertedero, genera ingresos y mejora la eficiencia R."
+  },
+  {
+    "id": 10,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 10: A partir de lo expuesto en el artículo, ¿qué conclusión general puede inferirse sobre la relación entre la proporción de recolección formal de residuos y la eficiencia de reciclaje (R) en Bolivia?",
+    "respuesta": "Sustento\nSoloo el 12% de los residuos sólidos urbanos se recolecta formalmente, mientras que el 55% corresponde a residuos orgánicos y solo el 8% del PET se recicla en Santa Cruz. Además, se señala que la segregación y la disponibilidad de residuos en condiciones de calidad son factores críticos para la eficiencia del reciclaje (R). Por lo tanto, una mayor cobertura de recolección formal implicaría que un mayor volumen de residuos estaría correctamente segregado y disponible para los procesos de reciclaje y valorización, lo que aumentaría el valor de R.",
+    "resumen": "Si aumenta la recolección formal, habrá mejor segregación y calidad de residuos, y subirá la eficiencia R."
+  },
+  {
+    "id": 11,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 11: De acuerdo con el texto, ¿qué efecto probable tendría en la eficiencia del reciclaje (R) la ampliación de programas de educación ambiental liderados por ONG en comunidades rurales?",
+    "respuesta": "Sustento \nEl texto describe que los programas educativos de ONG como EcoBol lograron elevar la tasa de separación de papel y cartón del 3% al 18% en dos años, evidenciando que la educación mejora la segregación de residuos. Una mejor segregación reduce la contaminación de los flujos reciclables, lo que, según la definición de eficiencia de reciclaje R = (Mrec / Mtotal) × 100%, permite que una mayor masa de material sea realmente reciclada, incrementando así el valor de R.",
+    "resumen": "Más educación mejora la separación, reduce contaminación y aumenta R (más material se recicla de verdad)."
+  },
+  {
+    "id": 12,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 12: De acuerdo con el texto, ¿cuál es la idea central que el autor comunica respecto al papel de la economía circular en la gestión de residuos en Bolivia?",
+    "respuesta": "Sustento\nEl autor enfatiza repetidamente que la transición hacia una economía circular depende de la integración de políticas públicas, innovación tecnológica y participación comunitaria, lo que permitirá transformar los residuos en recursos valiosos y crear oportunidades económicas para micro empresas (ver secciones de “Desarrollo” y “Conclusiones”).",
+    "resumen": "La idea central: integrar políticas, tecnología y comunidad para convertir residuos en recursos y oportunidades."
+  },
+  {
+    "id": 13,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 13: Considerando lo mencionado en el texto, ¿qué diferencia esencial se puede establecer entre la contribución del Estado y la de las ONG al impulso de la economía circular en Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que la Ley 164 de Gestión Integral de Residuos Sólidos (2014) constituye el marco normativo del Estado, pero su ejecución es lenta por falta de recursos y dispersión geográfica. En contraste, la ONG EcoBol se menciona en la sección de participación social, donde sus programas educativos aumentaron la tasa de separación de papel y cartón del 3% al 18% en dos años, demostrando una acción directa a nivel comunitario. Por lo tanto, la diferencia esencial radica en que el Estado provee la infraestructura institucional y normativa, mientras que las ONG actúan mediante educación y sensibilización que generan cambios de comportamiento en la población.",
+    "resumen": "Estado: pone marco y normas (pero avanza lento). ONG: educan y cambian conductas en la comunidad (ej. 3%→18%)."
+  },
+  {
+    "id": 14,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 14: El artículo señala que, para que Bolivia logre una transición efectiva hacia la economía circular, es indispensable...",
+    "respuesta": "Sustento\nEl autor, a lo largo del artículo, enfatiza que la viabilidad de la economía circular en Bolivia depende de la interacción entre tres ejes: políticas públicas (p. ej., la Ley 164, indicadores de desempeño), tecnologías apropiadas (reciclado mecánico, digestores anaeróbicos) y la participación social (programas de educación, micro bonos). En la conclusión se indica que “la combinación de políticas públicas claras, tecnología apropiada y participación comunitaria puede elevar significativamente la eficiencia del reciclaje (R)”.",
+    "resumen": "Es indispensable combinar políticas públicas, tecnología apropiada y participación comunitaria."
+  },
+  {
+    "id": 15,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta15: La lectura del texto permite identificar que, al comparar la reciclación mecánica de PET y la valorización energética mediante digestores anaeróbicos, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la relación entre la complejidad de inversión y el contexto de aplicación de cada proceso?",
+    "respuesta": "Sustento\nEl artículo indica que la reciclación mecánica de plásticos es “la alternativa más viable a nivel local, pues requiere inversiones moderadas y puede adaptarse a pequeñas empresas” y, simultáneamente, describe que la valorización energética mediante digestores anaeróbicos “permite producir biogás, que puede ser utilizado para cocinar o generar electricidad en comunidades rurales aisladas” (p. 3.2). Por tanto, la afirmación combina con exactitud la inversión moderada de la reciclación mecánica y la idoneidad de los digestores para zonas rurales.",
+    "resumen": "Reciclaje mecánico: inversión moderada y útil para pequeñas empresas; digestores: biogás útil en comunidades rurales aisladas."
+  },
+  {
+    "id": 16,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 16: Del análisis presentado se desprende que la tendencia dominante en la gestión de residuos en Bolivia es que…",
+    "respuesta": "Sustento\nEl artículo enfatiza, tanto en la introducción como en las conclusiones, que la transición hacia una economía circular depende de la interacción entre políticas públicas, innovación tecnológica y la participación comunitaria, y que la efectividad de este proceso se potenciará mediante indicadores de desempeño (tasa de reciclaje R) y mecanismos financieros de incentivo. Por ejemplo, en la sección de “Desafíos y oportunidades” se menciona que la combinación de políticas claras, tecnologías apropiadas y educación ambiental permite elevar la eficiencia del reciclaje y generar oportunidades económicas.",
+    "resumen": "La tendencia dominante es impulsar economía circular integrando políticas, tecnología y comunidad, con indicadores (R) e incentivos."
+  },
+  {
+    "id": 17,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 17: De acuerdo con el texto, ¿qué consecuencia puede inferirse si la tasa de segregación de residuos orgánicos en origen se incrementa significativamente en comunidades rurales?",
+    "respuesta": "Sustento \nEl artículo indica que la valorización energética mediante digestores anaeróbicos produce 0,45 m³ de metano por kilogramo de residuos orgánicos, suficiente para cubrir el consumo de una familia promedio durante un mes. Una mejora en la segregación en origen implica que una mayor proporción de residuos orgánicos llega al digestor en buen estado, aumentando la masa total de materia prima disponible. Como la relación de producción de metano es lineal respecto a la masa alimentada (0,45 m³ / kg), al incrementarse la cantidad de residuos orgánicos capturados se generará más metano, lo que permite abastecer a más hogares.",
+    "resumen": "Si se separa mejor en origen, llega más orgánico al digestor y se produce más metano (0,45 m³/kg) para más hogares."
+  },
+  {
+    "id": 18,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 18: Según el artículo, ¿cuál es el mensaje principal implícito que el autor comunica respecto a las soluciones para la gestión de residuos en Bolivia?",
+    "respuesta": "Sustento\nEl artículo, en sus conclusiones y desarrollo, enfatiza repetidamente que la transición hacia una economía circular requiere “políticas públicas claras, tecnología apropiada y participación comunitaria” (párrafo de conclusiones) y menciona que esa combinación “puede reducir la huella ecológica y generar oportunidades económicas para micro empresas”. Esta visión integradora es el mensaje implícito central.",
+    "resumen": "Mensaje central: soluciones integradas (políticas + tecnología + comunidad) reducen huella ecológica y crean oportunidades."
+  },
+  {
+    "id": 19,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 19: De acuerdo con el texto, ¿qué efecto se puede deducir que tendría la ampliación de los programas de educación ambiental orientados a la separación en origen en las comunidades rurales?",
+    "respuesta": "Sustento \nEl texto señala que la separación de residuos en origen depende del nivel de conciencia ciudadana y que programas educativos han aumentado la tasa de separación (p. 3.3). Un mayor grado de separación permite que más material sea apto para el reciclaje mecánico y que los residuos orgánicos sean canalizados a digestores anaeróbicos, lo que eleva la eficiencia del reciclaje (R) y favorece la valorización energética.",
+    "resumen": "Más educación = mejor separación; más reciclaje mecánico + más orgánico a digestores; sube R y la valorización energética."
+  },
+  {
+    "id": 20,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 20: Considerando lo mencionado en el texto, ¿cuál de las siguientes comparaciones entre dos propuestas de futuro refleja de manera más precisa su potencial efecto inmediato sobre la eficiencia del reciclaje (R)?",
+    "respuesta": "Sustento\nEl texto señala que, para impulsar la economía circular, se requieren ‘instrumentos financieros como fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales’ que reducen el riesgo de inversión y facilitan la adopción de tecnologías limpias. Estos recursos permiten a micro empresas comprar equipos y operar procesos de reciclaje de forma inmediata, lo que afecta directamente la razón R. En contraste, el fortalecimiento legislativo con sanciones, aunque importante, actúa a más largo plazo al requerir cumplimiento y vigilancia institucional, sin aportar recursos financieros directos que mejoren rápidamente la eficiencia del reciclaje.",
+    "resumen": "Impacto inmediato: los instrumentos financieros (dan recursos para operar ya); las sanciones legislativas actúan más a largo plazo."
+  },
+  {
+    "id": 21,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 21: La lectura del texto permite identificar que, para fomentar el desarrollo de micro empresas en zonas rurales de Bolivia, la información sobre la generación de biogás a partir de residuos orgánicos resulta más relevante que los datos de reciclaje de PET en Santa Cruz, porque:",
+    "respuesta": "Sustento \nEl texto señala que un proyecto piloto en Cochabamba demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos, suficiente para cubrir el consumo energético de una familia promedio durante un mes. Este tipo de valorización energética es directamente aplicable a comunidades rurales donde la falta de infraestructura eléctrica limita el desarrollo de micro empresas, al proporcionar una fuente de energía local y rentable. Por el contrario, los datos de reciclaje de PET (tasa del 8% en Santa Cruz) se centran en un problema urbano de contaminación del agua y no ofrecen una solución inmediata para la generación de ingresos o la autosuficiencia energética en áreas rurales, lo que disminuye su relevancia para ese contexto.",
+    "resumen": "Porque el biogás (0,45 m³/kg) da energía local útil para microempresas rurales; el PET en Santa Cruz es un problema urbano y no aporta solución inmediata rural."
+  },
+  {
+    "id": 22,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 22: A partir de lo expuesto en el artículo, ¿cuál de los siguientes aspectos representa una limitación no abordada por el autor al proponer incentivos financieros y modelos de negocio para la economía circular en Bolivia?",
+    "respuesta": "Sustento\nEl artículo menciona incentivos financieros, micro créditos, fondos de innovación y la participación de jóvenes emprendedores, pero nunca analiza la dimensión de género ni cómo la desigualdad entre hombres y mujeres podría limitar el acceso de las mujeres a esos recursos.",
+    "resumen": "Limitación no abordada: la dimensión de género y cómo la desigualdad puede limitar el acceso de mujeres a esos recursos."
+  },
+  {
+    "id": 23,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 23: El artículo señala que la eficiencia del reciclaje (R) permite cuantificar el grado de cierre de los ciclos de materiales. ¿Por qué es relevante este indicador para diseñar una política de incentivos financieros dirigida a micro empresas de reciclaje en Bolivia?",
+    "respuesta": "Sustento \nEl artículo enfatiza que la eficiencia del reciclaje (R) sirve como indicador de desempeño que permite evaluar cuán cerrado está el ciclo de materiales; este dato puede usarse para estructurar bonos o pagos por servicios ambientales, asegurando que los incentivos financieros premien a micro empresas que logren una mayor efectividad en el cierre del ciclo. En la sección de conclusiones se menciona la necesidad de establecer indicadores de desempeño, como la tasa de reciclaje R, como métricas obligatorias para municipios y empresas.",
+    "resumen": "R permite medir desempeño y usarlo para dar incentivos (bonos/PSA) a microempresas que cierren mejor el ciclo."
+  },
+  {
+    "id": 24,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 24: De acuerdo con el texto, ¿cuál de los siguientes posibles sesgos ambientales no está suficientemente abordado por el autor en su análisis?",
+    "respuesta": "Sustento\nAunque el artículo describe ampliamente los beneficios del reciclaje de PET y la valorización energética, nunca menciona ni cuantifica las posibles emisiones de CO2 o de otros gases de efecto invernadero que pueden generarse durante la recolección, el transporte y el procesamiento de los materiales reciclados. El texto se centra en la eficiencia del reciclaje (R) y en los impactos positivos, sin considerar este costo ambiental.",
+    "resumen": "No se aborda el costo ambiental de emisiones (CO₂/GEI) por recolección, transporte y procesamiento del reciclaje."
+  },
+  {
+    "id": 25,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 25: La lectura del texto permite identificar que el argumento del autor sobre la validez de establecer indicadores de desempeño, como la tasa de reciclaje R, para mejorar la eficiencia del reciclaje en Bolivia, es:",
+    "respuesta": "Sustento\nEl texto proporciona evidencia empírica que respalda la propuesta del autor: se citan cifras específicas de la tasa de reciclaje de PET (8%) y se describen casos concretos, como la empresa ReciclArte, que compra PET, lo procesa y genera ingresos de 22 000 USD y evita 15 toneladas de CO2. Estas experiencias demuestran que, al medir la eficiencia a través del indicador R, se pueden observar mejoras tangibles en la recuperación de materiales y en los resultados económicos de micro empresas, lo que valida la argumentación del autor.",
+    "resumen": "Es válido porque hay evidencia (PET 8%, caso ReciclArte: 22.000 USD y evitó 15 t CO₂) y medir R permite ver mejoras."
+  },
+  {
+    "id": 26,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 26: Del análisis presentado se desprende que, de acuerdo al artículo, ¿por qué es relevante la incorporación de indicadores de desempeño de reciclaje (R) para la formulación de políticas públicas en los municipios de Bolivia?",
+    "respuesta": "Sustento\nEn la sección de Conclusiones el artículo recomienda establecer indicadores de desempeño, como la tasa de reciclaje R, como métricas obligatorias para municipios y empresas, con el fin de evaluar la eficacia de los programas, orientar la asignación de fondos (microcréditos) y diseñar incentivos financieros. Esta función se menciona explícitamente: “Establecer indicadores de desempeño (por ejemplo, la tasa de reciclaje R) como métricas obligatorias para municipios y empresas”.",
+    "resumen": "R es clave para evaluar programas, asignar fondos y diseñar incentivos en municipios (como métrica obligatoria)."
+  },
+  {
+    "id": 27,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 27: Según el artículo, ¿qué sesgo limita la representatividad de los resultados presentados sobre la eficiencia de la economía circular en Bolivia?",
+    "respuesta": "Sustento\nEl artículo solo describe ejemplos concretos de reciclaje de PET en Santa Cruz y de digestores anaeróbicos en Cochabamba, sin proporcionar evidencia de otras áreas del país. Esta focalización geográfica impide extrapolar los hallazgos a la realidad nacional, constituyendo un sesgo de representatividad.",
+    "resumen": "Sesgo: se usan ejemplos de pocas regiones (Santa Cruz y Cochabamba) y no se puede generalizar al país."
+  },
+  {
+    "id": 28,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 28: De acuerdo con el texto, ¿cuál es la implicación ética más relevante al promover incentivos financieros para micro empresas que realizan reciclaje de PET en Bolivia?",
+    "respuesta": "Sustento \nEl texto señala que los incentivos financieros buscan apoyar a micro empresas (p. ej., ReciclArte) y que la falta de una política inclusiva puede dejar fuera a los recolectores informales, creando una situación de inequidad y planteando una cuestión de justicia distributiva",
+    "resumen": "Implicación ética: si no es inclusivo, deja fuera a recolectores informales y genera inequidad (justicia distributiva)."
+  },
+  {
+    "id": 29,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 29: El artículo señala que la participación de ONG es fundamental para mejorar la separación de residuos en origen. ¿Cuál de las siguientes afirmaciones constituye una evaluación crítica adecuada de la suficiencia de la evidencia presentada sobre el papel de las ONG en este proceso?",
+    "respuesta": "Sustento\nAunque el artículo menciona que la ONG EcoBol logró elevar la tasa de separación de papel y cartón del 3% al 18% en los Yungas, esa información corresponde a un caso aislado y regional. No se presentan datos comparativos con otras áreas ni estudios longitudinales que permitan determinar si el efecto es atribuible exclusivamente a la intervención de la ONG ni si es replicable a nivel nacional. Por ello, la evidencia es limitada para sustentar afirmaciones generales sobre el impacto de las ONG.",
+    "resumen": "La evidencia sobre ONG es limitada: es un caso regional sin comparaciones ni estudios a largo plazo, así que no se puede generalizar."
+  },
+  {
+    "id": 30,
+    "clasificacion": "economia_circular",
+    "pregunta": "Pregunta 30: El artículo señala que el proyecto piloto de digestores anaeróbicos en Cochabamba generó, por cada kilogramo de residuos orgánicos, ¿cuántos metros cúbicos de metano?",
+    "respuesta": "Sustento\nEn la sección 3.2 del artículo se indica que el proyecto piloto en Cochabamba “demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos”. Las demás opciones alteran el valor numérico (0,35 m³ y 0,55 m³) o la unidad de medida (por tonelada), por lo que no coinciden con el dato explícito presentado.",
+    "resumen": "0,45 m³ de metano por kg de residuos orgánicos."
+  }
+]

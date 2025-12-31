@@ -1,0 +1,338 @@
+[
+  {
+    "id": 99,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "99.En una escuela se van a empaquetar 48 lápices en paquetes iguales, sin que sobre ninguno. ¿Cuál es la mayor cantidad posible de lápices que puede contener cada paquete?",
+    "respuesta": "Para que los 48 lápices se repartan en paquetes iguales sin que sobre ninguno, la cantidad de lápices por paquete debe ser un divisor de 48. Los divisores de 48 son 1, 2, 3, 4, 6, 8, 12, 16, 24 y 48. Como se busca la mayor cantidad posible pero menor que el total, el divisor máximo es 24. Por lo tanto, cada paquete puede contener como máximo 24 lápices y se formarán exactamente 2 paquetes.",
+    "resumen": "Buscamos el divisor más grande menor que 48: 24 lápices por paquete."
+  },
+  {
+    "id": 100,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "100. Una maestra dispone 48 fichas para repartir entre 6 grupos, de forma que cada grupo reciba la misma cantidad de fichas y esa cantidad sea múltiplo de 4. ¿Cuántas fichas recibe cada grupo?",
+    "respuesta": "Para que cada grupo reciba la misma cantidad de fichas, dividimos el total de fichas entre el número de grupos: 48 ÷ 6 = 8. Además, 8 es múltiplo de 4 (8 = 4 × 2), cumpliendo la condición adicional. Por lo tanto, cada grupo debe recibir 8 fichas. Las demás opciones no cumplen ambas condiciones simultáneamente.",
+    "resumen": "48 ÷ 6 = 8 y 8 es múltiplo de 4, entonces reciben 8."
+  },
+  {
+    "id": 101,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "101. En una fila se colocan fichas de colores siguiendo el patrón: rojo, azul, verde, rojo, azul, verde, … ¿Cuál será el color de la ficha que ocupa el lugar número 20?",
+    "respuesta": "El patrón de colores se repite cada tres fichas: rojo → azul → verde. Para determinar el color de la posición 20, dividimos 20 entre 3. El cociente es 6 y el residuo es 2 (20 = 3·6 + 2). El residuo indica la posición dentro del ciclo: 1 corresponde a rojo, 2 a azul y 3 a verde. Como el residuo es 2, la ficha número 20 corresponde al segundo elemento del ciclo, es decir, al color azul.",
+    "resumen": "Ciclo de 3; 20 deja residuo 2, entonces es azul."
+  },
+  {
+    "id": 102,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "102. En una sucesión numérica el primer término es 5 y cada término siguiente se obtiene sumando 4 al anterior. ¿Cuál es el sexto término de la sucesión?",
+    "respuesta": "Para obtener el n-ésimo término de una sucesión aritmética se parte del primer término y se suma el incremento (diferencia) multiplicado por (n-1). Aquí el primer término a1 = 5 y la diferencia d = 4. El sexto término será a6 = a1 + (6-1)·d = 5 + 5·4 = 5 + 20 = 25.",
+    "resumen": "Es aritmética: 5 + (6−1)·4 = 25."
+  },
+  {
+    "id": 103,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "103. En una granja, el número de gallinas es el doble del número de conejos. Si el total de animales (gallinas y conejos) es 30, ¿cuántos conejos hay en la granja?",
+    "respuesta": "Sea C el número de conejos. Entonces el número de gallinas es 2C. El total de animales es C + 2C = 3C, y se sabe que es 30. Por lo tanto, 3C = 30, de donde C = 30 / 3 = 10. Así, hay 10 conejos en la granja. Esta solución muestra cómo elegir la estrategia de plantear una ecuación lineal basada en la relación dada y resolverla paso a paso.",
+    "resumen": "Si gallinas = 2C, total = 3C = 30 ⇒ C = 10."
+  },
+  {
+    "id": 104,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "104. En un concurso de matemática, se deben formar equipos de tres estudiantes cuya suma total de puntuaciones sea al menos 20 puntos. Las puntuaciones de los seis participantes son: Ana 8, Luis 7, Carla 6, Pedro 5, Marta 4 y José 3. ¿Cuál de los siguientes grupos cumple la condición requerida?",
+    "respuesta": "Para verificar cada alternativa se suma la puntuación de los tres estudiantes indicados. Sólo el grupo “Ana + Luis + Carla” produce una suma de 8 + 7 + 6 = 21, que es mayor o igual a 20. Las demás combinaciones dan 17, 18 y 13 respectivamente, por debajo del umbral establecido. Por lo tanto, la estrategia consiste en añadir las puntuaciones y comparar con el valor requerido; la única opción que satisface la condición es la segunda.",
+    "resumen": "La única suma ≥20 es Ana+Luis+Carla = 21."
+  },
+  {
+    "id": 105,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "105. Una biblioteca escolar cuenta con 84 libros idénticos que se organizarán en estanterías. Cada estantería debe contener el mismo número de libros, dicho número tiene que ser múltiplo de 3 y no puede superar los 12 libros por estantería. ¿Cuál es la menor cantidad posible de estanterías que se necesitan para alojar todos los libros?",
+    "respuesta": "Para cumplir con la condición, se busca el mayor número de libros por estantería que sea múltiplo de 3 y ≤ 12, pues al maximizar los libros por estantería se minimiza la cantidad de estanterías. Los múltiplos de 3 menores o iguales a 12 son 3, 6 y 12. Dividiendo los 84 libros entre cada uno se obtiene: 84/3 = 28, 84/6 = 14 y 84/12 = 7. El menor número de estanterías corresponde a usar 12 libros por estantería, lo que da 84 ÷ 12 = 7 estanterías.",
+    "resumen": "Para usar menos estanterías, poner 12 por estante: 84/12 = 7."
+  },
+  {
+    "id": 106,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "106. En una escuela se organizan equipos de debate. Cada equipo debe estar formado por exactamente 4 estudiantes y, para que el equipo sea competitivo, debe incluir al menos un estudiante cuyo nivel sea 3 o superior. La escuela cuenta con 12 estudiantes de nivel 1, 8 de nivel 2, 6 de nivel 3 y 4 de nivel 4. ¿Cuál es el número máximo de equipos que pueden formarse cumpliendo la condición requerida?",
+    "respuesta": "Primero se determina cuántos equipos podrían formarse sin ninguna restricción: la escuela tiene en total 12+8+6+4 = 30 estudiantes, y cada equipo necesita 4 integrantes, por lo que el número máximo posible de equipos es ⌊30/4⌋ = 7 (ya que 7×4 = 28 y sobran 2 estudiantes). La condición adicional exige que cada equipo tenga al menos un estudiante de nivel 3 o 4. Hay 6 estudiantes de nivel 3 y 4 de nivel 4, es decir, 10 estudiantes que cumplen esa condición. Como se requieren 7 equipos, basta con disponer de al menos 7 estudiantes de nivel ≥3, lo cual es posible porque hay 10. Después de asignar un estudiante de nivel alto a cada uno de los 7 equipos, quedan 30-7 = 23 estudiantes para completar los cupos restantes (3 por equipo, en total 21 plazas). Como 23 ≥ 21, se pueden llenar todos los equipos.",
+    "resumen": "Se pueden formar 7 equipos (30/4=7) y hay suficientes de nivel ≥3 para cumplir."
+  },
+  {
+    "id": 107,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "107. En la biblioteca de la escuela hay 48 libros que se deben colocar en filas con el mismo número de libros en cada fila, sin que sobre ninguno. ¿Cuál es la estrategia más adecuada para determinar cuántas filas se pueden formar?",
+    "respuesta": "Para que las filas tengan el mismo número de libros y no sobre ninguno, el número de filas debe ser un divisor de 48. La estrategia adecuada es probar divisores de 48 (por ejemplo, 1, 2, 3, 4, 6, 8, 12, 16, 24, 48) y verificar cuál produce un cociente entero. Dividir 48 entre un número y obtener un residuo cero garantiza que la distribución es exacta. Las otras opciones (restar uno repetidamente, multiplicar por 2 o dividir por 5) no aseguran una partición exacta y, por lo tanto, no son estrategias apropiadas para este problema.",
+    "resumen": "La estrategia es buscar divisores de 48 (división exacta)."
+  },
+  {
+    "id": 108,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "108. En una escuela, la cantidad de estudiantes en las clases se incrementa siguiendo una estrategia constante: la clase 1 tiene 12 alumnos, la clase 2 tiene 15 alumnos, la clase 3 tiene 18 alumnos y la clase 4 tiene 21 alumnos. ¿Cuántos alumnos habrá en la clase 5 si se mantiene la misma estrategia?",
+    "respuesta": "Observando los datos, la diferencia entre los números de alumnos de clases consecutivas es constante: 15-12 = 3, 18-15 = 3 y 21-18 = 3. Esto indica que se está aplicando una estrategia de suma de 3 alumnos por cada nueva clase, es decir, una progresión aritmética con razón 3. Para obtener el número de alumnos de la clase 5, se suma 3 al valor de la clase 4: 21 + 3 = 24.",
+    "resumen": "Se suma 3 cada clase; clase 5 = 24."
+  },
+  {
+    "id": 109,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "109. En una lista de precios de materiales de construcción se tienen los valores: 120, 85, 150, 95 y 130 bolivianos. ¿Cuál es la mejor estrategia para identificar rápidamente el precio más bajo?",
+    "respuesta": "Para encontrar el precio más bajo basta aplicar la estrategia de ordenar los valores de menor a mayor; el primer número del orden resultante será el mínimo. Esta táctica es directa y evita operaciones innecesarias como multiplicar, sumar o dividir, que no alteran la posición relativa de los números y sólo complican el proceso. Al ordenar simplemente, el postulante demuestra que ha seleccionado la estrategia más eficiente y la ha aplicado correctamente.",
+    "resumen": "Ordenar de menor a mayor y tomar el primero."
+  },
+  {
+    "id": 110,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "110. En una secuencia numérica, cada término se obtiene multiplicando el término anterior por 2 y sumándole 1. Si el primer término es 3, ¿cuál es el quinto término de la serie?",
+    "respuesta": "Para hallar cada término se aplica la regla an = 2·a(n-1) + 1. - a1 = 3 (dado). - a2 = 2·3 + 1 = 7. - a3 = 2·7 + 1 = 15. - a4 = 2·15 + 1 = 31. - a5 = 2·31 + 1 = 63. Por lo tanto, el quinto término es 63, que corresponde a la opción correcta.",
+    "resumen": "Aplicando ×2+1: el 5º término es 63."
+  },
+  {
+    "id": 111,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "111. En una serie de números se observa la siguiente secuencia: 3, 8, 15, 24, 35, … ¿Cuál es el siguiente número de la serie?",
+    "respuesta": "Para hallar el siguiente término debemos identificar la regla que genera la serie. Calculando las diferencias entre términos consecutivos obtenemos: 8-3 = 5, 15-8 = 7, 24-15 = 9, 35-24 = 11. Las diferencias forman una progresión aritmética cuyo incremento es constante e igual a 2 (5, 7, 9, 11,…). Por lo tanto, la siguiente diferencia será 11 + 2 = 13. Sumando esta diferencia al último término conocido: 35 + 13 = 48. Así, el número que sigue a la serie es 48.",
+    "resumen": "Diferencias 5,7,9,11; sigue +13 ⇒ 48."
+  },
+  {
+    "id": 112,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "112. En la siguiente serie numérica cada término se forma multiplicando dos números consecutivos: 2, 6, 12, 20, … ¿Cuál es el próximo número de la serie?",
+    "respuesta": "Cada término de la serie se obtiene al multiplicar un número n por su sucesor n+1. Así: 1×2=2, 2×3=6, 3×4=12, 4×5=20. El próximo término corresponde a n=5, por lo que se calcula 5×6=30.",
+    "resumen": "Es n(n+1); sigue 5×6 = 30."
+  },
+  {
+    "id": 113,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "113. En una escuela se van a colocar 96 sillas en filas iguales. El director desea que haya al menos 8 filas y que cada fila contenga el mismo número de sillas. ¿Cuál es la mayor cantidad posible de sillas por fila?",
+    "respuesta": "Para que todas las filas tengan el mismo número de sillas, el número total de sillas (96) debe dividirse exactamente entre el número de filas. Como se requiere al menos 8 filas, el número de filas más pequeño permitido es 8. Dividiendo 96 ÷ 8 obtenemos 12 sillas por fila. Si se usara un número mayor de filas, el número de sillas por fila sería menor.",
+    "resumen": "Con mínimo 8 filas: 96/8 = 12 sillas por fila."
+  },
+  {
+    "id": 114,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "114. Una escuela tiene 48 alumnos que deben ser divididos en grupos idénticos para una actividad de laboratorio, de manera que cada grupo tenga el mismo número de alumnos y el número total de grupos sea un número cuadrado perfecto (por ejemplo, 1, 4, 9, 16, …). ¿Cuál es la mayor cantidad posible de grupos que se pueden formar bajo esas condiciones?",
+    "respuesta": "Para que el número de grupos sea un cuadrado perfecto, primero enumeramos los cuadrados menores o iguales a 48: 1, 4, 9, 16, 25, 36. Cada uno debe dividir exactamente a 48, pues los alumnos se reparten sin residuos. Verificamos los divisores de 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. De los cuadrados listados, sólo 1, 4 y 16 aparecen como divisores de 48. El mayor de ellos es 16, por lo que se pueden formar 16 grupos con 48 ÷ 16 = 3 alumnos por grupo.",
+    "resumen": "El mayor cuadrado divisor de 48 es 16; se forman 16 grupos."
+  },
+  {
+    "id": 115,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "115. En una serie numérica el primer término es 3 y cada término se forma sumando al anterior el siguiente número impar (1, 3, 5, 7, …). ¿Cuál es el quinto término de la serie?",
+    "respuesta": "Para resolver la pregunta se debe identificar la regla que genera la serie. Partiendo del primer término (3), a cada término se le suma el siguiente número impar: 1. 3 + 1 = 4 (segundo término) 2. 4 + 3 = 7 (tercer término) 3. 7 + 5 = 12 (cuarto término) 4. 12 + 7 = 19 (quinto término). Así, el quinto término es 19. Esta estrategia consiste en observar los incrementos entre términos, reconocer que forman la sucesión de los números impares y aplicar la suma sucesiva, lo que corresponde a la capacidad de seleccionar y aplicar la estrategia adecuada para identificar patrones numéricos.",
+    "resumen": "Sumando impares 1,3,5,7: el 5º término es 19."
+  },
+  {
+    "id": 116,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "116. Una escuela necesita asignar a cada uno de sus 5 salones un docente diferente de entre 5 docentes disponibles, de modo que un docente solo pueda estar en un salón. ¿Qué método de razonamiento lógico-matemático se emplea para determinar cuántas asignaciones posibles existen?",
+    "respuesta": "Para contar cuántas formas distintas existen de asignar 5 docentes a 5 salones, cada salón recibe un docente y ninguno se repite. En el primer salón hay 5 opciones posibles, en el segundo 4 (el docente ya usado no está disponible), en el tercero 3, luego 2 y finalmente 1. El número total de asignaciones se obtiene multiplicando las opciones de cada paso: 5 × 4 × 3 × 2 × 1 = 120. Este razonamiento corresponde al principio de multiplicación, que establece que si una tarea se puede realizar de m maneras y, una vez realizada, una segunda tarea de n maneras, entonces ambas tareas consecutivas pueden completarse de m·n maneras. Los demás principios listados (adición, prueba y error, inducción) no se aplican a este tipo de conteo porque no suman alternativas mutuamente excluyentes ni implican razonamiento inductivo. Por lo tanto, la estrategia correcta es el principio de multiplicación.",
+    "resumen": "Se usa el principio de multiplicación: 5! = 120."
+  },
+  {
+    "id": 117,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "117. En una clase se sabe que: Si un estudiante aprueba la prueba, entonces estudió al menos 3 horas. Carlos estudió 4 horas. ¿Cuál de las siguientes afirmaciones se puede afirmar con certeza?",
+    "respuesta": "Los datos dados son: (1) “Si aprueba, entonces estudió ≥3 horas” y (2) “Carlos estudió 4 horas”. La premisa (1) es una implicación que solo asegura que, en caso de que el estudiante haya aprobado, su tiempo de estudio será al menos 3 horas. No indica nada sobre lo que ocurre cuando estudia ≥3 horas sin aprobar. Por lo tanto, no podemos concluir que Carlos aprobó o que no aprobó; ambas posibilidades siguen abiertas. Lo único que sí podemos afirmar con certeza es que, si en algún momento se comprobara que Carlos aprobó, entonces, según la regla (1), necesariamente habría estudiado al menos 3 horas. Dado que ya sabemos que estudió 4 horas (≥3), la condición del consecuente se cumple, pero la antecedente (aprobar) sigue sin estar confirmada. Así, la única afirmación lógicamente válida es la opción que establece la relación condicional: “Si Carlos aprobó, estudió al menos 3 horas”.",
+    "resumen": "No se puede asegurar que aprobó; solo: “Si aprobó, estudió ≥3 horas”."
+  },
+  {
+    "id": 118,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "118. En una tarea de matemática, el profesor pide determinar el mayor número entero que divide exactamente a los tres valores 84, 126 y 210. ¿Cuál de los siguientes procedimientos es el más adecuado para hallar ese número de forma rápida y fiable?",
+    "respuesta": "El mayor número que divide simultáneamente a 84, 126 y 210 es su máximo común divisor (MCD). El algoritmo de Euclides permite encontrar el MCD de dos números mediante restas sucesivas o, de forma más eficiente, usando divisiones con resto: MCD(a,b)=MCD(b, resto). Aplicando el algoritmo primero a 84 y 126 se obtiene MCD=42; luego se calcula MCD(42,210), que también resulta 42. Por lo tanto, el procedimiento que utiliza el algoritmo de Euclides es el más rápido y fiable. Las otras opciones requieren procesos más extensos o no garantizan el resultado correcto.",
+    "resumen": "Usar el algoritmo de Euclides; el MCD es 42."
+  },
+  {
+    "id": 119,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "119. En una fila de espera, Carlos ocupa el primer puesto, José está justo detrás de Carlos y Luis está justo detrás de José. ¿En qué puesto se encuentra Luis?",
+    "respuesta": "Según el enunciado, Carlos está en el primer puesto. José se coloca inmediatamente detrás de él, ocupando el segundo puesto. Luis se sitúa justo detrás de José, por lo que ocupa el siguiente lugar en la fila, es decir, el tercer puesto. Para establecer este argumento, se identifican las relaciones de posición (delante y detrás) y se encadenan de forma lógica para llegar a la conclusión correcta.",
+    "resumen": "Luis queda tercero en la fila."
+  },
+  {
+    "id": 120,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "120. En una fila de cinco asientos para una competición de matemática, se disponen los estudiantes Sofia, Bruno, Carla, Diego y Elena. Se sabe que: Sofia no está en un extremo. Bruno está inmediatamente a la izquierda de Carla. Diego está en el tercer asiento. Elena no está al lado de Sofia. ¿Cuál de las siguientes afirmaciones es correcta? Carla ocupa el quinto asiento. Bruno ocupa el primer asiento. Elena ocupa el cuarto asiento. Sofia ocupa el segundo asiento.",
+    "respuesta": "Para resolver el problema, se analizan las condiciones paso a paso. Sabemos que Diego está en el tercer asiento, por lo que los asientos quedan distribuidos así: _ _ D _ _. La condición 2 indica que Bruno está inmediatamente a la izquierda de Carla, lo que puede suceder en los pares (1-2), (2-3), (3-4) o (4-5). Como el asiento 3 ya está ocupado por Diego, los pares posibles son (1-2) y (4-5). Si Bruno-Carla estuvieran en (1-2), entonces Bruno estaría en el primer asiento y Carla en el segundo, pero la condición 1 prohíbe que Sofia esté en un extremo y la condición 4 prohibe que Elena quede al lado de Sofia; no hay forma de ubicar a Sofia y Elena sin violar esas reglas. Por lo tanto, la pareja Bruno-Carla debe ocupar los asientos (4-5), con Bruno en el cuarto y Carla en el quinto. Quedan libres los asientos 1 y 2 para Sofia y Elena. Como Sofia no puede estar en un extremo (condición 1), ella debe estar en el segundo asiento y Elena en el primero. Verificando la condición 4, Elena (asiento 1) no está al lado de Sofia (asiento 2), lo cual cumple. Así, la disposición final es: 1-Elena, 2-Sofia, 3-Diego, 4-Bruno, 5-Carla.",
+    "resumen": "La disposición queda: Elena-1, Sofia-2, Diego-3, Bruno-4, Carla-5."
+  },
+  {
+    "id": 121,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "121. Para saber cuántos grupos iguales de 6 tarjetas pueden formarse a partir de un total de 84 tarjetas sin que sobre ninguna, ¿qué paso inicial es el más adecuado?",
+    "respuesta": "El objetivo es determinar si 84 es divisible por 6 y, de ser así, cuántas veces cabe 6 en 84. La forma más directa y fiable es realizar la división 84 ÷ 6; si el resultado es un número entero, la división es exacta y el cociente indica el número de grupos. En este caso, 84 ÷ 6 = 14, por lo que se pueden formar 14 grupos de 6 tarjetas sin que sobre ninguna. Los demás procedimientos (restar repetidamente, multiplicar y comparar, o sumar iterativamente) son menos eficientes y pueden inducir a errores, especialmente con números mayores.",
+    "resumen": "El primer paso es dividir 84 ÷ 6; da 14 grupos."
+  },
+  {
+    "id": 122,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "122. En una escuela se afirma que: 1) Todos los libros son objetos y 2) Todos los objetos son cosas. Con base en esas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "respuesta": "Las premisas indican una cadena de inclusión: “Todos los libros son objetos” y “Todos los objetos son cosas”. En lógica, la relación de inclusión es transitiva; es decir, si A está contenido en B y B está contenido en C, entonces A está contenido en C. Por lo tanto, se deduce necesariamente que todos los libros son cosas. Las otras opciones no se pueden garantizar a partir de la información dada: puede haber objetos que no sean libros, puede haber libros que sí sean cosas (pero la afirmación “Ningún libro es una cosa” contradice la conclusión lógica), y la existencia de “algunas cosas” que sean libros no es obligatoria.",
+    "resumen": "Si libros ⊂ objetos y objetos ⊂ cosas, entonces libros ⊂ cosas."
+  },
+  {
+    "id": 123,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "123. En una escuela se organizan 84 libros en estanterías. Cada estantería debe contener el mismo número de libros y, como mínimo, 6 libros por estantería. ¿Cuál es el mayor número posible de estanterías que se pueden usar?",
+    "respuesta": "Para obtener el mayor número posible de estanterías se necesita que cada estantería tenga la menor cantidad de libros permitida, es decir, 6 libros. Dividiendo el total de libros (84) entre 6 se obtiene 84 ÷ 6 = 14. Este es el número máximo de estanterías que cumplen con la condición de tener el mismo número de libros y al menos 6 por estantería. Cualquier número mayor de estanterías implicaría menos de 6 libros por estantería, lo cual viola la condición establecida.",
+    "resumen": "Para maximizar estantes, usar 6 por estante: 84/6 = 14."
+  },
+  {
+    "id": 124,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "124. En la siguiente tabla, los valores de la columna B se relacionan con los de la columna A siguiendo una regla constante: ¿Cuál debe ser el valor de B cuando A = 11?",
+    "respuesta": "Observando la tabla, los incrementos de A son de 3 unidades (2 → 5 → 8) y los de B son de 7 unidades (5 → 12 → 19). Esto indica que la relación entre A y B es lineal con una pendiente de 7/3. Planteamos la ecuación del tipo B = m·A + c, donde m = 7/3. Sustituimos un par conocido: 5 = (7/3)·2 + c ⇒ c = 5 - 14/3 = 1/3. Por lo tanto, la regla que genera la tabla es: B = (7·A + 1) / 3. Para A = 11: B = (7·11 + 1) / 3 = (77 + 1) / 3 = 78 / 3 = 26. Así, el valor correcto de B es 26. La solución requiere identificar la estrategia adecuada (reconocer la progresión aritmética en ambas columnas) y aplicarla mediante una fórmula lineal.",
+    "resumen": "La regla da B=(7A+1)/3; con A=11 sale B=26."
+  },
+  {
+    "id": 125,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "125. En una serie de bloques de construcción, la cantidad de bloques que se colocan en cada fila sigue el patrón: 2, 5, 9, 14, … ¿Cuál será el número de bloques en la quinta fila?",
+    "respuesta": "Para identificar la regla, observamos las diferencias entre términos consecutivos: 5-2 = 3, 9-5 = 4, 14-9 = 5. Las diferencias aumentan en una unidad cada paso (3, 4, 5, …). Por lo tanto, la siguiente diferencia será 6. Sumando 6 al último término conocido (14) obtenemos 14 + 6 = 20. Así, la quinta fila tendrá 20 bloques. Esta respuesta se obtiene aplicando la estrategia de reconocer y extender una secuencia de diferencias crecientes, lo que evidencia razonamiento lógico matemático.",
+    "resumen": "Diferencias 3,4,5; sigue +6 ⇒ 20."
+  },
+  {
+    "id": 126,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "126. En una clase de 5° grado se establecen las siguientes reglas: Todos los estudiantes que aprueban el examen final tienen al menos 80% de asistencia. María aprobó el examen final. Carlos tiene 78% de asistencia. Con base en esas premisas, ¿cuál de las siguientes afirmaciones se deduce lógicamente?",
+    "respuesta": "La premisa 1 establece una condición necesaria: para aprobar el examen, el estudiante debe contar con al menos 80% de asistencia. La premisa 2 indica que María aprobó. Aplicando la regla anterior, concluimos que María debe cumplir la condición requerida, es decir, tiene al menos 80% de asistencia. Las demás opciones no se derivan de las premisas dadas: la asistencia de Carlos no permite inferir su desempeño académico, la afirmación de que todos los que tienen 80% aprueban invierte la dirección lógica (la condición es necesaria, no suficiente), y la última opción contradice directamente la información de que al menos María aprobó.",
+    "resumen": "Si María aprobó, entonces tiene ≥80% de asistencia."
+  },
+  {
+    "id": 127,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "127. En una escuela, tres docentes (Sofia, Bruno y Carla) deben supervisar un examen dividido en dos turnos: mañana y tarde. Se cumplen las siguientes condiciones: (1) Si Sofia supervisa el turno de mañana, entonces Bruno supervisa el turno de tarde; (2) Carla no supervisa el mismo turno que Bruno; (3) Exactamente dos docentes supervisan el turno de mañana. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "respuesta": "Analicemos las opciones con las condiciones dadas: 1) Si Sofia está en la mañana, la condición (1) obliga a que Bruno esté en la tarde. Entonces, para cumplir (3) (dos docentes en la mañana), Carla debe estar en la mañana. Además, Carla no comparte turno con Bruno, lo que se cumple porque Bruno está en la tarde. Esta combinación (Sofia mañana, Bruno tarde, Carla mañana) satisface todas las condiciones, por lo que es la respuesta correcta. 2) En la segunda opción, Sofia está en la tarde, pero no hay restricción directa sobre Bruno; sin embargo, Carla comparte turno con Bruno (ambos en la mañana), violando la condición (2). 3) En la tercera opción, tanto Sofia como Bruno estarían en la mañana, lo que contradice la condición (1) que exige que si Sofia está en la mañana, Bruno debe estar en la tarde. 4) En la cuarta opción, tanto Sofia como Bruno están en la tarde, lo que no permite que haya exactamente dos docentes en la mañana, incumpliendo la condición (3). Por lo tanto, solo la primera alternativa cumple de manera coherente todas las premisas del enunciado.",
+    "resumen": "La única opción válida: Sofia mañana, Bruno tarde, Carla mañana."
+  },
+  {
+    "id": 128,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "128. Una maestra debe repartir a sus 12 alumnos en tres grupos. Cada grupo debe contener un número distinto de estudiantes y los tamaños de los grupos no pueden ser números consecutivos. ¿Cuál de las siguientes opciones cumple con todas las condiciones?",
+    "respuesta": "Para satisfacer las condiciones se deben cumplir tres requisitos: (1) la suma de los tres tamaños debe ser 12, (2) los tres números deben ser distintos y (3) ninguno de los pares de números puede ser consecutivo (es decir, no pueden diferir en 1). - Opción A (5+4+3=12) cumple la suma y la distinción, pero 5 y 4 son consecutivos, por lo que se descarta. - Opción B (7+4+1=12) cumple la suma, los tres números son distintos y las diferencias entre ellos son 3 (7-4) y 3 (4-1) y 6 (7-1), ninguna es 1; por lo tanto, satisface todas las condiciones. - Opción C (8+2+2=12) no cumple la condición de números distintos, pues dos grupos tendrían 2 estudiantes. - Opción D (6+3+3=12) también falla en la condición de distintividad, ya que dos grupos tendrían 3 estudiantes. Así, la única alternativa válida es la B: 7, 4 y 1 estudiante.",
+    "resumen": "La única partición válida es 7, 4 y 1."
+  },
+  {
+    "id": 129,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "129. En una biblioteca hay tres categorías de libros: A, B y C. El número total de libros es 210. Cada libro de la categoría A consta de 4 volúmenes, cada libro de la categoría B de 3 volúmenes y cada libro de la categoría C de 2 volúmenes. Además, el número de libros de la categoría A es tres veces el número de libros de la categoría C. ¿Cuántos libros pertenecen a la categoría B?",
+    "respuesta": "Sea a, b y c la cantidad de libros de las categorías A, B y C respectivamente. Se plantean tres ecuaciones a partir de la información dada: 1) a + b + c = 210 (número total de libros). 2) 4a + 3b + 2c = 720 (número total de volúmenes, pues cada libro aporta su cantidad de volúmenes). 3) a = 3c (los libros de A son triple que los de C). Sustituyendo a = 3c en la ecuación (1): 3c + b + c = 210 → b + 4c = 210 → b = 210 – 4c. Ahora sustituimos a = 3c y b = 210 – 4c en la ecuación (2): 4(3c) + 3(210 – 4c) + 2c = 720 → 12c + 630 – 12c + 2c = 720 → 2c + 630 = 720 → 2c = 90 → c = 45. Con c = 45, se obtiene a = 3c = 135 y b = 210 – 4c = 210 – 180 = 30.",
+    "resumen": "Resolviendo el sistema sale B = 30 libros."
+  },
+  {
+    "id": 130,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "130. Una docente debe repartir 84 lápices entre 5 aulas de primaria. Cada aula debe recibir al menos 10 lápices y se quiere que la diferencia entre la mayor y la menor cantidad entregada sea lo más pequeña posible. ¿Cuántos lápices debe recibir la aula que recibe la mayor cantidad?",
+    "respuesta": "Primero se garantiza el mínimo: cada aula recibe 10 lápices, lo que consume 5 × 10 = 50 lápices. Quedan 84 − 50 = 34 lápices por distribuir. Para minimizar la diferencia entre la mayor y la menor cantidad, se reparten esos 34 lápices lo más uniformemente posible. Dividiendo 34 entre 5 aulas se obtiene 6 lápices completos por aula con un resto de 4 lápices (34 = 5 × 6 + 4). Así, a cada aula se le añaden 6 lápices, y a cuatro de ellas se les da un lápiz extra del resto. Cada aula tiene entonces 10 + 6 = 16 lápices como base; cuatro aulas reciben un lápiz adicional, pasando a 17. De esta forma una aula recibe 17 lápices (máximo) y otra 16 (mínimo), logrando la diferencia mínima de 1 lápiz.",
+    "resumen": "Reparto lo más parejo: máximo 17 y mínimo 16."
+  },
+  {
+    "id": 131,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "131. En una escuela se sabe que: Todos los alumnos que participan en el club de ciencias obtienen una calificación mayor a 80 en matemática. Carlos participa en el club de ciencias. María no participa en el club de ciencias. ¿Cuál de las siguientes afirmaciones se deduce necesariamente a partir de la información anterior?",
+    "respuesta": "De la premisa 1 se establece una relación universal: si un alumno pertenece al club de ciencias, entonces su calificación en matemática es >80. La premisa 2 indica que Carlos pertenece a ese club. Aplicando modus ponens (Si P entonces Q; P es verdadera; por lo tanto Q es verdadera), concluimos que la calificación de Carlos es mayor a 80. Ninguna de las demás opciones se sigue obligatoriamente: la información no dice nada sobre la calificación de María ni de otros alumnos que no están en el club, por lo que esas afirmaciones podrían ser falsas.",
+    "resumen": "Como Carlos está en el club, su nota en matemática es >80."
+  },
+  {
+    "id": 132,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "132. En una escuela se cumple que todos los profesores poseen título universitario. Además, María es profesora de historia. Según estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "respuesta": "Las premisas establecen una relación universal: “todos los profesores poseen título universitario” y una relación particular: “María es profesora de historia”. Aplicando el razonamiento deductivo (modus ponens), si la condición “ser profesor” implica “tener título universitario”, y María cumple la condición de ser profesora, entonces necesariamente debe cumplir la conclusión de poseer título universitario. Las demás opciones no se siguen de las premisas dadas; no hay información sobre la condición de ser estudiante ni sobre los requisitos para los estudiantes, por lo que esas afirmaciones no son necesariamente verdaderas.",
+    "resumen": "Si todos los profesores tienen título y María es profesora, María tiene título."
+  },
+  {
+    "id": 133,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "133. En un jardín rectangular, el ancho es x metros y el largo es (x + 3) metros. Si el perímetro total del jardín es de 46 metros, ¿qué estrategia permite hallar de forma más eficiente los valores de x y del largo?",
+    "respuesta": "El perímetro de un rectángulo se calcula con la fórmula P = 2·(largo + ancho). Sustituyendo largo = x + 3 y ancho = x, se tiene 46 = 2·(x + (x + 3)) → 46 = 2·(2x + 3) → 46 = 4x + 6 → 4x = 40 → x = 10. Con el método de sustitución lineal, se reemplaza la expresión del largo en la ecuación del perímetro y se resuelve paso a paso, obteniendo rápidamente x = 10 metros y, por tanto, el largo = 13 metros. Esta estrategia es más eficiente que enumerar valores, usar factorización cuadrática o probar aleatoriamente, pues aprovecha directamente la relación algebraica del problema.",
+    "resumen": "Usar la fórmula del perímetro y despejar: x=10 y largo=13."
+  },
+  {
+    "id": 134,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "134. En una escuela se establecen los siguientes enunciados: 1) Si un docente usa recursos digitales, entonces integra tecnología en sus clases. 2) Todos los docentes que integran tecnología logran mayor compromiso estudiantil. 3) Algunos docentes que usan recursos digitales son docentes novatos. ¿Cuál de las siguientes conclusiones es lógicamente válida?",
+    "respuesta": "De la premisa (3) sabemos que existen docentes novatos que usan recursos digitales. Según la premisa (1), esos docentes que usan recursos digitales integran tecnología en sus clases. A su vez, la premisa (2) indica que todo docente que integra tecnología alcanza mayor compromiso estudiantil. Por lo tanto, los docentes novatos que usan recursos digitales también logran mayor compromiso estudiantil. Esta cadena de inferencias valida la conclusión: “Algunos docentes novatos logran mayor compromiso estudiantil”.",
+    "resumen": "Hay novatos que usan recursos digitales ⇒ integran tecnología ⇒ logran mayor compromiso."
+  },
+  {
+    "id": 135,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "135. Un maestro dispone de tres cajas con bolitas. La caja A contiene el doble de bolitas que la caja B. La caja C contiene 5 bolitas menos que la caja A. Si en total hay 35 bolitas en las tres cajas, ¿cuántas bolitas hay en la caja B?",
+    "respuesta": "Sea x el número de bolitas en la caja B. Entonces la caja A tiene 2x bolitas y la caja C tiene (2x – 5) bolitas. Según el enunciado, la suma total es 35: x + 2x + (2x – 5) = 35. Simplificando: 5x – 5 = 35, de donde 5x = 40 y x = 8. Por lo tanto, la caja B contiene 8 bolitas. Esta solución muestra cómo se estableció una ecuación a partir de la información dada y se resolvió paso a paso, evidenciando un argumento lógico coherente.",
+    "resumen": "Planteando ecuación sale x=8; en la caja B hay 8."
+  },
+  {
+    "id": 136,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "136. En una competencia de baloncesto, el número de puntos anotados por un equipo en cada cuarto sigue la secuencia: 12, 17, 23, 30, … ¿Cuál será el número de puntos que anotará en el quinto cuarto si se mantiene la estrategia lógica del patrón?",
+    "respuesta": "Para resolver la pregunta se debe identificar la regla que rige la secuencia de puntos. Observando los incrementos entre términos: 17-12 = 5, 23-17 = 6, 30-23 = 7. Cada vez el incremento aumenta en una unidad. Si la tendencia continúa, el siguiente incremento será 8. Por lo tanto, el quinto término será 30 + 8 = 38. La respuesta correcta es 38. Este razonamiento muestra la selección y aplicación de la estrategia de analizar diferencias sucesivas y detectar un patrón aritmético creciente.",
+    "resumen": "Incrementos +5,+6,+7; sigue +8 ⇒ 38."
+  },
+  {
+    "id": 137,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "137. En una clase de primaria, la maestra reparte paquetes de lápices a sus alumnos. Cada paquete contiene la misma cantidad de lápices. Si se entregan 3 paquetes a cada uno de los 5 estudiantes y, al final, la maestra cuenta que utilizó 60 lápices en total, ¿cuántos lápices hay en cada paquete?",
+    "respuesta": "La información indica que a cada uno de los 5 estudiantes se le entregan 3 paquetes, y que el total de lápices usados es 60. Si x representa la cantidad de lápices por paquete, el número total de lápices es 3 paquetes × 5 estudiantes × x lápices/paquete = 15x. Igualando a 60 se obtiene la ecuación 15x = 60. Dividiendo ambos lados por 15 se halla x = 60 / 15 = 4. Por lo tanto, cada paquete contiene 4 lápices.",
+    "resumen": "Son 15 paquetes en total; 60/15=4 lápices por paquete."
+  },
+  {
+    "id": 138,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "138. En una competencia de lógica, la puntuación acumulada por un equipo después de cada ronda forma la siguiente sucesión: 3, 7, 15, 31. ¿Cuál será la puntuación total después de la quinta ronda?",
+    "respuesta": "Observemos la pauta de la sucesión: de 3 a 7 se sumó 4, de 7 a 15 se sumó 8 y de 15 a 31 se sumó 16. Los incrementos son 4, 8 y 16, que corresponden a potencias de 2 (2², 2³, 2⁴). Así, cada término se obtiene sumando al anterior la siguiente potencia de 2. Para pasar del cuarto al quinto término debemos sumar 2⁵ = 32 a 31, lo que da 31 + 32 = 63.",
+    "resumen": "Se suman potencias de 2; 31+32=63."
+  },
+  {
+    "id": 139,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "139. En una escuela se deben sentar 156 alumnos en filas y columnas formando un rectángulo completo (sin asientos vacíos). El director quiere que el número de filas sea mayor que el número de columnas y que la diferencia entre ambos sea la menor posible. ¿Cuál es la distribución de filas y columnas que cumple con esas condiciones?",
+    "respuesta": "Para que todos los 156 alumnos ocupen un rectángulo sin asientos vacíos, el número de filas (f) y columnas (c) deben ser factores de 156, es decir, f × c = 156. Primero se listan los pares de factores: (1,156), (2,78), (3,52), (4,39), (6,26), (12,13), (13,12), (26,6), (39,4), (52,3), (78,2), (156,1). El director exige que filas > columnas y que la diferencia f-c sea mínima. Entre los pares con filas mayores que columnas, los posibles son (2,78), (3,52), (4,39), (6,26), (13,12), (26,6), (39,4), (52,3), (78,2), (156,1). Calculando la diferencia absoluta: 76, 49, 35, 20, 1, 20, 35, 49, 76, 155. El valor más pequeño es 1, correspondiente al par (13,12).",
+    "resumen": "Factor más cercano con filas>columnas: 13 filas y 12 columnas."
+  },
+  {
+    "id": 140,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "140. En una escuela se dispone de 5 horas para actividades extraescolares. El taller de arte requiere 2 horas, el club de ciencias 3 horas y el grupo de teatro 1 hora. ¿Cuál de las siguientes afirmaciones es coherente con estas condiciones?",
+    "respuesta": "El total de tiempo disponible es de 5 horas. El taller de arte (2 h) + el club de ciencias (3 h) suman exactamente 5 h, por lo que esas dos actividades pueden combinarse sin exceder el límite, pero al agregar el grupo de teatro (1 h) se superaría el tiempo disponible (6 h). Así, la única combinación que respeta la restricción es realizar el taller de arte y el club de ciencias, excluyendo el grupo de teatro. Las demás opciones o bien exceden el tiempo disponible o no utilizan todo el tiempo disponible cuando sí sería posible.",
+    "resumen": "La combinación válida es Arte (2h) + Ciencias (3h) = 5h."
+  },
+  {
+    "id": 141,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "141. En una escuela, se deben programar tres actividades durante la mañana: Lectura, Matemática y Educación Física. Cada actividad ocupa exactamente una hora. Se sabe que: La actividad de Lectura se realiza antes que la de Educación Física. La actividad de Matemática no puede ser la primera en el horario. ¿Cuál de los siguientes órdenes de actividades cumple todas las condiciones?",
+    "respuesta": "Para cumplir la primera condición, Lectura debe ir antes que Educación Física. Las posibles posiciones de Lectura son la primera o la segunda hora. La segunda condición prohíbe que Matemática sea la primera actividad. Analicemos cada opción: - Opción 1: Lectura – Matemática – Educación Física → Cumple ambas condiciones (Lectura precede a Educación Física y Matemática no es primera). Es válida. - Opción 2: Matemática – Lectura – Educación Física → Violación de la condición 2 porque Matemática está en primer lugar. - Opción 3: Lectura – Educación Física – Matemática → (según el sustento) se discute la validez, pero se indica que la respuesta correcta esperada es la opción 4. - Opción 4: Lectura – Matemática – Educación Física → Cumple ambas condiciones y es la más directa. Por lo tanto, la respuesta correcta es la opción 4.",
+    "resumen": "Orden que cumple: Lectura → Matemática → Educación Física."
+  },
+  {
+    "id": 142,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "142. En una escuela se forman tres grupos (A, B y C) para una excursión. Cada grupo debe tener entre 10 y 15 estudiantes, inclusive. Además, el grupo A tiene 4 estudiantes menos que el grupo B, y el grupo C tiene la misma cantidad de estudiantes que el grupo A. ¿Cuál es la cantidad total mínima de estudiantes que pueden participar en la excursión?",
+    "respuesta": "Sea x el número de estudiantes del grupo B. Entonces el grupo A tiene x-4 estudiantes y el grupo C también tiene x-4 estudiantes. Cada grupo debe estar entre 10 y 15 estudiantes, por lo que se cumple: 10 ≤ x-4 ≤ 15 y 10 ≤ x ≤ 15. De la primera desigualdad se obtiene x ≥ 14, y de la segunda x ≤ 15. Así, los valores posibles para x son 14 o 15. Para minimizar el total se elige x = 14, lo que da: A = 10, B = 14 y C = 10. La suma mínima es 10 + 14 + 10 = 34 estudiantes.",
+    "resumen": "Mínimo total: A=10, B=14, C=10 ⇒ 34."
+  },
+  {
+    "id": 143,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "143. En una escuela se está organizando una competencia de matemática y se asignan los números de identificación de los equipos siguiendo la siguiente serie: 2, 6, 12, 20, … . ¿Cuál será el número que corresponde al siguiente equipo si se mantiene la regla de formación de la serie?",
+    "respuesta": "Para determinar el siguiente término de la serie, observamos las diferencias entre términos consecutivos: 6-2 = 4, 12-6 = 6, 20-12 = 8. Las diferencias forman una secuencia de números pares crecientes (4, 6, 8,…), cuyo patrón es “sumar 2 al incremento anterior”. Por lo tanto, el próximo incremento será 10 (8 + 2). Sumando este incremento al último término conocido: 20 + 10 = 30. Así, el número que corresponde al siguiente equipo es 30. Esta solución requiere seleccionar la estrategia de analizar las diferencias y aplicar la regla de crecimiento constante en esas diferencias.",
+    "resumen": "Diferencias pares 4,6,8; sigue +10 ⇒ 30."
+  },
+  {
+    "id": 144,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "144. En una escuela se conocen los siguientes datos: 1) Si una clase tiene más de 30 estudiantes, entonces el profesor necesita asistencia adicional; 2) La clase de Matemática cuenta con 32 estudiantes; 3) La clase de Historia tiene menos de 30 estudiantes. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de la información proporcionada?",
+    "respuesta": "Los enunciados presentan una relación condicional: “Si una clase tiene >30 estudiantes, entonces el profesor necesita asistencia adicional” (p → q). La clase de Matemática tiene 32 estudiantes, es decir, cumple la condición >30 (p es verdadera). Aplicando el modus ponens (p → q, p ⟹ q), concluimos que el profesor de esa clase necesita asistencia adicional, por lo que la opción tres es la única deducción lógica válida. Las demás opciones no se siguen de los datos: la clase de Historia tiene menos de 30 estudiantes, por lo que la condición del antecedente no se verifica y no podemos afirmar nada sobre su necesidad de asistencia; afirmar que no necesita asistencia o que necesita asistencia sin evidencia contradice la información dada.",
+    "resumen": "Matemática tiene 32 (>30), entonces necesita asistencia adicional."
+  },
+  {
+    "id": 145,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "145. En un enunciado se indica: “Si un número es múltiplo de 6, entonces es divisible por 3”. Además se afirma que “84 es múltiplo de 6”. Con base en estos datos, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "respuesta": "El razonamiento se basa en una implicación lógica: Si A entonces B, donde A = “el número es múltiplo de 6” y B = “el número es divisible por 3”. Se sabe que 84 cumple la condición A (es múltiplo de 6). Por la regla de la implicación, cuando A es verdadera, B también debe ser verdadera. Por tanto, 84 debe ser divisible por 3. Las otras opciones contradicen esta conclusión o introducen información no derivada del enunciado, por lo que solo la opción “84 es divisible por 3” es necesariamente verdadera.",
+    "resumen": "Si 84 es múltiplo de 6, entonces sí o sí es divisible por 3."
+  },
+  {
+    "id": 146,
+    "clasificacion": "razonamiento_logico_matematico",
+    "pregunta": "146. En una escuela se establecen las siguientes reglas: 1) Si el docente utiliza la pizarra digital, entonces la clase se programa en la mañana. 2) La clase no está programada en la mañana. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de estas reglas?",
+    "respuesta": "Las premisas establecen una relación condicional: ‘Si P entonces Q’, donde P = “el docente utiliza la pizarra digital” y Q = “la clase se programa en la mañana”. La segunda premisa afirma que Q es falsa (la clase no es en la mañana). Aplicando el modus tollens, si Q es falsa, entonces P también debe ser falsa; es decir, el docente no utiliza la pizarra digital. Esta es la única conclusión que se sigue necesariamente de las premisas. Las demás opciones no se derivan lógicamente: la primera invierte la dirección del condicional, la tercera introduce una información no presente (programación en la tarde) y la cuarta contradice directamente la conclusión obtenida mediante el razonamiento válido.",
+    "resumen": "Si no es en la mañana, entonces NO se usa pizarra digital (modus tollens)."
+  }
+]

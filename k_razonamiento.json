@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la siguiente serie numérica: 2, 5, 9, 14, 20, ¿cuál es el número que sigue?",
+    "respuesta": "Las diferencias entre términos son 3, 4, 5 y 6; al aumentar en una unidad, la siguiente diferencia es 7, por lo que 20 + 7 = 27.",
+    "resumen": "Las diferencias suben de 1 en 1; el siguiente número es 27."
+  },
+  {
+    "id": 2,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una fila de baldosas, cada una tiene el doble de puntos que la anterior. Si la primera baldosa tiene 3 puntos, ¿cuántos puntos tendrá la quinta baldosa?",
+    "respuesta": "La secuencia se obtiene duplicando cada término: 3, 6, 12, 24, 48.",
+    "resumen": "Cada término se duplica; la quinta baldosa tiene 48 puntos."
+  },
+  {
+    "id": 3,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la siguiente serie de números: 2, 4, 8, 16, ¿cuál número completa correctamente la secuencia?",
+    "respuesta": "Cada número se obtiene multiplicando el anterior por 2; el siguiente es 32.",
+    "resumen": "Es una serie de dobles; sigue 32."
+  },
+  {
+    "id": 4,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la siguiente sucesión numérica: 3, 6, 12, 24, ¿cuál es el número que continúa la serie?",
+    "respuesta": "La regla es multiplicar por 2 cada término; el siguiente es 48.",
+    "resumen": "Se duplica cada número; continúa 48."
+  },
+  {
+    "id": 5,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "La siguiente serie muestra la evolución de la población en una aldea: 2, 4, 8, 16, ¿cuál es el número que sigue?",
+    "respuesta": "Cada término se obtiene multiplicando por 2; el siguiente es 32.",
+    "resumen": "Patrón de duplicación; sigue 32."
+  },
+  {
+    "id": 6,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la siguiente serie de letras: A, C, F, J, O, ¿cuál es la letra que sigue en la secuencia?",
+    "respuesta": "Las posiciones aumentan en +2, +3, +4, +5; el siguiente aumento es +6, llegando a la letra U.",
+    "resumen": "Los saltos aumentan en 1; la letra siguiente es U."
+  },
+  {
+    "id": 7,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una campaña de entrega de caramelos la cantidad se duplica cada día: 3, 6, 12, 24. ¿Cuántos caramelos se repartirán el día 5?",
+    "respuesta": "Cada día se duplica la cantidad; 24 × 2 = 48.",
+    "resumen": "Se duplica cada día; el día 5 son 48 caramelos."
+  },
+  {
+    "id": 8,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una escuela se organizan filas de sillas: la primera tiene 5 y cada fila tiene 2 más que la anterior. ¿Cuántas sillas habrá en la quinta fila?",
+    "respuesta": "Es una progresión aritmética con diferencia 2; la quinta fila tiene 13 sillas.",
+    "resumen": "Se suman 2 por fila; la quinta tiene 13 sillas."
+  },
+  {
+    "id": 9,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la siguiente serie numérica: 2, 5, 8, 11, ¿cuál es el número que sigue?",
+    "respuesta": "La serie aumenta en 3 unidades; el siguiente término es 14.",
+    "resumen": "Se suma 3 cada vez; sigue 14."
+  },
+  {
+    "id": 10,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la serie: 2, 5, 10, 17, 26, ¿cuál es el número que completa la secuencia?",
+    "respuesta": "Cada término sigue la fórmula n² + 1; el siguiente valor es 37.",
+    "resumen": "Sigue la regla n² + 1; el siguiente es 37."
+  },
+  {
+    "id": 11,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Una profesora dispone los números de los pupitres: 5, 11, 19, 29. ¿Cuál es el siguiente número?",
+    "respuesta": "Las diferencias son 6, 8, 10; la siguiente es 12, por lo que el número es 41.",
+    "resumen": "Las diferencias crecen de 2 en 2; sigue 41."
+  },
+  {
+    "id": 12,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la sucesión: 5, 9, 17, 33, 65. ¿Cuál es el número que completa la serie?",
+    "respuesta": "Cada término se obtiene multiplicando por 2 y restando 1; el siguiente es 129.",
+    "resumen": "Regla ×2 − 1; el siguiente es 129."
+  },
+  {
+    "id": 13,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una actividad de matemática se muestra la serie: 3, 6, 11, 18, 27. ¿Cuál es el siguiente número?",
+    "respuesta": "Las diferencias son 3, 5, 7, 9; la siguiente es 11, por lo que el número es 38.",
+    "resumen": "Las diferencias impares aumentan; sigue 38."
+  },
+  {
+    "id": 14,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "La sucesión comienza: 2, 6, 12, 20. ¿Cuál es el siguiente número?",
+    "respuesta": "Los incrementos son 4, 6, 8; el siguiente es 10, por lo que el número es 30.",
+    "resumen": "Se suman pares crecientes; el siguiente es 30."
+  },
+  {
+    "id": 15,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la serie: 5, 9, 13, 17. ¿Cuántos libros se entregarán el lunes siguiente?",
+    "respuesta": "La secuencia aumenta en 4 unidades; el siguiente valor es 21.",
+    "resumen": "Se suma 4 cada vez; sigue 21."
+  },
+  {
+    "id": 16,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una fila de ladrillos se pintan los colores rojo, verde, azul de forma repetitiva. ¿De qué color será el ladrillo número 15?",
+    "respuesta": "El patrón es cíclico de 3 colores; el término 15 corresponde al color azul.",
+    "resumen": "Ciclo de 3 colores; el ladrillo 15 es azul."
+  },
+  {
+    "id": 17,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Una serie de números se forma añadiendo 3 al número anterior comenzando en 5. ¿Cuál es el cuarto número?",
+    "respuesta": "La secuencia es 5, 8, 11, 14; el cuarto número es 14.",
+    "resumen": "Se suma 3 cada vez; el cuarto es 14."
+  },
+  {
+    "id": 18,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la serie: 3, 8, 15, 24, 35. ¿Cuál es el número que sigue?",
+    "respuesta": "Las diferencias son 5, 7, 9, 11; la siguiente es 13, por lo que el número es 48.",
+    "resumen": "Diferencias impares crecientes; sigue 48."
+  },
+  {
+    "id": 19,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la secuencia de figuras con puntos que aumentan y colores que alternan. ¿Cuál es la quinta figura?",
+    "respuesta": "El número de puntos aumenta en 1 y el color alterna; la quinta figura tiene 5 puntos rojos.",
+    "resumen": "Aumentan puntos y alterna color; sigue 5 puntos rojos."
+  },
+  {
+    "id": 20,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "En una serie numérica: 3, 7, 15, 31, ¿cuál es el número que sigue?",
+    "respuesta": "Cada término se obtiene multiplicando por 2 y sumando 1; el siguiente es 63.",
+    "resumen": "Regla ×2 + 1; el siguiente es 63."
+  },
+  {
+    "id": 21,
+    "clasificacion": "razonamiento_logico",
+    "pregunta": "Observa la serie: 2, 6, 12, 20. ¿Cuál es el número que completa la secuencia?",
+    "respuesta": "Cada término sigue la fórmula n(n+1); el siguiente valor es 30.",
+    "resumen": "Fórmula n(n+1); el siguiente es 30."
+  }
+]

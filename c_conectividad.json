@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿cómo define el concepto de acceso dial up?",
+    "respuesta": "El artículo describe el acceso dial up a la forma cómo “utilizaban la línea telefónica convencional para conectar a Internet a velocidades de 56 kbps”.",
+    "resumen": "El dial up conectaba por línea telefónica, con velocidad de 56 kbps."
+  },
+  {
+    "id": 2,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Considerando lo mencionado en el texto, ¿cuáles son los sectores que se indican como beneficiados por la expansión del Internet en Bolivia?",
+    "respuesta": "El artículo señala explícitamente que el acceso generalizado a Internet ha transformado la educación (plataformas de aprendizaje virtual, clases a distancia), ha impulsado el comercio electrónico (tiendas virtuales como ‘Tiendas del Valle’ y Billetera Móvil) y ha mejorado la salud mediante la telemedicina y futuros servicios 5G.",
+    "resumen": "Benefició educación, comercio electrónico y salud (telemedicina y 5G)."
+  },
+  {
+    "id": 3,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿cuáles son las implicaciones económicas asociadas a la expansión de la banda ancha y la fibra óptica entre 2006 y 2015?",
+    "respuesta": "“Expansión de la banda ancha y fibra óptica (2006 2015)” se indica que el proyecto ‘Red de Información Boliviana’ contó con una inversión estimada de 350 millones de dólares, que los precios de los planes de 10 Mbps se redujeron a aproximadamente 15 dólares mensuales y que la banda ancha favoreció el auge del comercio electrónico, con la aparición de tiendas virtuales locales como ‘Tiendas del Valle’.",
+    "resumen": "Hubo inversión (350 M$), bajaron precios (10 Mbps a ~15$) y creció el comercio electrónico."
+  },
+  {
+    "id": 4,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿cuál es la tercera etapa de la conectividad descrita en la evolución del Internet en Bolivia?",
+    "respuesta": "El artículo, enumera tres subetapas cronológicas: 2.1 era dial up (1995 2005), 2.2 expansión de banda ancha y fibra óptica (2006 2015) y 2.3 convergencia móvil, 4G y la llegada de 5G.",
+    "resumen": "La tercera etapa es la convergencia móvil: 4G y llegada de 5G."
+  },
+  {
+    "id": 5,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "La lectura del texto permite identificar que el orden cronológico de los principales actores que lideraron cada fase de la conectividad en Bolivia es:",
+    "respuesta": "El artículo indica que primero, en 1995, la Universidad Mayor de San Andrés (UMSA) estableció la primera conexión satelital permanente. Luego, a partir de 2006, el gobierno boliviano lanzó el proyecto ‘Red de Información Boliviana’ (RIB) para instalar fibra óptica. En 2016, la empresa estatal Entel introdujo la red 4G LTE. Finalmente, en 2022, la empresa Viva Bolivia anunció la prueba piloto de 5G.",
+    "resumen": "UMSA (1995) → Gobierno/RIB (2006) → Entel 4G (2016) → Viva 5G (2022)."
+  },
+  {
+    "id": 6,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Según el artículo, ¿qué porcentaje de la población boliviana se espera que tenga acceso a redes 5G para finales de 2024?",
+    "respuesta": "Para finales de 2024, según el artículo, se espera que el 20% de la población tenga acceso a 5G”. Ninguna de las demás cifras (15%, 25% o 30%) aparece en el artículo; esas cifras son distractores plausibles derivados de otros porcentajes mencionados (por ejemplo, 12% de penetración rural en 2015 o 38% de hogares urbanos en 2015), pero no corresponden al dato solicitado sobre la proyección de acceso a 5G en 2024.",
+    "resumen": "Se espera que el 20% de la población tenga acceso a 5G a fines de 2024."
+  },
+  {
+    "id": 7,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que la expansión de la fibra óptica y la llegada de 5G han mejorado la conectividad, pero persiste una brecha digital entre zonas urbanas y rurales; ¿qué principio general se puede extraer sobre el rol de la infraestructura tecnológica en la inclusión digital?",
+    "respuesta": "El texto indica que la instalación de fibra óptica (2006-2015) aumentó la cobertura urbana al 60% y redujo precios, y que la implementación de 5G está prevista para zonas estratégicas, pero aun así el artículo señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo. Además, en la sección de desafíos se propone incentivar inversión privada y subsidios como políticas de apoyo para cerrar la brecha.",
+    "resumen": "La infraestructura ayuda, pero sin políticas (subsidios/inversión) la brecha rural sigue."
+  },
+  {
+    "id": 8,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que la diferencia porcentual en la penetración de Internet entre hogares urbanos y rurales cambió entre 2003 y 2015; ¿cuál de las siguientes afirmaciones describe mejor esa evolución?",
+    "respuesta": "En 2003, según el texto, el 5% de los hogares urbanos tenía acceso y menos del 1% de los rurales (aprox. 0,8%), lo que implica una diferencia de unos 4 puntos porcentuales. En 2015, la penetración era del 38% en zonas urbanas y del 12% en rurales, lo que genera una diferencia de 26 puntos. La variación entre ambas fechas es de aproximadamente 22 puntos porcentuales, mostrando un aumento de la brecha.",
+    "resumen": "La brecha creció: de ~4 puntos (2003) a 26 puntos (2015)."
+  },
+  {
+    "id": 9,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿qué efecto se puede deducir de la implementación del proyecto “Red de Información Boliviana” (2006-2015) sobre la penetración de Internet en los hogares urbanos?",
+    "respuesta": "Antes de la fase de expansión de banda ancha, en 2003 solo el 5% de los hogares urbanos tenían acceso a Internet. Tras el lanzamiento del proyecto “Red de Información Boliviana” en 2006, que instaló fibra óptica en los corredores urbanos, la penetración aumentó hasta el 38% en 2015. Este incremento refleja el efecto de la infraestructura de fibra óptica y la reducción de precios de los planes de 10 Mbps a aproximadamente 15 dólares mensuales.",
+    "resumen": "Con la RIB subió la penetración urbana de 5% (2003) a 38% (2015)."
+  },
+  {
+    "id": 10,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Considerando lo mencionado en el texto, ¿cuál es el mensaje principal implícito del autor respecto a las soluciones para cerrar la brecha digital en Bolivia?",
+    "respuesta": "La sección de “Desafíos futuros” y en la propuesta de cierre de la brecha digital, el autor señala explícitamente la necesidad de (i) incentivar la inversión privada mediante subsidios, (ii) promover la capacitación digital en escuelas y comunidades, y (iii) crear un fondo nacional para la expansión de la conectividad en zonas rurales, todo ello bajo una cooperación multisectorial entre gobierno, academia y sector privado. Estas tres líneas de acción aparecen combinadas en el párrafo que propone una combinación de políticas para reducir la brecha.",
+    "resumen": "La solución es combinar subsidios, capacitación y un fondo nacional con cooperación multisectorial."
+  },
+  {
+    "id": 11,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿qué principio general se desprende de las soluciones propuestas para cerrar la brecha digital en Bolivia?",
+    "respuesta": "El artículo, en la sección de propuestas, sugiere combinar subsidios, incentivar la inversión privada y crear un fondo nacional, todo ello dentro de una estrategia de colaboración entre gobierno, academia y sector privado para expandir la conectividad en zonas rurales.",
+    "resumen": "Se necesita estrategia conjunta: subsidios + inversión privada + fondo nacional + colaboración."
+  },
+  {
+    "id": 12,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita que el autor desea transmitir sobre la evolución del Internet en Bolivia?",
+    "respuesta": "Aunque se ha pasado de un enlace satelital de 64 kbps en 1995 a pruebas piloto de 5G en 2022, la brecha digital sigue siendo marcada: el INE reporta que en 2023 el 68% de los hogares rurales carecen de acceso fijo y la penetración rural de Internet es mucho menor que la urbana. Además, en la sección de desafíos futuros se propone una combinación de subsidios, capacitación y fondos nacionales para cerrar esa brecha, evidenciando la necesidad de políticas integradas y mayor inversión.",
+    "resumen": "Hubo avances (64 kbps→5G), pero la brecha rural sigue y se requieren políticas integradas e inversión."
+  },
+  {
+    "id": 13,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿cuál es la propuesta central del autor para reducir la brecha digital entre zonas urbanas y rurales en Bolivia?",
+    "respuesta": "“Para cerrar la brecha” el autor propone específicamente una combinación de políticas: subsidios a la inversión privada, capacitación digital y un fondo nacional dirigido a zonas rurales. Estas medidas aparecen como la estrategia integral para disminuir la desigualdad de acceso.",
+    "resumen": "Propone subsidios, capacitación digital y un fondo nacional enfocado en lo rural."
+  },
+  {
+    "id": 14,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿qué es probable que ocurra en los próximos cinco años respecto a la cobertura de internet en áreas rurales de Bolivia?",
+    "respuesta": "El artículo indica que, al cierre de 2024, se espera que el 20% de la población nacional tenga acceso a 5G, prioritariamente en zonas estratégicas de desarrollo económico, y que en 2023 el 68% de los hogares rurales carecían de acceso fijo a Internet. Además, se proponen políticas de subsidios e inversión en fibra óptica para reducir la brecha digital.",
+    "resumen": "La mejora rural dependerá de subsidios e inversión; el 5G avanzará primero en zonas estratégicas."
+  },
+  {
+    "id": 15,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "De acuerdo con el texto, ¿cuál de las siguientes consecuencias es la más probable como resultado de la instalación de fibra óptica en los principales corredores urbanos entre 2006 y 2015?",
+    "respuesta": "El texto indica que, antes de la expansión de la fibra, en 2003 solo el 5% de los hogares urbanos tenía acceso a Internet (fase dial up). Con el proyecto “Red de Información Boliviana” iniciado en 2006, para 2012 la cobertura de fibra óptica alcanzó el 60% de la población urbana y los precios de los planes de 10 Mbps se redujeron a aproximadamente 15 dólares mensuales. Como consecuencia directa de esta mejora de infraestructura y costo, la penetración en hogares urbanos subió al 38% en 2015.",
+    "resumen": "Más fibra y menor costo aumentaron la penetración urbana hasta 38% en 2015."
+  },
+  {
+    "id": 16,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "¿Qué puede deducirse del texto respecto a la estrategia de expansión implementada por la empresa estatal Entel a través de la red 4G LTE?.",
+    "respuesta": "Entel lanzó la red 4G LTE en 2016, proporcionando velocidades comparables a la banda ancha fija y mejorando la infraestructura móvil en áreas urbanas (párrafo 2.3). Más adelante, menciona que en 2022 Bolivia licitó el espectro 3.5 GHz y que Viva Bolivia anunció una prueba piloto de 5G en Puerto Suárez, aprovechando la infraestructura móvil existente. Aunque no se afirma explícitamente, se puede inferir que la presencia previa de una red 4G robusta facilitó la implementación de la tecnología 5G, pues la evolución de 4G a 5G depende de la infraestructura ya desplegada.",
+    "resumen": "La red 4G de Entel habría facilitado el salto hacia 5G al servir como base de infraestructura."
+  },
+  {
+    "id": 17,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que, considerando los datos estadísticos presentados, ¿cuál es el mensaje implícito principal respecto al desarrollo de la conectividad en Bolivia?",
+    "respuesta": "Pese a avances como la instalación de fibra óptica (cobertura del 60% urbano en 2012) y la prueba piloto de 5G en Puerto Suárez, aún persisten desigualdades: el INE reporta que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet y la penetración rural es mucho menor que la urbana. Además, en la sección de desafíos futuros se propone incentivar inversión y crear fondos para cerrar la brecha, lo que evidencia el mensaje implícito de que se necesita política dirigida a la inclusión universal.",
+    "resumen": "Aunque hubo avances, la desigualdad rural sigue; se necesita política e inversión para inclusión universal."
+  },
+  {
+    "id": 18,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que, a raíz de la expansión de la fibra óptica y la implementación de redes 4G/5G, se puede concluir que:",
+    "respuesta": "Tras la expansión de la fibra óptica (cobertura del 60% en áreas urbanas para 2012) y la llegada del 4G en 2016, la penetración urbana llegó al 38% en 2015, mientras que en zonas rurales solo alcanzó el 12% (párrafo 2.2). Además, en 2023 el 68% de los hogares rurales carecían de acceso fijo a Internet (sección 3). Estas cifras muestran que, pese a los avances tecnológicos, la brecha digital persiste.",
+    "resumen": "Aun con fibra/4G/5G, la brecha persiste: urbano 38% vs rural 12% (2015) y 68% rural sin acceso fijo (2023)."
+  },
+  {
+    "id": 19,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita respecto a los resultados de la evolución del Internet en Bolivia?",
+    "respuesta": "El artículo describe avances tecnológicos (4G, fibra óptica, pruebas de 5G) y sus efectos positivos en educación y salud, pero también señala cifras que revelan una brecha digital persistente (por ejemplo, 68% de hogares rurales sin acceso fijo en 2023) y concluye con propuestas de políticas públicas, subsidios y colaboración entre sector público, privado y académico para cerrar esa brecha.",
+    "resumen": "Hubo beneficios y avances, pero la brecha sigue; se requieren políticas y colaboración para cerrarla."
+  },
+  {
+    "id": 20,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "¿Qué puede deducirse de la expansión de la red 5G en zonas estratégicas como Puerto Suárez?",
+    "respuesta": "El artículo indica que la prueba piloto de 5G en Puerto Suárez conecta hospitales y universidades y menciona que la implementación de 5G “abrirá la puerta a la cirugía a distancia y al uso de dispositivos de monitoreo en tiempo real”. De ahí se deduce que la expansión de 5G favorecerá la adopción de servicios de telemedicina avanzados en zonas que antes estaban aisladas.",
+    "resumen": "El 5G impulsará telemedicina avanzada (hasta cirugía a distancia y monitoreo en tiempo real) en zonas antes aisladas."
+  },
+  {
+    "id": 21,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir de lo expuesto en el artículo, ¿qué principio general se puede inferir sobre el papel de los diferentes actores en la expansión de la conectividad en Bolivia?",
+    "respuesta": "La primera conexión en 1995 fue gestionada por la Universidad Mayor de San Andrés con apoyo de la OEA; el proyecto RIB (2006-2015) fue impulsado por el gobierno con financiamiento del BID; la red 4G fue lanzada por la empresa estatal Entel; la prueba piloto de 5G fue anunciada por Viva Bolivia; y en la sección de conclusiones se enfatiza la necesidad de cooperación entre instituciones académicas, gobierno y sector privado para cerrar la brecha digital.",
+    "resumen": "La conectividad avanzó por universidad, gobierno y empresas; y requiere cooperación multisectorial para cerrar la brecha."
+  },
+  {
+    "id": 22,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+    "respuesta": "Para finales de 2024, se espera que el 20% de la población tenga acceso a 5G, concentrándose inicialmente en zonas estratégicas como Puerto Suárez donde se realizó la prueba piloto. Además, el texto menciona que la expansión de fibra óptica ya cubre gran parte de las áreas urbanas, lo que permite un despliegue complementario. Sin embargo, también se señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet, evidenciando una brecha digital que sigue siendo un desafío; por ello la meta del 20% es un paso progresivo, no una cobertura total.",
+    "resumen": "El 20% en 2024 es un avance gradual (en zonas estratégicas), no una cobertura total, porque la brecha rural sigue."
+  },
+  {
+    "id": 23,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que, según el INE, en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet. ¿Cuál de los siguientes posibles sesgos podría afectar la interpretación de este dato en el análisis del autor?",
+    "respuesta": "El artículo menciona el porcentaje del 68% de hogares rurales sin acceso fijo a Internet, pero no discute que muchos de esos hogares podrían estar usando Internet a través de conexiones móviles (3G/4G) que no requieren infraestructura fija. Esta ausencia constituye un sesgo de interpretación: equiparar la ausencia de acceso fijo con la ausencia total de conectividad.",
+    "resumen": "Sesgo: confundir “sin internet fijo” con “sin internet”, ignorando la conectividad móvil (3G/4G)."
+  },
+  {
+    "id": 24,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "El artículo señala que la prueba piloto de 5G en Puerto Suárez conectó hospitales y universidades con aplicaciones de telemedicina y realidad aumentada. ¿Por qué es relevante esta información para la planificación de políticas públicas orientadas a reducir la brecha digital en zonas rurales?",
+    "respuesta": "El texto describe la prueba piloto de 5G en Puerto Suárez que conectó hospitales y universidades con aplicaciones de telemedicina y realidad aumentada, y en la sección de desafíos se menciona la persistente brecha digital entre zonas urbanas y rurales. Evidenciar que 5G puede ofrecer servicios críticos (salud, educación) en zonas de difícil acceso justifica que las políticas públicas consideren la expansión de esta tecnología como una herramienta clave para reducir esa brecha.",
+    "resumen": "Demuestra que 5G puede llevar servicios críticos (salud y educación) a zonas rurales, guiando políticas para reducir la brecha."
+  },
+  {
+    "id": 25,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Del análisis presentado se desprende que la afirmación del autor de que la implementación del 5G eliminará la brecha digital entre áreas urbanas y rurales es válida.",
+    "respuesta": "El texto señala que se espera que sólo el 20% de la población tenga acceso a 5G para finales de 2024, concentrado rurales carecen de acceso fijo a Internet en 2023. Además, se mencionan retos estructurales como la brecha digital y la necesidad de políticas de subsidios, lo que muestra que el argumento de que el 5G eliminará plenamente la brecha es insuficiente. en zonas estratégicas de desarrollo económico, mientras que el INE reporta que el 68% de los hogares.",
+    "resumen": "No es válida: con solo 20% en 2024 y 68% rural sin internet fijo, el 5G por sí solo no elimina la brecha."
+  },
+  {
+    "id": 26,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "A partir del análisis presentado respecto a las diferencias de acceso y uso del Internet entre distintos grupos de la población, ¿qué otro aspecto importante ha obviado el autor?",
+    "respuesta": "El artículo describe la evolución tecnológica, la expansión urbana rural y los impactos en educación y salud, nunca menciona diferencias de acceso o uso entre hombres y mujeres. No se hace referencia a estudios de género ni a datos desagregados por sexo, lo que indica una omisión del sesgo de género.",
+    "resumen": "Omitió el enfoque de género: no analiza diferencias entre hombres y mujeres."
+  },
+  {
+    "id": 27,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones describe mejor la viabilidad de la meta boliviana de que el 20% de la población tenga acceso a 5G para finales de 2024, considerando la actual brecha digital entre áreas urbanas y rurales?",
+    "respuesta": "El artículo indica que para finales de 2024 se espera que el 20% de la población tenga acceso a 5G, “especialmente en zonas estratégicas de desarrollo económico” (sección 2.3). Asimismo, señala que el 68% de los hogares rurales carecen de acceso fijo a Internet (sección 3). Dado que la proyección del 5G está enfocada en áreas urbanas y estratégicas donde ya existen redes y la infraestructura es más robusta, la meta del 20% resulta plausible pese a la significativa brecha rural.",
+    "resumen": "La meta 20% es plausible porque el despliegue se centra en zonas urbanas/estratégicas con mejor infraestructura."
+  },
+  {
+    "id": 28,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿cuál de las siguientes perspectivas futuras no es considerada por el autor al proponer políticas para cerrar la brecha digital en Bolivia?",
+    "respuesta": "Aunque el autor propone varias medidas para reducir la brecha digital (subsidios a la inversión privada, capacitación digital en escuelas y comunidades, y un fondo nacional para expansión rural), en ningún apartado del artículo se menciona la inclusión explícita de la visión o necesidades de los pueblos indígenas. En la sección 3 se enlistan propuestas de política, pero todas giran en torno a incentivos económicos, capacitación y financiación, sin abordar aspectos culturales ni la participación de comunidades indígenas.",
+    "resumen": "No considera explícitamente la visión/participación de pueblos indígenas en las políticas."
+  },
+  {
+    "id": 29,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Basándose en la información proporcionada, ¿qué combinación de medidas sería la más adecuada para reducir la brecha digital entre zonas rurales y urbanas en Bolivia en los próximos cinco años?",
+    "respuesta": "La sección de ‘Desafíos futuros’ el artículo propone una combinación de políticas: incentivar la inversión privada mediante subsidios, promover la capacitación digital y crear un fondo nacional para la expansión de conectividad en zonas rurales. Estas medidas responden a los datos que indican que, según el INE (2023), el 68% de los hogares rurales carecen de acceso fijo a Internet, y que la brecha permanece significativa pese a la expansión de fibra óptica y 5G en áreas urbanas.",
+    "resumen": "La mejor combinación: subsidios a inversión privada + capacitación digital + fondo nacional para expansión rural."
+  },
+  {
+    "id": 30,
+    "clasificacion": "Conectividad e Internet en Bolivia",
+    "pregunta": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+    "respuesta": "Para finales de 2024, se espera que el 20% de la población tenga acceso a 5G, concentrándose inicialmente en zonas estratégicas como Puerto Suárez donde se realizó la prueba piloto. Además, el texto menciona que la expansión de fibra óptica ya cubre gran parte de las áreas urbanas, lo que permite un despliegue complementario. Sin embargo, también se señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet, evidenciando una brecha digital que sigue siendo un desafío; por ello la meta del 20% es un paso progresivo, no una cobertura total.",
+    "resumen": "El 20% es un paso progresivo; la brecha rural impide que sea cobertura total."
+  }
+]

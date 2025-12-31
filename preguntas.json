@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "clasificacion": "Deforestación",
+        "pregunta": "Según el artículo, ¿cuál fue la reducción porcentual de la superficie forestal entre 1900 y 1960 y cómo se compara con la pérdida de cobertura forestal entre 1990 y 2020?",
+        "respuesta": "El párrafo sobre la colonización española indica que la superficie forestal pasó de 4,9 millones a 3,9 millones de hectáreas entre 1900 y 1960, lo que corresponde a una reducción del 20% (INE, 2021). En el resumen y la sección de impactos climáticos se menciona que la pérdida de cobertura forestal entre 1990 y 2020 fue de aproximadamente el 15% (datos satelitales).",
+        "resumen": "Entre 1900 y 1960 se perdió el 20% del bosque; entre 1990 y 2020 la pérdida fue de ~15%."
+    },
+    {
+        "id": 2,
+        "clasificacion": "Deforestación",
+        "pregunta": "Del análisis presentado se desprende que, ¿cuáles son los problemas identificados que el artículo señala como consecuencias de la deforestación en los Andes bolivianos?",
+        "respuesta": "La sección 'Impactos climáticos y retroalimentaciones' indica que la deforestación ha generado un aumento de la temperatura media de 0,6 °C, una mayor variabilidad de precipitaciones con sequías más intensas, una disminución de la capacidad del suelo para retener agua y un aumento de emisiones de CO2 (≈ 12 MtCO2 /año entre 2000-2015) debido a la quema forestal.",
+        "resumen": "Subió 0,6 °C, hay más sequías/variación de lluvias, el suelo retiene menos agua y aumentaron emisiones (~12 MtCO₂/año por quemas)."
+    },
+    {
+        "id": 3,
+        "clasificacion": "Deforestación",
+        "pregunta": "Del análisis presentado se desprende que, en la cadena de procesos que relaciona la deforestación con el aumento de la temperatura en los Andes bolivianos, ¿cuál es el primer factor técnico mencionado?",
+        "respuesta": "En la sección 'Industrialización y políticas de desarrollo en el siglo XX' se describe el modelo de balance energético: 'La reducción del albedo (reflectancia de la superficie) y la pérdida de la transpiración vegetal disminuyen el flujo de energía latente, aumentando la temperatura de la superficie'. El texto menciona primero la reducción del albedo como factor que desencadena la cadena de efectos que lleva al aumento de la temperatura.",
+        "resumen": "El primer factor técnico es la reducción del albedo (menos reflectancia)."
+    },
+    {
+        "id": 4,
+        "clasificacion": "Deforestación",
+        "pregunta": "La lectura del texto permite identificar que, entre 1990 y 2020, la pérdida de cobertura forestal en los Andes bolivianos fue aproximadamente del 15% y el aumento de la temperatura media fue de 0,6 °C.",
+        "respuesta": "Los datos explícitos del artículo indican que la pérdida de cobertura forestal entre 1990 y 2020 fue de aproximadamente 15%, y en la sección 'Impactos climáticos y retroalimentaciones' se reporta un incremento de la temperatura media de 0,6 °C para el mismo período.",
+        "resumen": "1990–2020: se perdió ~15% de bosque y subió ~0,6 °C la temperatura media."
+    },
+    {
+        "id": 5,
+        "clasificacion": "Deforestación",
+        "pregunta": "A partir de lo expuesto en el artículo, ¿qué proceso técnico se ve incrementado directamente por la reducción del calor latente (LE) tras la pérdida de bosques, contribuyendo al aumento de la temperatura del aire?",
+        "respuesta": "La disminución del LE al perderse los bosques eleva el H y, por ende, la temperatura del aire (Gómez et al., 2020). Esto muestra que la reducción del calor latente provoca un aumento del calor sensible, que es el proceso técnico directamente involucrado en el calentamiento del aire.",
+        "resumen": "Cuando baja el LE, sube el H (calor sensible) y por eso aumenta la temperatura del aire."
+    },
+    {
+        "id": 6,
+        "clasificacion": "Deforestación",
+        "pregunta": "Del análisis presentado se desprende que, ¿cuál de los siguientes conjuntos de actores se menciona en el artículo como participantes tanto en la causa histórica de la deforestación como en las respuestas actuales al problema?",
+        "respuesta": "El artículo menciona explícitamente a los pueblos originarios (Aymara y Guaraní) en la sección 'Los Andes antes del contacto europeo', a los colonizadores españoles en 'La colonización española y la expansión agropecuaria', al gobierno boliviano en 'Industrialización y políticas de desarrollo en el siglo XX' y en 'Respuestas actuales y perspectivas de gestión', y a organizaciones no gubernamentales y comunidades indígenas en los mismos últimos párrafos donde se describen iniciativas de restauración forestal y pagos por servicios ambientales.",
+        "resumen": "Actores clave: pueblos originarios, colonizadores, gobierno, ONG y comunidades indígenas."
+    },
+    {
+        "id": 7,
+        "clasificacion": "Deforestación",
+        "pregunta": "A partir de lo expuesto en el artículo, ¿cuál de las siguientes afirmaciones compara mejor el impacto de la expansión agropecuaria durante la colonización española con el de la expansión agrícola comercial del siglo XX sobre el aumento de la temperatura local?",
+        "respuesta": "El artículo indica que la expansión agrícola del siglo XX aceleró la deforestación (de 32 000 ha/año a 45 000 ha/año entre 1990-2020) y está vinculada a una disminución del flujo de calor latente (LE), lo que eleva la temperatura del aire. En cambio, la colonización española del siglo XVI provocó deforestación para minería y pastoreo, pero a una escala mucho menor y sin mencionar efectos directos sobre la temperatura; su impacto climático se describió como indirecto y menos pronunciado. Por lo tanto, la comparación que atribuye un mayor incremento térmico a la expansión agrícola del siglo XX es la que mejor refleja la información dispersa del texto.",
+        "resumen": "La expansión del siglo XX fue más fuerte: subió la deforestación (32k→45k ha/año), bajó LE y subió la temperatura; la colonial fue menor e indirecta."
+    },
+    {
+        "id": 8,
+        "clasificacion": "Deforestación",
+        "pregunta": "Al comparar el mecanismo de retroalimentación climática descrito para la pérdida de bosques con el papel de los sistemas agroforestales tradicionales, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la diferencia clave entre ambos procesos?",
+        "respuesta": "El texto indica que la deforestación disminuye el flujo de calor latente (LE) y, por tanto, eleva el calor sensible (H) y la temperatura del aire. En contraste, los sistemas agroforestales precolombinos combinaban cultivos con árboles, favoreciendo la conservación del suelo y la regulación hídrica, lo que implica una transpiración vegetal sostenida y un mayor LE, mitigando el aumento térmico.",
+        "resumen": "La deforestación baja el calor latente (LE) y sube el calor sensible (H) calentando el aire, mientras que la agroforestería tradicional mantiene la transpiración y un mayor LE, ayudando a frenar ese calentamiento."
+    },
+    {
+        "id": 9,
+        "clasificacion": "Deforestación",
+        "pregunta": "¿Qué principio general se puede extraer sobre las consecuencias sociales de la deforestación en los Andes bolivianos?",
+        "respuesta": "La deforestación reduce la capacidad de retención de agua y aumenta la vulnerabilidad de los suelos, lo que afecta directamente a las poblaciones locales que dependen de estos recursos. Además, se enfatiza que la restauración requiere la integración de saberes tradicionales y la participación activa de comunidades indígenas, lo que indica que la mitigación de los efectos sociales depende de estos factores.",
+        "resumen": "La deforestación reduce el agua en el suelo y vuelve más vulnerables a las comunidades, y para reducir ese daño se necesita integrar saberes tradicionales y participación indígena."
+    },
+    {
+        "id": 10,
+        "clasificacion": "Deforestación",
+        "pregunta": "¿Qué efecto indirecto es probable que tenga la ampliación del programa Biodiversidad Andina (2020-2024) sobre la vulnerabilidad de los sistemas agropecuarios locales frente a la variabilidad de precipitaciones?",
+        "respuesta": "La pérdida de bosque reduce la capacidad de retención de agua en el suelo, amplificando los efectos de la sequía. Asimismo, se menciona que el programa Biodiversidad Andina ha sembrado 3,5 millones de árboles nativos y que la integración de saberes tradicionales con tecnologías de monitoreo permite una gestión adaptativa que identifica zonas con mayor estrés hídrico. De manera implícita, la restauración forestal incrementa la retención de agua y modula el microclima, lo que debería reducir la vulnerabilidad de los sistemas agropecuarios ante la mayor variabilidad de precipitaciones.",
+        "resumen": "Al reforestar y usar monitoreo, el programa debería mejorar la retención de agua y el microclima, reduciendo la vulnerabilidad agrícola frente a sequías y lluvias irregulares."
+    }
+    // ...agregar las demás preguntas siguiendo este formato...
+]

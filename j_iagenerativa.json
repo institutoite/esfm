@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 1: El artículo señala que, dado que la disponibilidad de recursos computacionales en Bolivia es limitada, ¿qué beneficio principal ofrece el uso de servicios en la nube para estudiantes y pequeñas empresas?",
+    "respuesta": "Sustento\nPese a la limitación de recursos computacionales en Bolivia, “la proliferación de servicios en la nube permite a estudiantes y pequeñas empresas acceder a esta potencia sin necesidad de poseer hardware especializado”.",
+    "resumen": "La nube les da potencia de IA sin comprar hardware caro."
+  },
+  {
+    "id": 2,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 2: El artículo señala que, en el contexto de la educación secundaria, ¿cuál es el tercer paso del proceso descrito para la generación y retroalimentación de ejercicios de química?",
+    "respuesta": "Sustento\nEl algoritmo evalúa la respuesta, indica errores y sugiere conceptos revisados. Ese enunciado corresponde al tercer paso del proceso.",
+    "resumen": "Paso 3: la IA revisa tu respuesta, marca errores y sugiere qué repasar."
+  },
+  {
+    "id": 3,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 3: De acuerdo con el texto, ¿cuál es la expresión matemática exacta del mecanismo de atención utilizado en los transformadores?",
+    "respuesta": "Sustento\nEn la sección “Fundamentos técnicos de la IAG” del artículo se muestra la ecuación exacta del mecanismo de atención como: Attention(Q, K, V) = softmax((QK^{})/) V.",
+    "resumen": "La atención se expresa como: Attention(Q,K,V)=softmax((QK…)/…)·V."
+  },
+  {
+    "id": 4,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 4: De acuerdo con el texto, ¿cuál es la característica principal de los problemas éticos y regulatorios que plantea la IAG en Bolivia?",
+    "respuesta": "Sustento\nEn la sección 4 del artículo se describen los retos éticos y regulatorios enfatizando “la generación de información falsa (deepfakes) y la reproducción de sesgos presentes en los datos de entrenamiento” y se señala que “la falta de legislación específica sobre contenido generado por IA” agrava estos problemas.",
+    "resumen": "El problema clave: deepfakes y sesgos, agravados por falta de leyes claras."
+  },
+  {
+    "id": 5,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 5: Según el artículo, ¿cuál es la consecuencia social descrita de la brecha digital entre zonas urbanas y rurales en Bolivia?",
+    "respuesta": "Sustento\nEn el apartado “Retos éticos, regulatorios y de inclusión digital”, se señala que la brecha digital “puede intensificarse si el acceso a la IAG se concentra en centros urbanos” y que, al disponer solo el 35% de los hogares en el Beni y Pando de conexión de banda ancha estable, “limita su participación en la economía digital emergente”.",
+    "resumen": "La brecha rural limita que Beni y Pando participen en la economía digital (solo 35% con banda ancha)."
+  },
+  {
+    "id": 6,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 6: A partir de lo expuesto en el artículo, ¿cuál de los enunciados describe correctamente una de las medidas propuestas para mitigar los riesgos de la IAG en Bolivia?",
+    "respuesta": "Sustento\nEn la sección “Retos éticos, regulatorios y de inclusión digital”, el artículo propone, como parte del marco regulatorio, la medida de “Transparencia”; “los sistemas que producen contenido deben indicar claramente que la salida es generada por IA”.",
+    "resumen": "Medida: transparencia—avisar que el contenido fue generado por IA."
+  },
+  {
+    "id": 7,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 7: De acuerdo con el texto, ¿qué principio general se puede extraer de los problemas identificados en la adopción de la IAG en Bolivia?",
+    "respuesta": "Sustento\nEn la sección “Retos éticos, regulatorios y de inclusión digital”, se señala que la falta de legislación específica y la brecha de acceso a internet pueden intensificar la desinformación y la desigualdad digital. Se propone un marco regulatorio que incluya transparencia, responsabilidad y acceso equitativo para mitigar esos riesgos.",
+    "resumen": "Sin leyes y sin internet para todos, crecen desinformación y desigualdad; por eso se propone transparencia, responsabilidad y acceso equitativo."
+  },
+  {
+    "id": 8,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 8: Según el artículo, ¿qué consecuencia se puede deducir de una mayor incorporación de herramientas generativas de IA en la industria creativa boliviana?",
+    "respuesta": "Sustento\nLa startup boliviana MinkaDesign, al utilizar un modelo generativo de IA, logró un aumento del 27% en la velocidad de lanzamiento de nuevos diseños y expandió sus mercados a Uruguay y Chile. De esta comparación implícita se infiere que, si más actores de la industria creativa adoptaran herramientas generativas similares, experimentarían efectos parecidos: lanzarían sus productos más rápidamente y podrían acceder a mercados internacionales.",
+    "resumen": "Más IA en lo creativo → diseños salen más rápido y es más fácil llegar a mercados externos (ej. +27%)."
+  },
+  {
+    "id": 9,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 9: De acuerdo con el texto, ¿qué factor se espera que tenga una mayor influencia en la expansión futura de la IAG en Bolivia?",
+    "respuesta": "Sustento\nEl artículo señala que la brecha digital entre áreas urbanas y rurales limita el acceso a la IAG: solo el 35% de los hogares en Beni y Pando disponen de banda ancha estable, y se propone que el Estado invierta en infraestructura de internet para garantizar un acceso equitativo. Sin conectividad adecuada, incluso con marcos regulatorios o mejoras en capacidad computacional, la población rural no podrá aprovechar la IAG, lo que hace que la mejora de la infraestructura sea el factor determinante para su expansión futura.",
+    "resumen": "El factor más decisivo es mejorar la infraestructura de internet, sobre todo en zonas rurales."
+  },
+  {
+    "id": 10,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 10: Según el artículo, ¿cuál es la diferencia principal entre cómo la IAG beneficia al sector educativo y al sector creativo en Bolivia?",
+    "respuesta": "Sustento\nEl artículo indica que, en la educación, la IAG ayuda a suplir carencias de laboratorios y genera material didáctico personalizado que mejora la tasa de aprobación (párrafo de Aplicaciones en la educación). En contraste, en la industria creativa se menciona que la IAG acelera la creación de diseños textiles y permite a startups como “MinkaDesign” lanzar productos más rápido y expandir su mercado.",
+    "resumen": "Educación: material y apoyo para aprender; Creativo: acelera diseños y ventas/expansión."
+  },
+  {
+    "id": 11,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 11: Según el artículo, ¿qué es probable que ocurra con la huella ambiental de la industria textil boliviana si la generación de diseños mediante IAG se adopta de manera generalizada?",
+    "respuesta": "Sustento\nLa IAG permite generar patrones y diseños de manera digital, lo que acelera el proceso creativo y disminuye la necesidad de dibujar a mano o de imprimir prototipos físicos (párrafo sobre la industria creativa y la startup MinkaDesign). Al reducir esas etapas físicas, se espera una menor demanda de materiales y residuos, lo que implica una reducción de la huella ambiental.",
+    "resumen": "Bajaría la huella ambiental: menos prototipos físicos, menos materiales y residuos."
+  },
+  {
+    "id": 12,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 12: El artículo señala que, de cara al futuro, ¿cuál de las siguientes afirmaciones se puede inferir sobre la estrategia necesaria para maximizar el potencial de la IAG en Bolivia?",
+    "respuesta": "Sustento\nEl texto indica que la falta de infraestructura tecnológica en zonas rurales (p. 2) limita el aprovechamiento de la IAG, y que para mitigar riesgos se propone un marco regulatorio que incluya transparencia y responsabilidad (Sección 4). Asimismo, en la sección sobre educación se describe cómo la IAG puede mejorar la enseñanza y se sugiere su integración como coautor de materiales. Por lo tanto, la conclusión lógica es que una estrategia eficaz debe combinar mejoras de conectividad, regulación ética y adopción educativa.",
+    "resumen": "Para aprovecharla: mejor internet + reglas éticas + uso en educación."
+  },
+  {
+    "id": 13,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 13: A partir de lo expuesto en el artículo, ¿cuál es el propósito principal de proponer un marco regulatorio que incluya transparencia, responsabilidad y acceso equitativo para la IAG en Bolivia?",
+    "respuesta": "Sustento\nEl artículo señala en la sección de retos éticos y regulatorios que se propone un marco con tres pilares: transparencia, responsabilidad y acceso equitativo. Su objetivo es “mitigar estos riesgos” (deepfakes, sesgos) y “evitar que la brecha digital se intensifique” en zonas rurales, garantizando que la IAG beneficie a la sociedad en general.",
+    "resumen": "Proteger contra deepfakes/sesgos y evitar que crezca la brecha digital rural."
+  },
+  {
+    "id": 14,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 14: Según el artículo, ¿qué principio general subyace a las soluciones propuestas para mitigar los riesgos de la inteligencia artificial generativa en Bolivia?",
+    "respuesta": "Sustento\nEl texto propone un marco regulatorio que incluye transparencia, responsabilidad y acceso equitativo como líneas de acción para enfrentar los retos éticos y de brecha digital. Estas tres medidas se describen en la sección de retos éticos, regulatorios y de inclusión digital, donde se enfatiza la necesidad de filtros contra desinformación y la inversión en infraestructura de banda ancha en áreas rurales.",
+    "resumen": "Principio: adopción responsable e inclusiva (transparencia + filtros + acceso para todos)."
+  },
+  {
+    "id": 15,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 15: Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones constituye la conclusión lógica más coherente respecto a la relación entre la adopción de la IA generativa en la educación del altiplano y su uso en la industria creativa de Santa Cruz?",
+    "respuesta": "Sustento\nEl texto indica que en el altiplano el 42% de los colegios carecen de laboratorios bien equipados, y que la IA generativa podría suplir parcialmente esa carencia, pero también señala que la infraestructura tecnológica es limitada en zonas rurales. Por otro lado, en el apartado de la industria creativa se describe que la startup Santa Cruz ‘MinkaDesign’ ya utiliza modelos generativos, logrando un aumento del 27% en la velocidad de lanzamiento de diseños y expansión de mercados, lo que evidencia un impacto productivo más notable. Así, la conclusión lógica es que, aunque la IA generativa ofrece beneficios educativos en el altiplano, su efecto productivo se manifiesta con mayor magnitud en la industria creativa de Santa Cruz debido a mejor infraestructura y adopción temprana.",
+    "resumen": "En el altiplano ayuda, pero en Santa Cruz se nota más en productividad por mejor infraestructura y adopción temprana (+27%)."
+  },
+  {
+    "id": 16,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 16: De acuerdo con el texto, ¿qué es probable que ocurra en Bolivia si el Estado invierte en infraestructura de internet de alta velocidad en zonas rurales y promueve programas de capacitación en IA dirigidos a docentes?",
+    "respuesta": "Sustento\nLa falta de infraestructura tecnológica en zonas rurales es una limitante y que el acceso equitativo a internet y la capacitación docente son claves para evitar la brecha digital (sección 4). Si el Estado invierte en banda ancha y en programas de IA para docentes, se esperaría una reducción de esa brecha, facilitando el uso de IAG en educación rural y la producción de recursos locales, tal como se describe en los casos de estudio de Cochabamba y el altiplano.",
+    "resumen": "Bajarían la brecha digital y aumentaría el uso de IAG en educación rural."
+  },
+  {
+    "id": 17,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 17: Considerando lo mencionado en el texto, ¿qué es probable que ocurra si los docentes bolivianos adoptan la generación estocástica de tokens en los asistentes de IA para crear ejercicios de práctica?",
+    "respuesta": "Sustento\nEl artículo explica que la selección del token puede hacerse de forma determinística (máxima probabilidad) o estocástica (muestreo), otorgando respuestas más creativas o variadas según el objetivo. Al optar por la generación estocástica, los asistentes de IA producirán ejercicios con distintas formulaciones cada vez que se soliciten, lo que incrementa la variedad, pero también la necesidad de que los docentes verifiquen la pertinencia curricular de cada ítem.",
+    "resumen": "Habrá más variedad de ejercicios, pero el docente tendrá que revisar que todo esté alineado al currículo."
+  },
+  {
+    "id": 18,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 18: El artículo señala que, al combinar los casos de estudio de la industria creativa y del desarrollo de software, ¿cuál es la conclusión lógica sobre el impacto económico de la IAG en Bolivia?",
+    "respuesta": "La startup MinkaDesign logró un aumento del 27% en la velocidad de lanzamiento de diseños y que la Cámara Boliviana de Tecnologías reportó una reducción del 30% en los costos de desarrollo de software gracias al uso de asistentes de IA. Estas mejoras de productividad y reducción de costos son presentadas como oportunidades para la economía informal y la expansión a mercados externos (Uruguay y Chile). En contraste, la opción 2 distorsiona la información al afirmar que la IAG eleva los costos, cuando el texto destaca la posibilidad de usar servicios en la nube para evitar inversiones en hardware. La opción 3 niega el impacto en la economía informal, omitiendo los ejemplos de artesanos y programadores que se benefician. La opción 4 exagera los efectos al decir que la IAG elimina la brecha digital sin necesidad de capacitación, mientras que el artículo señala la necesidad de invertir en infraestructura y programas de formación.",
+    "resumen": "La IAG sube productividad (+27%) y baja costos (-30%), abriendo oportunidades y mercados, pero requiere inversión y capacitación."
+  },
+  {
+    "id": 19,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 19: Según el artículo, ¿qué es probable que ocurra si el Estado no fortalece la infraestructura de internet en zonas rurales mientras la IAG se expande en Bolivia?",
+    "respuesta": "Sustento\nEl artículo destaca que solo el 35% de los hogares en Beni y Pando disponen de banda ancha estable (Instituto Nacional de Estadística, 2022) y advierte que la ausencia de infraestructura podría intensificar la brecha digital. Además, propone un marco de “acceso equitativo” que requiere inversión estatal en conectividad rural. Por lo tanto, si no se realizan estas inversiones, la distribución desigual de la IAG se profundizará, impidiendo que poblaciones rurales aprovechen oportunidades en educación, industria creativa y economía informal.",
+    "resumen": "Se agranda la brecha: el campo queda fuera y no aprovecha oportunidades de IAG."
+  },
+  {
+    "id": 20,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 20: Basándose en la información proporcionada, ¿qué conclusión general se puede extraer acerca del impacto de la adopción de herramientas de IAG en la productividad de diferentes sectores en Bolivia?",
+    "respuesta": "Sustento\nEl artículo cita incrementos concretos asociados al uso de IAG: un aumento del 15% en la tasa de aprobación de estudiantes al integrar un asistente de IA en programación (sección de educación), un crecimiento del 27% en la velocidad de lanzamiento de nuevos diseños para la startup MinkaDesign (industria creativa) y una reducción del 30% en los costos de desarrollo de proyectos fintech al usar asistentes de código (sector de software). Estos ejemplos demuestran que, en los ámbitos donde se aplican, la IAG genera mejoras medibles de productividad.",
+    "resumen": "En varios sectores la IAG mejora resultados: +15% aprobación, +27% velocidad de diseños y -30% costos en fintech."
+  },
+  {
+    "id": 21,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 21: Del análisis presentado se desprende que, al considerar las diferentes soluciones propuestas para los retos de la IAG en Bolivia, ¿cuál es el principio general que subyace a dichas propuestas?",
+    "respuesta": "Sustento\nEn la sección “Retos éticos, regulatorios y de inclusión digital”, se propone un marco regulatorio que incluye tres pilares: transparencia (indicar que el contenido es generado por IA), responsabilidad (implementar filtros contra desinformación y discursos de odio) y acceso equitativo (inversión en infraestructura de banda ancha y capacitaciones). Estos tres elementos constituyen el principio general de promover una adopción inclusiva y responsable de la IAG.",
+    "resumen": "Principio: usar IAG de forma responsable e inclusiva (transparencia, filtros y acceso)."
+  },
+  {
+    "id": 22,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 22: La lectura del texto permite identificar que, respecto a los desafíos ambientales en Bolivia, la información presentada es:",
+    "respuesta": "Sustento\nEl artículo trata los fundamentos técnicos de la IAG y sus aplicaciones en educación, la industria creativa y la economía informal, pero no presentan ninguna referencia a usos ambientales, como la gestión de recursos naturales o la mitigación de la contaminación. Por lo tanto, la relevancia de la información para desafíos ambientales es limitada.",
+    "resumen": "Habla poco o nada de temas ambientales; su relevancia ambiental es limitada."
+  },
+  {
+    "id": 23,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 23: Según el artículo, ¿cuál sería la medida más adecuada para aplicar los principios de transparencia y responsabilidad al uso de asistentes de IA en la evaluación académica de universidades bolivianas?",
+    "respuesta": "Sustento\nEl artículo propone que la transparencia (indicar que la salida es generada por IA) y la responsabilidad (capacitación docente para revisar críticamente el contenido) son pilares para mitigar riesgos éticos. En la sección de retos éticos se menciona que los sistemas deben “indicar claramente que la salida es generada por IA”, y que el Estado debe “apoyar programas de capacitación en IA dirigidos a docentes”.",
+    "resumen": "Indicar cuando se usa IA y capacitar docentes para revisar críticamente."
+  },
+  {
+    "id": 24,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 24: De acuerdo con el texto, ¿cuál es la principal medida ética recomendada para mitigar los riesgos asociados al uso de la IAG en Bolivia?",
+    "respuesta": "Sustento\nLa sección de “Retos éticos, regulatorios y de inclusión digital” el artículo propone, como medida clave, la “Transparencia”: los sistemas que producen contenido deben indicar claramente que la salida es generada por IA. Esa propuesta es la que se menciona explícitamente como forma de mitigar riesgos como la desinformación y los sesgos.",
+    "resumen": "La principal medida ética es la transparencia: avisar que fue generado por IA."
+  },
+  {
+    "id": 25,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 25: A partir de lo expuesto en el artículo, ¿qué tan válido es el argumento del autor de que la ausencia de legislación específica sobre contenido generado por IA ha favorecido la polarización política en Bolivia?",
+    "respuesta": "Sustento\nLa sección de retos éticos y regulatorios, indica que la falta de legislación ha permitido que campañas políticas empleen textos automatizados sin revelar su origen, lo que “puede generar polarización”. Sin embargo, no se presentan datos cuantitativos ni estudios que midan directamente ese efecto, por lo que la validez del argumento es parcial.",
+    "resumen": "Es parcialmente válido: se menciona, pero faltan datos y estudios que lo demuestren."
+  },
+  {
+    "id": 26,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 26: Considerando lo mencionado en el texto, ¿qué limitación del enfoque del autor respecto a los procesos técnicos de la IAG podría pasar desapercibida?",
+    "respuesta": "Sustento\nEn la sección “Fundamentos técnicos de la IAG”, se describe cómo los modelos transformer se ejecutan normalmente a través de servicios en la nube, permitiendo a estudiantes y pequeñas empresas acceder sin hardware especializado. Sin embargo, el artículo también señala en el apartado de ‘Retos éticos, regulatorios y de inclusión digital’ que solo el 35% de los hogares en Beni y Pando disponen de conexión de banda ancha estable, lo que implica que la dependencia de la nube no garantiza un acceso universal.",
+    "resumen": "Aunque la nube ayuda, sin buen internet (ej. 35% en Beni/Pando) no hay acceso universal."
+  },
+  {
+    "id": 27,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 27: A partir de lo expuesto en el artículo, ¿qué sesgo o limitación del enfoque del autor podría conducir a una valoración incompleta del impacto de la IAG en la población rural boliviana?",
+    "respuesta": "Sustento\nLa brecha digital y la baja conectividad en zonas como Beni y Pando (35% de hogares con banda ancha), la mayor parte de los ejemplos y datos presentados provienen de contextos urbanos (estudios de caso en Cochabamba y Santa Cruz, startups como MinkaDesign). No se incluye un estudio de caso rural ni datos cuantitativos sobre uso de IAG en áreas rurales, lo que representa una limitación del enfoque del autor para evaluar el impacto en la población rural.",
+    "resumen": "Sesgo urbano: faltan casos y datos rurales, así no se mide bien el impacto en el campo."
+  },
+  {
+    "id": 28,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 28: De acuerdo con el texto, ¿qué estrategia combinaría de forma más eficaz la mitigación de la brecha digital y el aprovechamiento de la IA generativa para capacitar a agricultores en zonas rurales de Bolivia?",
+    "respuesta": "Sustento\nLa brecha digital en regiones como Beni y Pando (solo 35% de hogares con banda ancha) puede intensificarse si el acceso a IAG se concentra en zonas urbanas, y propone como medida clave “Acceso equitativo” mediante inversión estatal en infraestructura de internet de alta velocidad y programas de capacitación. Al combinar la mejora de la conectividad con centros comunitarios que brinden acceso a servicios en la nube, se logrará tanto reducir la desigualdad como permitir a agricultores usar la IA generativa para entrenamiento, diseño de productos y simulaciones, tal como se describe en los casos de educación y de la industria creativa.",
+    "resumen": "Internet rural + capacitación + centros comunitarios con acceso a nube para que agricultores usen IAG."
+  },
+  {
+    "id": 29,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 29: Considerando lo mencionado en el texto, ¿cómo se compara la metodología de atención de los modelos transformer descrita con los enfoques tradicionales basados en reglas en cuanto a su capacidad para adaptar la generación de contenido a contextos locales bolivianos?",
+    "respuesta": "Sustento\nLos modelos transformer usan capas de atención que ponderan la relevancia de cada elemento del input (párrafo ‘Fundamentos técnicos de la IAG’), lo que permite generar texto o imágenes considerando el contexto completo. Esta capacidad contextual es precisamente lo que facilita la adaptación a patrones locales, como la generación de diseños inspirados en la estética aymara o la personalización de ejercicios para estudiantes bolivianos. En contraste, los sistemas basados en reglas siguen predefiniciones estáticas y no pueden ajustar dinámicamente su salida según el contexto, lo que los hace menos aptos para atender la diversidad cultural y educativa descrita en el artículo.",
+    "resumen": "Transformers se adaptan al contexto; los sistemas por reglas son rígidos y se adaptan peor a lo local."
+  },
+  {
+    "id": 30,
+    "clasificacion": "ia_generativa",
+    "pregunta": "Pregunta 30: Según el artículo, ¿qué tipo de evidencia adicional sería más apropiado para validar la afirmación de que la IA generativa mejora significativamente el rendimiento académico de los estudiantes en distintas regiones de Bolivia?",
+    "respuesta": "Sustento\nLa respuesta, proporciona una evidencia robusta, generalizable y cuantitativa que supera las limitaciones señaladas en el artículo. El texto menciona casos locales (Cochabamba) y aumentos de aprobación del 15% en una cohorte, pero reconoce la brecha digital y la falta de datos representativos a nivel nacional. Un estudio experimental controlado con muestras de diversas regiones y con mediciones pre y post intervención mediante pruebas estandarizadas permitiría aislar el efecto de la IA generativa y validar su impacto en distintas poblaciones.",
+    "resumen": "Hace falta un estudio experimental controlado, en varias regiones, con pruebas antes y después."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 1: Basándose en la información proporcionada, ¿cuál es la consecuencia social inmediata que tuvo la campaña del hashtag #ReformaEducativa2022 descrita en el artículo?",
+    "respuesta": "Sustento \nEn la sección “Movilización a través de plataformas digitales” del artículo se indica que el hashtag #ReformaEducativa2022 alcanzó más de 250000 interacciones y que la convocatoria resultó en una marcha en la Plaza Murillo con más de 5000 participantes.",
+    "resumen": "El hashtag logró 250.000 interacciones y terminó en una marcha con más de 5.000 personas."
+  },
+  {
+    "id": 2,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 2: De acuerdo con el texto, ¿cuál es la diferencia porcentual entre el porcentaje de jóvenes que se sienten capaces de distinguir noticias reales en el Departamento de La Paz y el porcentaje de los jóvenes que lo hacen en Potosí?",
+    "respuesta": "Sustento\nEl 76% de los jóvenes de La Paz declara sentirse capaz de distinguir noticias reales, mientras que en Potosí esa cifra es del 54% (párrafo de ‘Acceso a la información política y alfabetización digital’). La diferencia es 76% − 54% = 22 puntos porcentuales.",
+    "resumen": "La Paz 76% vs Potosí 54%: diferencia de 22 puntos."
+  },
+  {
+    "id": 3,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 3: La lectura del texto permite identificar que, según la teoría del “Efecto de Red” citada en el apartado de movilización digital, ¿cuál es el segundo mecanismo que se menciona para explicar cómo las redes sociales favorecen la organización de protestas?",
+    "respuesta": "Sustento\nEl segundo mecanismo es la retroalimentación instantánea (likes, retweets) que refuerza la percepción de apoyo social.",
+    "resumen": "El segundo mecanismo es el feedback inmediato (likes/retweets) que hace sentir apoyo."
+  },
+  {
+    "id": 4,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 4: El artículo señala que, comparando el porcentaje nacional de jóvenes que poseen un smartphone con el porcentaje de jóvenes en Potosí que se declaran capaces de distinguir noticias reales de falsas, ¿cuál es la diferencia porcentual entre ambos valores?",
+    "respuesta": "Sustento \nSegún el texto, el 89% de los jóvenes bolivianos posee un smartphone (párrafo de Acceso a la información) y que en Potosí solo el 54% se siente capaz de distinguir noticias reales de falsas (tabla de la Encuesta Nacional de Jóvenes, 2022). La diferencia entre ambos porcentajes es 89% - 54% = 35%. Las otras opciones (33%, 41%, 30%) no corresponden a la resta exacta de los valores proporcionados y, por lo tanto, son distractores plausibles pero incorrectos.",
+    "resumen": "89% tienen smartphone y 54% (Potosí) distingue noticias: diferencia 35 puntos."
+  },
+  {
+    "id": 5,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 5: A consecuencia del análisis presentado, ¿cómo define el artículo el concepto de participación simbólica?",
+    "respuesta": "Sustento\nEl artículo define la participación simbólica como “la expresión de opiniones y valores sin necesariamente traducirse en acción concreta” (sección ‘Nuevas formas de expresión y participación simbólica’).",
+    "resumen": "Participación simbólica: opinar/expresar valores sin pasar necesariamente a acciones concretas."
+  },
+  {
+    "id": 6,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 6: Del análisis presentado se desprende que, según el artículo, ¿cómo se define el concepto de alfabetización digital?",
+    "respuesta": "Sustento\nEl artículo define la alfabetización digital como “la capacidad de buscar, evaluar y utilizar la información digital de forma responsable” (UNESCO, 2022). Esta definición aparece explícitamente en la sección 1 del Desarrollo.",
+    "resumen": "Alfabetización digital: buscar, evaluar y usar información digital responsablemente."
+  },
+  {
+    "id": 7,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 7: Del análisis presentado se desprende que la efectividad de la participación política de los jóvenes bolivianos depende principalmente de:",
+    "respuesta": "Sustento \nEl artículo indica que, aunque el 89% de los jóvenes posee un smartphone, la alfabetización digital sigue siendo desigual y es clave para evitar la apatía política (sección 1). Además, las conclusiones recomiendan implementar programas de alfabetización digital en todos los niveles escolares para que los jóvenes puedan evaluar críticamente la información y participar de forma efectiva.",
+    "resumen": "Depende sobre todo de la alfabetización digital para participar críticamente y no caer en apatía."
+  },
+  {
+    "id": 8,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 8: La lectura del texto permite identificar que, al comparar el proyecto “Voces del Chaco” con la campaña Reforma Educativa 2022, ¿cuál es la diferencia principal en el uso de los medios digitales para la participación política de los jóvenes en temas ambientales?",
+    "respuesta": "Sustento\nEl artículo describe que “Voces del Chaco” consiste en una serie de podcasts compartidos en Instagram que generan debates sobre conservación ambiental y justicia social, es decir, una forma de participación simbólica centrada en temas ambientales. En contraste, la campaña #ReformaEducativa2022 se menciona como un caso de movilización digital donde un hashtag en Twitter y TikTok organizó una marcha presencial de más de 5000 personas.",
+    "resumen": "“Voces del Chaco” = podcasts/debate (simbólico); “ReformaEducativa2022” = hashtag que llevó a marcha (acción)."
+  },
+  {
+    "id": 9,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 9: Del análisis presentado se desprende que, en comparación con la movilización física derivada del hashtag #ReformaEducativa2022, la iniciativa “Voces del Chaco” se caracteriza principalmente por:",
+    "respuesta": "Sustento\nEl texto describe a “Voces del Chaco” como una serie de podcasts que generan debates y expresan opiniones de forma creativa, es decir, una forma de participación simbólica que no se traduce necesariamente en acciones presenciales, a diferencia del caso del hashtag #ReformaEducativa2022, cuya movilización digital resultó en una marcha con más de 5000 personas.",
+    "resumen": "“Voces del Chaco” es más simbólico (debate/ideas) y no necesariamente termina en acciones presenciales."
+  },
+  {
+    "id": 10,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 10: Del análisis presentado se desprende que, debido al bajo costo de la participación digital descrito en la movilización #ReformaEducativa2022, es probable que:",
+    "respuesta": "Sustento \nLa digitalización permite una movilización rápida y de bajo costo (párrafo de movilización digital) y que, para que el impacto sea positivo, se requieren políticas que fomenten la transparencia y la infraestructura digital (conclusiones). De manera implícita, el bajo costo de participar genera mayor presión de los jóvenes para que el Estado invierta en infraestructura digital, lo cual puede traducirse en beneficios económicos al ampliar el acceso a información y herramientas digitales.",
+    "resumen": "El bajo costo facilita movilización y puede presionar al Estado a invertir en infraestructura digital."
+  },
+  {
+    "id": 11,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 11: Considerando lo mencionado en el texto, ¿cómo se diferencian los efectos de la digitalización en la movilización política de los jóvenes en la Universidad Mayor de San Andrés (UMSA) y en la región del Beni?",
+    "respuesta": "Sustento\nEl texto, el caso de la UMSA mostró una movilización rápida y masiva con el hashtag #ReformaEducativa2022, alcanzando más de 250.000 interacciones y una marcha de 5,000 personas, lo que ejemplifica el “efecto de red” descrito. En la región del Beni, por otro lado, el artículo indica que grupos rivales usaron WhatsApp para difundir mensajes polarizadores que dificultan la construcción de consensos, generando fragmentación y limitando la movilización colectiva.",
+    "resumen": "UMSA: movilización masiva; Beni: WhatsApp usado para polarizar y fragmentar."
+  },
+  {
+    "id": 12,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 12: El artículo señala que, al comparar la movilización a través de plataformas digitales con la expresión simbólica en redes sociales, la consecuencia social más distintiva para la participación política juvenil es que:",
+    "respuesta": "Sustento\nEl texto describe que la movilización a través de plataformas digitales, como el caso del hashtag #ReformaEducativa2022, llevó a una protesta física con más de 5 000 personas, lo que demuestra una traducción de la actividad en línea a acción colectiva concreta. Por otro lado, en la sección de “Nuevas formas de expresión y participación simbólica” se indica que los memes, videos y podcasts fomentan el sentido de pertenencia y habilidades de comunicación, pero señala que “la medida en que estas actividades se traducen en cambios políticos concretos sigue siendo objeto de investigación”, lo que implica que su consecuencia principal es simbólica más que accionable.",
+    "resumen": "La movilización digital puede pasar a protesta real; lo simbólico (memes/podcasts) fortalece identidad pero no siempre cambia políticas."
+  },
+  {
+    "id": 13,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 13: Basándose en la información proporcionada, ¿cuál es la conclusión más probable sobre el efecto histórico de la expansión digital en la participación política de los jóvenes bolivianos entre 2013 y 2022?",
+    "respuesta": "Sustento\nEl texto indica que el acceso a Internet en hogares pasó del 34% en 2013 al 71% en 2022 y que el 89% de los jóvenes posee un smartphone, evidenciando una expansión tecnológica importante. Sin embargo, la calidad de la participación varía: en La Paz el 76% de los jóvenes se siente capaz de distinguir noticias reales de falsas, mientras que en Potosí esa cifra es solo 54%. Además, la exposición a “fake news” está asociada a una reducción del 12% en la probabilidad de votar. Estos datos demuestran que, aunque haya más dispositivos y mayor conectividad, la participación política mejora sustancialmente solo donde la alfabetización digital se ha reforzado, lo que lleva a la conclusión de que la expansión digital por sí sola no asegura un aumento generalizado de la participación.",
+    "resumen": "Más internet (34%→71%) y smartphones (89%), pero sin alfabetización digital no mejora la participación para todos."
+  },
+  {
+    "id": 14,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 14: A partir de lo expuesto en el artículo, ¿cuál es la perspectiva futura que el autor sugiere para potenciar la participación política de los jóvenes bolivianos?",
+    "respuesta": "Sustento\nEn la sección de conclusiones el autor propone tres líneas de acción futuras: (1) programas de alfabetización digital en todos los niveles escolares, (2) políticas públicas que fomenten la transparencia y faciliten la participación online mediante plataformas seguras, y (3) apoyo a iniciativas de contenido juvenil que integren investigación académica con formatos digitales. Estas medidas buscan convertir la digitalización en una herramienta democratizadora.",
+    "resumen": "Propone 3 cosas: alfabetización digital, transparencia y plataformas seguras, y apoyo a contenido juvenil."
+  },
+  {
+    "id": 15,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 15: De acuerdo con el texto, ¿qué es probable que ocurra si la producción y difusión de contenidos juveniles sobre temas ambientales, como el proyecto “Voces del Chaco” se intensifica en las redes sociales?",
+    "respuesta": "Sustento\nEl artículo indica que el proyecto “Voces del Chaco” ha generado debates entre la comunidad académica y ONG, facilitando la inserción de la perspectiva juvenil en la agenda pública. Por lo tanto, ampliar la producción y difusión de contenidos similares plausiblemente reforzará esa inserción y ejercerá presión para que las instituciones consideren políticas de conservación.",
+    "resumen": "Más contenidos ambientales juveniles = más debate y más presión para políticas de conservación."
+  },
+  {
+    "id": 16,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 16: La lectura del texto permite identificar que, al comparar la campaña ReformaEducativa2022 conducida por la UMSA con el uso de WhatsApp en el Beni, la diferencia esencial radica en:",
+    "respuesta": "Sustento\nEl texto describe que la campaña #ReformaEducativa2022, difundida mediante el hashtag en Twitter y TikTok, logró más de 250 000 interacciones y movilizó a más de 5 000 personas en una marcha, evidenciando una identificación colectiva y acción física. En contraste, el párrafo sobre el Beni señala que grupos rivales usan WhatsApp para difundir mensajes polarizadores que dificultan la construcción de consensos, indicando un efecto de fragmentación y polarización.",
+    "resumen": "Hashtag UMSA unió y movilizó; en Beni WhatsApp polarizó y fragmentó."
+  },
+  {
+    "id": 17,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 17: De acuerdo con el texto, ¿qué principio general se puede extraer sobre la relación entre la digitalización y la participación política de los jóvenes bolivianos?",
+    "respuesta": "Sustento\nEl artículo indica que, aunque el 89% de los jóvenes posee un smartphone y el 68% usa internet cotidianamente, la mera posesión no garantiza participación crítica; la alfabetización digital, definida como la capacidad de buscar, evaluar y usar información digital responsablemente, sigue siendo desigual y se señala como factor clave para que la digitalización no se traduzca en apatía política (sección ‘Acceso a la información política y alfabetización digital’).",
+    "resumen": "Tener internet no basta: la alfabetización digital es la clave para participación crítica."
+  },
+  {
+    "id": 18,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 18: La lectura del texto permite identificar que, si se implementan a nivel nacional programas de alfabetización digital dirigidos a jóvenes de entre 17 y 19 años, es probable que…",
+    "respuesta": "Sustento\nEl artículo señala que el 89% de los jóvenes poseía un smartphone, pero la alfabetización digital es desigual (76% en La Paz versus 54% en Potosí) y que la exposición a “fake news” está vinculada a una reducción del 12% en la probabilidad de votar (Rodríguez y Salazar, 2023). Asimismo, se recomienda implementar programas de alfabetización digital para mejorar la capacidad crítica. Por lo tanto, si dichos programas se extienden a nivel nacional, es razonable inferir que la habilidad de distinguir información falsa aumentará, lo que mitigará la caída del 12% en la intención de voto.",
+    "resumen": "Programas nacionales mejorarían la capacidad de detectar fake news y reducirían la caída del 12% en intención de voto."
+  },
+  {
+    "id": 19,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 19: Según el artículo, ¿qué es probable que ocurra si se implementan programas de alfabetización digital extensivos en todas las escuelas de Bolivia?",
+    "respuesta": "Sustento\nEl artículo subraya que la alfabetización digital es clave para que la digitalización no conduzca a apatía política; menciona que la exposición a “fake news” reduce la intención de voto en un 12% y que mejorar la capacidad de evaluar la veracidad de la información debería revertir esa tendencia, incrementando la participación electoral.",
+    "resumen": "Más alfabetización digital en escuelas = menos apatía y más participación electoral."
+  },
+  {
+    "id": 20,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 20: Basándose en la información proporcionada, ¿qué principio general puede inferirse sobre el papel de los jóvenes bolivianos como actores en la participación política digital?",
+    "respuesta": "Sustento \nEl artículo muestra dos casos específicos: la movilización de estudiantes de la UMSA mediante el hashtag #ReformaEducativa2022, que evidencia la capacidad de los jóvenes para organizar protestas masivas, y el proyecto “Voces del Chaco”, que ilustra la generación de contenido simbólico (podcasts) que inserta sus perspectivas en la agenda pública. Ambos ejemplos confirman que los jóvenes actúan como catalizadores que coordinan acciones colectivas y crean discursos digitales.",
+    "resumen": "Los jóvenes son catalizadores: organizan protestas y crean contenido que mete su voz en la agenda pública."
+  },
+  {
+    "id": 21,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 21: Basándose en la información proporcionada, ¿qué diferencia económica se puede inferir entre la movilización digital de los jóvenes mediante hashtags y la exposición a noticias falsas en relación con su potencial efecto sobre la participación electoral?",
+    "respuesta": "Sustento\nEl texto describe que el hashtag #ReformaEducativa2022 movilizó a más de 5000 personas y alcanzó 250000 interacciones, lo que evidencia una capacidad de generar participación política concreta; esa participación puede traducirse en una mayor influencia económica de los jóvenes al impactar decisiones de políticas públicas. En contraste, el artículo indica que la exposición a noticias falsas está vinculada a una reducción del 12% en la probabilidad de voto (Rodríguez y Salazar, 2023), lo que implica una menor capacidad de influir económicamente en los procesos electorales.",
+    "resumen": "Hashtags pueden aumentar influencia (hasta económica) al empujar políticas; fake news baja el voto (-12%) y reduce esa influencia."
+  },
+  {
+    "id": 22,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 22: Del análisis presentado se desprende que la principal fortaleza del enfoque metodológico del artículo radica en:",
+    "respuesta": "Sustento\nEl artículo utiliza estadísticas de la Encuesta Nacional de Jóvenes 2022 y del INE (por ejemplo, el 89% de jóvenes con smartphone) junto con casos de estudio concretos como la campaña #ReformaEducativa2022 de la UMSA y el proyecto “Voces del Chaco”. Esta mezcla de fuentes cuantitativas y cualitativas brinda triangulación y contextualiza los resultados.",
+    "resumen": "Su fortaleza es mezclar datos (encuestas/INE) con casos reales (UMSA, Voces del Chaco)."
+  },
+  {
+    "id": 23,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 23: El artículo señala que la digitalización puede revitalizar la democracia boliviana siempre que se acompañe de políticas de alfabetización digital; ¿qué tan válido es este argumento según la información presentada?",
+    "respuesta": "Sustento\nLa sección de conclusiones el autor afirma que la digitalización ofrece una oportunidad histórica para revitalizar la democracia, siempre que se acompañe de políticas que promuevan el pensamiento crítico y la alfabetización digital. Además, en el apartado sobre alfabetización digital se muestra que la capacidad de distinguir noticias reales de falsas está vinculada a una mayor intención de participar, lo que respalda la relación entre alfabetización y participación política.",
+    "resumen": "Es válido según el texto: pensamiento crítico y alfabetización digital se asocian a más intención de participar."
+  },
+  {
+    "id": 24,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 24: De acuerdo con el texto, ¿cuál de las siguientes limitaciones o sesgos no está contemplado en las soluciones propuestas por los autores?",
+    "respuesta": "Sustento\nEl artículo reconoce desigualdades en acceso a internet según la ubicación geográfica (párrafos de la introducción y desarrollo, sección 1), las tres líneas de acción propuestas en la conclusión se centran en alfabetización digital, transparencia institucional y apoyo a contenidos juveniles, sin mencionar medidas concretas para ampliar la infraestructura de conectividad en zonas rurales.",
+    "resumen": "No incluye medidas concretas para ampliar infraestructura de conectividad en zonas rurales."
+  },
+  {
+    "id": 25,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 25: De acuerdo con el texto, ¿qué tipo de evidencia sería más pertinente para reforzar la afirmación de que los programas de alfabetización digital aumentan la intención de voto entre los jóvenes bolivianos?",
+    "respuesta": "Sustento\nEl texto señala que la alfabetización digital es clave para que la digitalización no genere apatía política, pero la evidencia presentada es mayormente correlacional (por ejemplo, diferencias entre La Paz y Potosí). Para demostrar que los programas de alfabetización incrementan la intención de voto, se requeriría evidencia experimental que controle variables y mida cambios en la intención de voto antes y después de la intervención.",
+    "resumen": "Se necesita evidencia experimental (antes/después) para probar que alfabetización aumenta el voto."
+  },
+  {
+    "id": 26,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 26: De acuerdo con el texto, ¿por qué es relevante implementar programas de alfabetización digital en las escuelas bolivianas para mejorar la participación política de los jóvenes?",
+    "respuesta": "Sustento\nEl artículo señala que, aunque el 89% de los jóvenes posee smartphone, la alfabetización digital sigue siendo desigual (76% en La Paz vs 54% en Potosí) y que la exposición a noticias falsas reduce en un 12% la probabilidad de voto (Rodríguez y Salazar, 2023). Por lo tanto, programas educativos que desarrollen la capacidad de buscar, evaluar y usar información digital son esenciales para mitigar la desinformación y favorecer una participación política más informada y activa.",
+    "resumen": "Porque reduce desinformación: alfabetización desigual (76% vs 54%) y fake news baja el voto (-12%)."
+  },
+  {
+    "id": 27,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 27: Considerando lo mencionado en el texto, ¿qué sesgo económico está presente en el enfoque del autor al analizar la digitalización y la participación política de los jóvenes bolivianos?",
+    "respuesta": "Sustento\nEl artículo indica que el 89% de los jóvenes posee un smartphone y menciona diferencias geográficas y educativas, no aborda explícitamente cómo la situación socio económica (ingresos familiares, capacidad de pago de planes de datos, etc.) afecta el acceso y la calidad de la participación digital. Esta omisión constituye un sesgo económico, ya que la capacidad de participar críticamente en entornos digitales depende también de recursos financieros que el texto no considera.",
+    "resumen": "Sesgo: no considera cómo ingresos y costo de datos afectan el acceso y la participación digital."
+  },
+  {
+    "id": 28,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 28: Del análisis presentado se desprende que, en contraste con la concepción tradicional de que la defensa ambiental depende principalmente de acciones de campo, ¿qué afirma el artículo sobre el papel de iniciativas digitales como los podcasts ‘Voces del Chaco’ en la influencia de políticas medioambientales?",
+    "respuesta": "Sustento \nLa sección ‘Nuevas formas de expresión y participación simbólica’ se describe que el proyecto ‘Voces del Chaco’ ha generado debates y ha facilitado la inserción de la perspectiva juvenil en la agenda pública, pero el artículo también señala que la medida en que estas actividades se traduzcan en cambios políticos concretos sigue siendo objeto de investigación.",
+    "resumen": "Los podcasts ayudan a poner el tema en la agenda, pero no está claro cuánto logran cambios políticos concretos."
+  },
+  {
+    "id": 29,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 29: A partir de lo expuesto en el artículo, ¿cuáles son las principales implicaciones éticas y sociales que deben considerarse al diseñar programas de alfabetización digital dirigidos a los jóvenes bolivianos para fortalecer su participación política?",
+    "respuesta": "Sustento \nEl artículo subraya que la digitalización solo favorece la participación política si se acompañan políticas de alfabetización digital que incluyan pensamiento crítico, inclusión digital y medidas contra la desinformación (párrafos sobre alfabetización digital y conclusiones). Además, señala la necesidad de reducir la brecha de acceso entre regiones como La Paz y Potosí y de proteger a los jóvenes de la manipulación de información.",
+    "resumen": "Debe incluir pensamiento crítico, inclusión y defensa contra desinformación, reduciendo brechas regionales y manipulación."
+  },
+  {
+    "id": 30,
+    "clasificacion": "participacion_digital",
+    "pregunta": "Pregunta 30: De acuerdo con el texto, ¿cuáles son las implicaciones éticas más relevantes de la desigualdad en alfabetización digital entre los jóvenes de La Paz y Potosí para la calidad de la participación política?",
+    "respuesta": "Sustento\nEl texto señala que en La Paz el 76% de los jóvenes se siente capaz de distinguir noticias reales de falsas, mientras que en Potosí esa cifra cae al 54%. Además, se menciona que la exposición a “fake news” está vinculada a una reducción del 12% en la probabilidad de votar (Rodríguez y Salazar, 2023). Esta combinación indica una vulnerabilidad ética: la falta de alfabetización digital expone a ciertos jóvenes a desinformación, lo que afecta su intención de participar y vulnera el principio de igualdad democrática.",
+    "resumen": "La desigualdad (76% vs 54%) expone a unos más a fake news y baja el voto (-12%), afectando la igualdad democrática."
+  }
+]

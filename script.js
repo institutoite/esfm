@@ -153,24 +153,6 @@ function setupImportantClickables() {
 }
 /* ========= Sections ========= */
     const SECTIONS = [
-            {
-              id: "examenes-gestion",
-              title: "Exámenes por gestión",
-              hint: "2000–2025",
-              tags: ["examenes", "gestion", "admision", "descarga", "años"],
-              meta: "Descarga exámenes de admisión por año",
-              snippet: "Accede a los exámenes de admisión de gestiones anteriores (2000–2025).",
-              content: `
-                <div class="examenes-lista">
-                  <ul class="examenes-ul" style="columns:2;max-width:400px">
-                    ${Array.from({length:26},(_,i)=>2000+i).map(y=>
-                      `<li><a class='examen-link' href='files/examenes/examen-${y}.pdf' download>Examen ${y}</a></li>`
-                    ).join('')}
-                  </ul>
-                  <div class="small">Haz clic en un año para descargar el examen correspondiente.</div>
-                </div>
-              `
-            },
       {
         id: "datos-clave",
         title: "Datos clave",

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 1: Según el artículo, ¿qué actor es mencionado primero como iniciador de la implementación de herramientas de IA en la educación boliviana?",
+    "respuesta": "Sustento\nEl artículo introduce primero al Ministerio de Educación como responsable del programa ‘Bolivia Aprende Digital’ (2022 2025), que incorpora plataformas de IA como Khan Academy y Microsoft Education. Los proyectos de la Universidad Católica Boliviana, la Universidad Autónoma Tomás Frías y la Universidad Mayor de San Andrés se describen posteriormente, por lo que no son los primeros actores mencionados.",
+    "resumen": "El primero que se menciona es el Ministerio de Educación con “Bolivia Aprende Digital”."
+  },
+  {
+    "id": 2,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 2: De acuerdo con el texto, ¿qué organismo proporciona la cifra del 38% de hogares rurales bolivianos con conexión a Internet de banda ancha?",
+    "respuesta": "Sustento\nSegún el Instituto Nacional de Estadística (INE, 2023), solo el 38% de los hogares rurales dispone de conexión a Internet de banda ancha. Las demás opciones son incorrectas: el Ministerio de Educación impulsa programas educativos, la UNESCO reporta datos a nivel regional y la UMSA participa en proyectos de realidad aumentada, pero ninguna de ellas es la fuente de la estadística mencionada.",
+    "resumen": "La cifra del 38% la da el INE (2023)."
+  },
+  {
+    "id": 3,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 3: Basándose en la información proporcionada, ¿cuál es la segunda consecuencia social que se menciona respecto a la adopción de la IA en la educación boliviana?",
+    "respuesta": "Sustento\nLa falta de competencias técnicas puede generar una dependencia excesiva del algoritmo, sin la capacidad de interpretar los resultados ni de intervenir cuando la IA sugiere una ruta pedagógica inadecuada. Este es el segundo efecto social mencionado después de la ‘ampliación de la desigualdad educativa’ (primera consecuencia).",
+    "resumen": "La segunda consecuencia es depender demasiado del algoritmo por falta de competencias técnicas."
+  },
+  {
+    "id": 4,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 4: El artículo señala que los conceptos neurocientíficos clave para la personalización del aprendizaje son:",
+    "respuesta": "Sustento\nDos conceptos resultan clave: plasticidad sináptica y carga cognitiva. Las demás opciones combinan términos que aparecen en el texto, pero nunca se presentan juntos como los dos conceptos clave; por ejemplo, “neuroplasticidad” y “memoria de trabajo” son conceptos relacionados, pero no citados como los dos esenciales, y “aprendizaje automático” y “inteligencia emocional” pertenecen a dominios diferentes al de los fundamentos neurocientíficos descritos.",
+    "resumen": "Los 2 conceptos clave son plasticidad sináptica y carga cognitiva."
+  },
+  {
+    "id": 5,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 5: De acuerdo con el texto, ¿cuáles son los principales desafíos que se identifican para la integración de la IA en la educación boliviana?",
+    "respuesta": "Sustento\nEn la sección ‘Desafíos éticos, técnicos y estructurales en Bolivia’ el artículo enumera tres problemas principales: (1) Infraestructura y conectividad, (2) Capacitación docente y (3) Privacidad y sesgo algorítmico. Las demás opciones mezclan conceptos que aparecen en el texto (por ejemplo, privacidad y sesgo) con elementos que no se mencionan como desafíos específicos (como ‘falta de inversión’ o ‘alta tasa de deserción’), por lo que son distractores incorrectos.",
+    "resumen": "Los desafíos principales son conectividad, capacitación docente y privacidad/sesgo."
+  },
+  {
+    "id": 6,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 6: Según el artículo, ¿qué porcentaje de hogares rurales en Bolivia dispone de conexión a Internet de banda ancha?",
+    "respuesta": "Sustento\nEl texto indica que “solo el 38% de los hogares rurales dispone de conexión a Internet de banda ancha”. Las opciones 1, 2 y 3 corresponden a datos diferentes del artículo: 71% es el porcentaje de hogares urbanos con banda ancha, 22% es la proporción de docentes que ha recibido capacitación digital avanzada, y 84% es el porcentaje de estudiantes que reportó mejor comprensión tras usar realidad aumentada. Ninguno de esos valores se refiere a la conectividad de hogares rurales.",
+    "resumen": "En zonas rurales, solo 38% tiene banda ancha."
+  },
+  {
+    "id": 7,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 7: El artículo señala que solo el 38% de los hogares rurales tiene conexión de banda ancha, mientras que el 71% de los urbanos sí la posee. ¿Qué consecuencia se puede deducir si esta diferencia de conectividad no se corrige al introducir herramientas de IA en la educación?",
+    "respuesta": "Sustento\nEl texto indica que la brecha digital es significativa (38% de hogares rurales con banda ancha versus 71% en urbanos) y que esta disparidad limita la implementación uniforme de plataformas de IA, pudiendo ampliar la desigualdad educativa si no se adopta una estrategia de mitigación. Por lo tanto, la consecuencia lógica es que la desigualdad entre áreas rurales y urbanas se incrementará. Las otras opciones interpretan erróneamente el efecto: la reducción de deserción, el aumento de capacitación docente o la disminución de necesidad de infraestructura no están sustentadas por la información dada y, al contrario, requieren mejoras en conectividad.",
+    "resumen": "Si no se corrige, la IA puede aumentar la desigualdad rural vs urbana."
+  },
+  {
+    "id": 8,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 8: Según el artículo, ¿cuál es la principal fortaleza del enfoque de tutores virtuales basados en IA en la educación secundaria boliviana?",
+    "respuesta": "Sustento\nEl estudio piloto de la Universidad Católica Boliviana, el uso de un tutor virtual basado en IA elevó el promedio de calificaciones en matemática de 6.8 a 8.1 y redujo la tasa de deserción en la asignatura en un 12%. Estos resultados demuestran una mejora académica clara y una disminución de la deserción, que son la fortaleza principal del enfoque.",
+    "resumen": "Su fortaleza es que sube notas (6.8→8.1) y baja deserción (12%)."
+  },
+  {
+    "id": 9,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 9: Considerando lo mencionado en el texto, ¿qué tan válido es el argumento de que la inteligencia artificial reducirá automáticamente las brechas sociales en la educación boliviana?",
+    "respuesta": "Sustento\nEl artículo destaca tanto las oportunidades de la IA para mejorar la calidad educativa y reducir desigualdades (p. ej., tutores virtuales que compensan la escasez de docentes) como los grandes desafíos estructurales: solo el 38% de los hogares rurales tiene banda ancha y solo el 22% de los docentes ha recibido capacitación en tecnologías emergentes. Estas limitaciones hacen que la reducción de brechas dependa de mejoras en conectividad y formación docente, por lo que el argumento de una reducción automática es solo parcialmente válido. Las opciones 1 y 2 son incorrectas porque exageran o niegan completamente el impacto descrito; el texto no afirma una eliminación total ni una ausencia de efectos sociales.",
+    "resumen": "No se reduce “automáticamente”: depende de conectividad y capacitación docente."
+  },
+  {
+    "id": 10,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 10: Del análisis presentado se desprende que, respecto a los resultados del estudio piloto con tutor virtual basado en IA, la evidencia es:",
+    "respuesta": "Sustento\nEl artículo indica que el estudio piloto se realizó con 1 200 estudiantes de segundo de bachillerato de la Universidad Católica Boliviana, mostrando un aumento de calificaciones de 6.8 a 8.1 y una reducción de deserción del 12%. Sin embargo, el texto aclara que estos resultados son locales y que la efectividad de la IA depende de factores como infraestructura y capacitación docente. Por lo tanto, la evidencia es válida como indicio preliminar, pero no suficiente para afirmar mejoras a nivel nacional sin investigaciones adicionales en contextos rurales y con mayor número de participantes. Las demás opciones sobreestiman la generalización, confunden la muestra con la población total o atribuyen la mejora exclusivamente a la IA sin considerar otras variables, por lo que no reflejan la interpretación crítica que el artículo sugiere.",
+    "resumen": "Es evidencia preliminar local; no basta para afirmar mejoras nacionales."
+  },
+  {
+    "id": 11,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 11: De acuerdo con el texto, ¿cuál de los siguientes aspectos representa una posible limitación que podría sesgar los resultados del estudio piloto sobre tutores virtuales?",
+    "respuesta": "Sustento\nEl estudio piloto se realizó en la Universidad Católica Boliviana con 1 200 estudiantes de segundo de bachillerato, sin especificar si incluía a escuelas rurales o de diferentes regiones; por tanto, la muestra es limitada y no representa a todo el sistema educativo boliviano, lo que constituye una posible fuente de sesgo.",
+    "resumen": "La muestra es limitada y no representa a todo Bolivia (no se sabe si incluye rural/regiones)."
+  },
+  {
+    "id": 12,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 12: De acuerdo con el texto, ¿cuál es la principal implicación económica de adoptar inteligencia artificial en la educación boliviana?",
+    "respuesta": "Sustento\nLa efectividad de la IA depende de “invertir en redes de banda ancha en zonas rurales” y “diseñar programas de formación continua para docentes” (sección de conclusiones y desafíos). Estas inversiones son presentadas como la principal implicación económica.",
+    "resumen": "La principal implicación económica es invertir en banda ancha rural y formación docente."
+  },
+  {
+    "id": 13,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 13: Considerando lo mencionado en el texto, ¿cuál de los siguientes sesgos potenciales no se discute explícitamente en el artículo?",
+    "respuesta": "Sustento\nEl artículo menciona explícitamente sesgos derivados de datos urbanos, la brecha de conectividad y la falta de capacitación docente, pero no aborda en ningún pasaje un sesgo de género. En la sección ‘Desafíos éticos, técnicos y estructurales’ se habla de sesgo algorítmico ligado a datos mayormente urbanos y de cómo la falta de infraestructura y de formación docente pueden afectar la equidad, sin mencionar la posible discriminación por género. Las demás opciones describen sesgos que sí son mencionados en el texto.",
+    "resumen": "No se discute explícitamente un sesgo de género."
+  },
+  {
+    "id": 14,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 14: El artículo señala que la IA puede modular la carga cognitiva y la plasticidad sináptica para optimizar el aprendizaje. Según una valoración crítica simple, ¿cuál de los siguientes enunciados representa la mayor fortaleza de este enfoque científico?",
+    "respuesta": "Sustento\nLos sistemas de IA se basan en los conceptos de plasticidad sináptica y carga cognitiva, permitiendo ajustar la complejidad de los ejercicios a la zona de desarrollo próximo del estudiante; esto, según la investigación neuroeducativa citada, maximiza la plasticidad sináptica sin saturar la carga cognitiva y, por ende, favorece la retención a largo plazo (sección ‘Fundamentos neurocientíficos del aprendizaje personalizado’).",
+    "resumen": "La fortaleza es ajustar ejercicios a la zona de desarrollo próximo para mejorar retención sin saturar."
+  },
+  {
+    "id": 15,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 15: Según el artículo, ¿cuál de los siguientes actores es el más determinante para garantizar una integración responsable de la IA en la educación boliviana?",
+    "respuesta": "Sustento\nEl Ministerio de Educación lidera el programa ‘Bolivia Aprende Digital’ (2022 2025), propone inversiones en conectividad, diseña programas de capacitación docente y coordina políticas públicas para la protección de datos. Estos roles son descritos como esenciales para una integración responsable, mientras que las empresas, los estudiantes y las organizaciones internacionales juegan papeles complementarios, pero no determinantes.",
+    "resumen": "El actor más determinante es el Ministerio de Educación."
+  },
+  {
+    "id": 16,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 16: La lectura del texto permite identificar que, para que la IA contribuya de forma efectiva a la educación en Bolivia, es necesario que las soluciones propuestas se orienten principalmente a:",
+    "respuesta": "Sustento\nEl artículo concluye que la integración responsable de la IA requiere (1) invertir en redes de banda ancha en zonas rurales, (2) diseñar programas de formación continua para docentes y (3) crear políticas de protección de datos que regulen la recopilación y uso de información estudiantil. Estas tres líneas de acción aparecen en la sección de conclusiones y resumen los obstáculos estructurales, de capacitación y éticos que deben abordarse conjuntamente.",
+    "resumen": "Se debe trabajar en banda ancha rural, formación docente y protección de datos."
+  },
+  {
+    "id": 17,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 17: De acuerdo con el texto, ¿qué consecuencia se puede deducir si se invierte en redes de banda ancha en zonas rurales?",
+    "respuesta": "Sustento\nLa falta de conectividad en hogares rurales (solo 38 % con banda ancha) limita la implementación de plataformas de IA y que invertir en redes de banda ancha es una de las recomendaciones para cerrar la brecha digital y lograr una integración responsable de la IA.",
+    "resumen": "Mejorar banda ancha rural ayudaría a cerrar la brecha y permitir IA más equitativa."
+  },
+  {
+    "id": 18,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 18: Basándose en la información proporcionada, ¿cuál es el propósito económico principal de mejorar la conectividad de banda ancha en zonas rurales de Bolivia?",
+    "respuesta": "Sustento\nLa disparidad de conectividad (38% en áreas rurales vs. 71% en urbanas) “limita la implementación uniforme de plataformas basadas en IA y podría ampliar la desigualdad educativa” y recomienda invertir en redes de banda ancha para “evitar ampliar la desigualdad educativa”. Al reducir esa brecha, se fortalece el capital humano y se crea una base para el desarrollo económico a largo plazo.",
+    "resumen": "Reducir la brecha fortalece el capital humano y apoya el desarrollo económico a largo plazo."
+  },
+  {
+    "id": 19,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 19: De acuerdo con el texto, ¿qué efecto probable tendría la falta de capacitación docente en inteligencia artificial sobre el uso de los sistemas de IA en las aulas?",
+    "respuesta": "Sustento\nEl artículo indica que, al no recibir formación adecuada, “la mayoría de los profesores… no ha recibido formación formal… La falta de competencias técnicas puede generar una dependencia excesiva del algoritmo, sin la capacidad de interpretar los resultados ni de intervenir cuando la IA sugiere una ruta pedagógica inadecuada”. Esa relación causa efecto se infiere del texto.",
+    "resumen": "Sin capacitación, los docentes pueden depender del algoritmo y no saber corregir rutas equivocadas."
+  },
+  {
+    "id": 20,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 20: De acuerdo con el texto, ¿cuál es el mensaje principal implícito que el autor comunica respecto a los datos estadísticos proporcionados?",
+    "respuesta": "Sustento\nEl autor destaca, mediante los datos del INE (2023), que solo el 38% de los hogares rurales dispone de conexión de banda ancha frente al 71% en áreas urbanas, y señala que esta desigualdad de conectividad limita la implementación uniforme de plataformas basadas en IA y podría ampliar la brecha educativa. Además, en la sección de desafíos se menciona que invertir en infraestructura de internet es esencial para que la IA beneficie a todos los estudiantes.",
+    "resumen": "El mensaje es que sin infraestructura de internet, la IA no llegará igual a todos y puede ampliar brechas."
+  },
+  {
+    "id": 21,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 21: De acuerdo con el texto, ¿qué conclusión lógica se puede extraer sobre los procesos técnicos de IA que personalizan el aprendizaje?",
+    "respuesta": "Sustento\nLos algoritmos de recomendación de IA pueden estimar la zona de desarrollo próximo del alumno y adaptar la complejidad de los ejercicios, logrando que la tarea maximice la plasticidad sináptica sin saturar la carga cognitiva (sección ‘Fundamentos neurocientíficos del aprendizaje personalizado’).",
+    "resumen": "La IA personaliza estimando la zona de desarrollo próximo y ajustando la dificultad."
+  },
+  {
+    "id": 22,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 22: Según el artículo, ¿qué se puede concluir acerca del impacto de la personalización basada en IA en el desempeño académico de los estudiantes bolivianos?",
+    "respuesta": "Sustento\nEl estudio piloto de la Universidad Católica Boliviana (Gómez et al., 2023) con 1 200 estudiantes de segundo de bachillerato, el promedio de calificaciones en matemática pasó de 6.8 a 8.1 y la tasa de deserción disminuyó en un 12% al usar un tutor virtual basado en IA. Estos datos combinan mejoras en rendimiento y reducción de deserción, lo que permite inferir que la personalización mediante IA tiene un impacto positivo.",
+    "resumen": "La personalización con IA mostró impacto positivo: mejores notas y menos deserción."
+  },
+  {
+    "id": 23,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 23: La lectura del texto permite identificar que la principal diferencia entre los tutores virtuales y la analítica de aprendizaje es que:",
+    "respuesta": "Sustento\nLos tutores virtuales, como el piloto de la UCB, mejoraron el promedio de calificaciones y disminuyeron la deserción mediante rutas de estudio personalizadas (sección ‘Tutores virtuales y plataformas adaptativas’). En contraste, la analítica de aprendizaje se describe como un método para recolectar y analizar datos de interacción que permite predecir la probabilidad de deserción y aplicar intervenciones tempranas (sección ‘Analítica de aprendizaje y detección temprana de riesgos’). Por lo tanto, la diferencia radica en la personalización académica frente a la predicción y prevención de la deserción.",
+    "resumen": "Tutores = personalizan estudio; analítica = predice riesgo y ayuda a prevenir deserción."
+  },
+  {
+    "id": 24,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 24: La lectura del texto permite identificar que la perspectiva futura del autor para la integración responsable de la IA en la educación boliviana es que:",
+    "respuesta": "Sustento\nEn la sección de Conclusiones y recomendaciones el autor indica que la efectividad de la IA requiere (1) invertir en redes de banda ancha en zonas rurales, (2) diseñar programas de formación continua para docentes y (3) desarrollar políticas de protección de datos, señalando que la combinación de estos elementos es esencial para lograr un impacto positivo.",
+    "resumen": "La perspectiva futura es combinar conectividad rural, formación docente y políticas de datos."
+  },
+  {
+    "id": 25,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 25: Del análisis presentado, se desprende que todas las metodologías basadas en IA descritas comparten como objetivo principal…",
+    "respuesta": "Sustento\nA lo largo del artículo, cada metodología de IA se presenta como medio para adaptar la instrucción al estudiante: el tutor virtual de la UCB mejoró las calificaciones al ofrecer rutas de estudio personalizadas; la analítica de aprendizaje del proyecto Alerta Escolar detectó riesgos temprano para proporcionar apoyos individualizados; y la realidad aumentada del proyecto Química en 3D ajustó la simulación según las respuestas del alumno, facilitando una comprensión personalizada. Estos ejemplos evidencian que la meta común es la personalización del aprendizaje.",
+    "resumen": "Todas buscan lo mismo: personalizar el aprendizaje."
+  },
+  {
+    "id": 26,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 26: La lectura del texto permite identificar que, si se amplía el uso de la analítica de aprendizaje basada en IA en los colegios bolivianos, ¿qué es probable que ocurra?",
+    "respuesta": "Sustento\nEl proyecto Alerta Escolar en Tarija, donde la analítica de aprendizaje identificó a estudiantes en riesgo y, tras recibir intervenciones personalizadas, el 67% continuó sus estudios. Esa evidencia sugiere que, al replicar el mismo proceso a mayor escala, es razonable predecir una disminución de la tasa de deserción escolar en los colegios que adopten dicha tecnología.",
+    "resumen": "Si se amplía, es probable que baje la deserción escolar."
+  },
+  {
+    "id": 27,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 27: De acuerdo con el texto, ¿qué conclusión puede extraerse sobre el papel de la pandemia de COVID 19 en la incorporación de la inteligencia artificial en la educación boliviana?",
+    "respuesta": "Sustento\nLa conclusión correcta se basa en dos pasajes del artículo: la Introducción indica que “la pandemia de COVID 19 aceleró la digitalización de la educación en América Latina; según el informe de la UNESCO (2022), el 78% de los países de la región utilizó plataformas en línea para la continuidad pedagógica”, y la sección de desafíos señala que la infraestructura todavía es limitada, por lo que la adopción de IA depende de esa aceleración digital. Así, se infiere que la pandemia fungió como catalizador que permitió a Bolivia integrar la IA siguiendo la tendencia regional.",
+    "resumen": "La pandemia aceleró la digitalización y actuó como catalizador para adoptar IA."
+  },
+  {
+    "id": 28,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 28: Según el artículo, ¿qué es probable que ocurra si el gobierno de Bolivia implementa programas de capacitación docente en alfabetización digital avanzada y, al mismo tiempo, amplía la conectividad de banda ancha en áreas rurales?",
+    "respuesta": "Sustento\nLa principal limitación para una adopción uniforme de IA es la desigualdad de conectividad (38% de hogares rurales con banda ancha vs. 71% urbanos) y la falta de capacitación docente (solo 22% con alfabetización digital avanzada). En la sección de conclusiones se recomienda invertir en redes de banda ancha rurales y formar a los docentes; al combinar ambas medidas se espera reducir la brecha de acceso a tecnologías basadas en IA y, por ende, mejorar la equidad educativa.",
+    "resumen": "Si se hace ambas cosas, bajará la brecha de acceso y mejorará la equidad educativa."
+  },
+  {
+    "id": 29,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 29: A partir de lo expuesto en el artículo, ¿cuál sería la consecuencia probable si un sistema de IA no ajusta la complejidad de los ejercicios al nivel de desarrollo próximo del estudiante?",
+    "respuesta": "Sustento\nEl artículo explica que los sistemas de IA deben estimar la zona de desarrollo próximo y ajustar la complejidad de los ejercicios (párrafo ‘Fundamentos neurocientíficos del aprendizaje personalizado’). Cuando la tarea se alinea con esa zona, se maximiza la plasticidad sináptica sin saturar la carga cognitiva, favoreciendo la retención a largo plazo. Por lo tanto, si el sistema no realiza ese ajuste, la carga cognitiva aumentará, lo que según la teoría de Sweller (2019) disminuye el rendimiento y la transferencia de conocimientos.",
+    "resumen": "Si no ajusta, sube la carga cognitiva y baja el rendimiento y la transferencia."
+  },
+  {
+    "id": 30,
+    "clasificacion": "ia_educacion",
+    "pregunta": "Pregunta 30: A partir de lo expuesto en el artículo, ¿qué tipo de evidencia adicional sería necesaria para reforzar la afirmación de que la IA reducirá las brechas sociales en la educación boliviana?",
+    "respuesta": "Sustento\nEl artículo indica que la IA puede ayudar a cerrar brechas, pero la evidencia presentada se limita a estudios piloto y datos puntuales (p. ej., mejora en matemática de una escuela, reducción de deserción en Tarija). Para validar que esas mejoras se traducen en una reducción de brechas sociales a nivel nacional, se requerirían estudios longitudinales que midan, a lo largo del tiempo, cómo cambian desempeño y deserción en poblaciones rurales y urbanas antes y después de la adopción de la IA",
+    "resumen": "Se necesitan estudios longitudinales (rural vs urbana) antes y después para probar reducción de brechas."
+  }
+]
