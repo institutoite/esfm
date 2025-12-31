@@ -1,3 +1,20 @@
+// Ocultar el header al hacer scroll hacia abajo y mostrarlo al subir
+let lastScrollY = window.scrollY;
+let topbar = document.querySelector('.topbar');
+window.addEventListener('scroll', function() {
+  if (!topbar) topbar = document.querySelector('.topbar');
+  if (!topbar) return;
+  if (window.scrollY > lastScrollY && window.scrollY > 60) {
+    // Scroll hacia abajo, ocultar
+    topbar.style.transform = 'translateY(-100%)';
+    topbar.style.transition = 'transform 0.3s';
+  } else {
+    // Scroll hacia arriba, mostrar
+    topbar.style.transform = 'translateY(0)';
+    topbar.style.transition = 'transform 0.3s';
+  }
+  lastScrollY = window.scrollY;
+});
 // Reproducir texto con voz (SpeechSynthesis)
 function playText(text) {
   if (!window.speechSynthesis) {
